@@ -9,8 +9,8 @@ collections:
     label: "Block"
     folder: "content/blocks"
     create: true
-    slug: "{{slug}}"
-    path: "{{fields.title}}/index"
+    path: '{{slug}}/index'
+    identifier_field: title
     editor:
       preview: true
     fields:
