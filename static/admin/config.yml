@@ -54,13 +54,15 @@ collections:
           - "Time Management"
           - "Employability"
         required: true
-      - {
-          label: "Learning Objectives",
-          name: "objectives",
-          widget: "list",
-          allow_add: true,
-          required: true,
-        }
+      - label: "Learning Objectives"
+        name: "objectives"
+        widget: "list"
+        allow_add: true
+        required: true
+        field:
+          label: "Objective"
+          name: "objective"
+          widget: "string"
       - { label: "Time", name: "time", widget: "number", required: true }
       - { label: "Prep", name: "prep", widget: "markdown", required: true }
       - {
