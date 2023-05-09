@@ -9,8 +9,7 @@ collections:
     label: "Block"
     folder: "content/blocks"
     create: true
-    path: '{{slug}}/index'
-    identifier_field: title
+    path: "{{slug}}/readme"
     editor:
       preview: true
     fields:
