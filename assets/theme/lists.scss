@@ -20,3 +20,16 @@ ul.modules {
     margin-bottom: 0.5em;
   }
 }
+
+dl {
+  display: flex;
+  flex-flow: row wrap;
+  dt {
+    font-weight: bold;
+    width: 10ch;
+  }
+  dd {
+    width: calc(100% - 10ch);
+    margin: 0;
+  }
+}
