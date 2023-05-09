@@ -1,4 +1,4 @@
-# CYF-Signposts
+# CYF PD 
 
 This is a Hugo static site with a Netlify CMS made available on /admin. It's an invite only account system to use the CMS. Talk to PD to get an invitation.
 
