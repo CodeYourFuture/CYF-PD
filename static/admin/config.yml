@@ -7,9 +7,10 @@ collections:
   - name: "blocks"
     identifier_field: toml
     label: "Block"
-    folder: "content/blocks/{{fields.title}}"
+    folder: "content/blocks"
     create: true
-    slug: "README"
+    slug: "{{slug}}"
+    path: "{{fields.title}}/index"
     editor:
       preview: true
     fields:
