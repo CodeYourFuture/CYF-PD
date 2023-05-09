@@ -1,19 +1,38 @@
-{{ define "main" }} {{$module := .Params.Modules}} {{ $week := .Params.Week }}
+{{ define "main" }} {{ $paramsSubset := slice (dict "name" "Module" "value"
+.Params.Module) (dict "name" "Skill" "value" .Params.Skill) (dict "name"
+"Minutes" "value" .Params.Time) }}
+
 <article>
   <header class="page-header">
+    {{ partial "breadcrumbs.html" .}}
     <h1 class="page-header__title">{{.Title}}</h1>
-    {{if $module}}
-    <h2 class="page-header__module">
-      Module: {{delimit $module " | "}} {{if $week}}
-      <span class="page-header__week">Week {{$week}}</span>
-      {{end}}
-    </h2>
-    {{end}} {{with .Params.Skills}}
-    <h3 class="page-header__skills">Skill {{delimit . " | "}}</h3>
-    {{end}}
+    {{ partial "definition-list.html" (dict "context" $paramsSubset) }}
   </header>
 
   <section class="copy">{{.Content}}</section>
+
+  {{ with .Params.objectives }}
+  <h3>Objectives</h3>
+  <ul>
+    {{ range $key, $value := . }}
+    <li>{{ $value | markdownify }}</li>
+    {{ end }}
+  </ul>
+  {{ end }} {{ with .Params.prep }}
+  <h3>Preparation</h3>
+  {{ . | markdownify }} {{ end }} {{ with .Params.introduction }}
+  <h3>Introduction</h3>
+  {{ . | markdownify }} {{ end }} {{ with .Params.exercises }}
+  <h3>Exercises</h3>
+    {{ range . }}
+    <section class="c-exercise">
+      <h4>{{ .name }} ({{ .time }} minutes)</h4>
+      <p>Goal: {{ .goal | markdownify }}</p>     
+      {{ .content | markdownify }}</p>
+    </section>
+    {{ end }}
+  </ul>
+  {{ end }}
 </article>
 
 {{ end }}

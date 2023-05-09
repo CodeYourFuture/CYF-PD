@@ -3,9 +3,10 @@
 <details data-skills='{{ delimit $skills " | " }}'>
   <summary>
     <h4>
-      {{ $block }} {{with .Params.Link}}<a href="{{.}}"
+      {{ $block }}
+      <a href="{{.Permalink}}"
         >🔗<span class="is-invisible">to {{$block}} block</span></a
-      >{{end}}
+      >
     </h4>
   </summary>
   {{ with .Params.Description}}

@@ -1,0 +1,7 @@
+{{$list := .context}}
+<dl>
+  {{ range $list}}
+  <dt>{{ .name }}</dt>
+  <dd>{{ .value }}</dd>
+  {{ end }}
+</dl>
