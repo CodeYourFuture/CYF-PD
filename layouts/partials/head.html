@@ -19,11 +19,8 @@
       media="print"
       onload="this.media='all'"
     />
-    <!-- 7kb -->
-    <style>
-      {{ $sass := resources.Match "theme/**.scss" | resources.Concat "styles.css" }}
-      {{ $style := $sass | toCSS | minify | fingerprint "md5" }}
-      {{ $style.Content | safeCSS }}
-    </style>
+    {{ $sass := resources.Match "theme/**.scss" | resources.Concat "styles.css"
+    }} {{ $style := $sass | toCSS | minify }}
+    <link href="{{$style.Permalink}}" rel="stylesheet" />
   </head>
 </html>
