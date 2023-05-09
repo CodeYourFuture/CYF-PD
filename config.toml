@@ -1,0 +1,22 @@
+baseURL = 'https://cyf-pd.netlify.app/'
+title = 'CYF PD'
+languageCode = "en-gb"
+
+[params]
+description = "Professional Development at CYF"
+repo = "https://github.com/CodeYourFuture/CYF-PD"
+modules = [
+    "Fundamentals",
+    "HTML-CSS",
+    "JS1",
+    "JS2",
+    "JS3",
+    "React",
+    "Node",
+    "Databases",
+    "Final Projects",
+]
+
+[taxonomies]
+series = "skills"
+tags = "modules"

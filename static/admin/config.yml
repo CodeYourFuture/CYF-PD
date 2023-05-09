@@ -1,0 +1,84 @@
+backend:
+  name: git-gateway
+  branch: main
+media_folder: static/img
+public_folder: /img
+collections:
+  - name: "blocks"
+    identifier_field: toml
+    label: "Block"
+    folder: "content/blocks/{{fields.title}}"
+    create: true
+    slug: "README"
+    editor:
+      preview: true
+    fields:
+      - { label: "Title", name: "title", widget: "string", required: true }
+      - {
+          label: "Description",
+          name: "description",
+          widget: "string",
+          required: true,
+        }
+      - label: "Module"
+        name: "module"
+        widget: "select"
+        options:
+          - "Fundamentals"
+          - "HTML-CSS"
+          - "JS1"
+          - "JS2"
+          - "JS3"
+          - "React"
+          - "Node"
+          - "Databases"
+          - "Final Projects"
+        required: true
+      - label: "Week"
+        name: "week"
+        widget: "select"
+        options:
+          - "1"
+          - "2"
+          - "3"
+          - "4"
+        required: true
+      - label: "Skill"
+        name: "skill"
+        widget: "select"
+        options:
+          - "Professional Basics"
+          - "Confidence"
+          - "Communication"
+          - "Time Management"
+          - "Employability"
+        required: true
+      - {
+          label: "Learning Objectives",
+          name: "objectives",
+          widget: "list",
+          allow_add: true,
+          required: true,
+        }
+      - { label: "Time", name: "time", widget: "number", required: true }
+      - { label: "Prep", name: "prep", widget: "markdown", required: true }
+      - {
+          label: "Introduction",
+          name: "introduction",
+          widget: "markdown",
+          required: true,
+        }
+      - label: "Exercises"
+        name: "exercises"
+        widget: "list"
+        fields:
+          - { label: "Name", name: "name", widget: "string", required: true }
+          - { label: "Time", name: "time", widget: "number", required: true }
+          - { label: "Goal", name: "goal", widget: "string", required: true }
+          - {
+              label: "Content",
+              name: "content",
+              widget: "markdown",
+              required: true,
+            }
+        required: true

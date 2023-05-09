@@ -1,0 +1,19 @@
+{{ define "main" }} {{$module := .Params.Modules}} {{ $week := .Params.Week }}
+<article>
+  <header class="page-header">
+    <h1 class="page-header__title">{{.Title}}</h1>
+    {{if $module}}
+    <h2 class="page-header__module">
+      Module: {{delimit $module " | "}} {{if $week}}
+      <span class="page-header__week">Week {{$week}}</span>
+      {{end}}
+    </h2>
+    {{end}} {{with .Params.Skills}}
+    <h3 class="page-header__skills">Skill {{delimit . " | "}}</h3>
+    {{end}}
+  </header>
+
+  <section class="copy">{{.Content}}</section>
+</article>
+
+{{ end }}

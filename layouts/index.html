@@ -1,0 +1,31 @@
+{{ define "main" }} {{ .Content }}
+<!-- get all the pages -->
+{{ $baseURL := .Site.BaseURL }} {{ $blocks := .Site.RegularPages }} {{ $skills
+:= .Site.Taxonomies.skills }} {{ $modules := .Site.Params.modules }}
+
+<!-- range over the fixed modules list in the site config, order them by the page param "week" and show them using this template -->
+{{ range $name := $modules }}
+<details>
+  <summary>
+    <h3>
+      <a href="{{ $baseURL }}modules/{{ $name | urlize }}">{{ $name }}</a>
+    </h3>
+  </summary>
+  <ol>
+    {{ $moduleBlocks := (where $blocks ".Params.modules" "intersect" (slice
+    $name)) }} {{ range $moduleBlocks.ByParam "week" }}
+    <li>
+      <a href="{{ $baseURL }}{{ .RelPermalink }}">
+        <h4>{{ .Title }}</h4>
+        <p>
+          {{ range .Params.skills }}
+          <a href="{{ $baseURL }}skills/{{. | urlize}}">{{ . }}</a>
+          {{ end }}
+        </p>
+      </a>
+    </li>
+    {{ end }}
+  </ol>
+</details>
+
+{{ end }} {{ end }}

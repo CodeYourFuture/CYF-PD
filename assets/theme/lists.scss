@@ -1,0 +1,22 @@
+// if it has a class we presume it's styled
+ul[class],
+li[class] {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+ul.skills {
+  padding-left: var(--theme-spacing--gutter);
+  li {
+    list-style-type: "🎯    ";
+    margin-bottom: 0.5em;
+  }
+}
+ul.modules {
+  padding-left: var(--theme-spacing--gutter);
+  li {
+    list-style-type: "🧩   ";
+    margin-bottom: 0.5em;
+  }
+}

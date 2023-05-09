@@ -1,0 +1,24 @@
+{{ $skills := slice }} {{ range .Params.Skills }} {{ $skills = $skills | append
+(replace . " " "-") }} {{ end }} {{$block := .Title}}
+<details data-skills='{{ delimit $skills " | " }}'>
+  <summary>
+    <h4>
+      {{ $block }} {{with .Params.Link}}<a href="{{.}}"
+        >🔗<span class="is-invisible">to {{$block}} block</span></a
+      >{{end}}
+    </h4>
+  </summary>
+  {{ with .Params.Description}}
+  <h5>{{.}}</h5>
+  {{end}}
+  <div class="copy">
+    <!-- content-->
+    {{ .Content}}
+    <!-- end content-->
+  </div>
+  {{ with .Params.Link}}
+  <h5>
+    <a class="button button--submit" href="{{.}}">{{$block}}</a>
+  </h5>
+  {{end}}
+</details>
