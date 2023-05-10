@@ -1,9 +1,10 @@
 ---
 title: testing again
 description: Still working out the kinks
-module: Node
+modules: Node
 week: "2"
-skill: Communication
+skills:
+  - Communication
 objectives:
   - Create a working post
 time: 30
@@ -35,7 +36,8 @@ exercises:
   - name: lorem
     time: 20
     goal: ipsum
-    content: orem ipsum dolor sit amet, consectetur adipiscing elit. Duis commodo
+    content:
+      orem ipsum dolor sit amet, consectetur adipiscing elit. Duis commodo
       ipsum fringilla tellus faucibus, et facilisis elit fermentum. Vestibulum
       pharetra aliquet nibh, ut gravida ante blandit eget. Curabitur ultricies
       nulla vitae diam porttitor fermentum. Mauris neque felis, lacinia ut velit
