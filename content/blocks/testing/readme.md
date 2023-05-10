@@ -1,6 +1,8 @@
 ---
-title: testing again
 description: Still working out the kinks
+modules: Fundamentals
+week: "2"
+skills: Confidence
 module:
   - Fundamentals
   - HTML-CSS
@@ -11,10 +13,7 @@ module:
   - Node
   - Databases
   - Final Projects
-week: "2"
-skill: Communication
-objectives:
-  - Create a working post
+title: testing again
 time: 30
 prep: orem ipsum dolor sit amet, consectetur adipiscing elit. Duis commodo ipsum
   fringilla tellus faucibus, et facilisis elit fermentum. Vestibulum pharetra
@@ -28,6 +27,9 @@ prep: orem ipsum dolor sit amet, consectetur adipiscing elit. Duis commodo ipsum
   efficitur est. Morbi vitae tristique est. Maecenas id felis vel odio eleifend
   suscipit. Fusce vel diam tortor. In hendrerit ligula in urna lacinia
   imperdiet.
+skill: Communication
+objectives:
+  - Create a working post
 introduction: orem ipsum dolor sit amet, consectetur adipiscing elit. Duis
   commodo ipsum fringilla tellus faucibus, et facilisis elit fermentum.
   Vestibulum pharetra aliquet nibh, ut gravida ante blandit eget. Curabitur
@@ -44,8 +46,7 @@ exercises:
   - name: lorem
     time: 20
     goal: ipsum
-    content:
-      orem ipsum dolor sit amet, consectetur adipiscing elit. Duis commodo
+    content: orem ipsum dolor sit amet, consectetur adipiscing elit. Duis commodo
       ipsum fringilla tellus faucibus, et facilisis elit fermentum. Vestibulum
       pharetra aliquet nibh, ut gravida ante blandit eget. Curabitur ultricies
       nulla vitae diam porttitor fermentum. Mauris neque felis, lacinia ut velit
