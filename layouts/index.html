@@ -1,8 +1,10 @@
-{{ define "main" }} {{ .Content }}
-<!-- get all the pages -->
-{{ $baseURL := .Site.BaseURL }} {{ $blocks := .Site.RegularPages }} {{ $skills
-:= .Site.Taxonomies.skills }} {{ $modules := .Site.Params.modules }}
+{{ define "main" }}
+<section class="copy">{{.Content}}</section>
 
+<!-- get all the pages -->
+{{ $baseURL := .Site.BaseURL }} {{ $blocks := .Site.Pages }} {{ $skills :=
+.Site.Taxonomies.skills }} {{ $modules := .Site.Params.modules }}
+<h2 class="is-invisible">List of Links to all content organised by module</h2>
 <!-- range over the fixed modules list in the site config, order them by the page param "week" and show them using this template -->
 {{ range $name := $modules }}
 <details>
@@ -11,7 +13,7 @@
       <a href="{{ $baseURL }}modules/{{ $name | urlize }}">{{ $name }}</a>
     </h3>
   </summary>
-  <ol>
+  <ol class="blocks">
     {{ $moduleBlocks := (where $blocks ".Params.modules" "intersect" (slice
     $name)) }} {{ range $moduleBlocks.ByParam "week" }}
     <li>
@@ -19,7 +21,11 @@
         <h4>{{ .Title }}</h4>
         <p>
           {{ range .Params.skills }}
-          <a href="{{ $baseURL }}skills/{{. | urlize}}">{{ . }}</a>
+          <a
+            class="button button--small"
+            href="{{ $baseURL }}skills/{{. | urlize}}"
+            >{{ . }}</a
+          >
           {{ end }}
         </p>
       </a>

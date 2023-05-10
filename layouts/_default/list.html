@@ -6,12 +6,8 @@
 </header>
 
 {{ with .Content }}
-<article class="copy">{{.}}</article>
+<section class="copy">{{.}}</section>
 {{end}}
-
-   {{ range (.Pages.ByParam "week")}}
-    {{ partial "details.html" . }}
-  {{ end }}
-</article>
-
-{{ end}}
+<h3 class="is-invisible">List of Links shown as accordions</h3>
+{{ range (.Pages.ByParam "week")}} {{ partial "details.html" . }} {{ end }} {{
+end}}

@@ -1,7 +1,7 @@
 {{$list := .context}}
 <dl>
   {{ range $list}}
-  <dt>{{ .name }}</dt>
-  <dd>{{ .value }}</dd>
+  <dt>{{ .name}}</dt>
+  <dd><code>{{ .value }}</code></dd>
   {{ end }}
 </dl>

@@ -1,7 +1,7 @@
 {{ define "main" }}
 <header class="page-header">
   {{ partial "breadcrumbs.html" . }}
-  <h1 class="page-header__title">🧩 {{.Title}}</h1>
+  <h1 class="page-header__title">{{ if eq .Section "skills" }}🎯 {{ else }}🧩 {{ end}} {{.Title}}</h1>
   <h2 class="page-header__description heading__5">{{.Description}}</h2>
 </header>
 

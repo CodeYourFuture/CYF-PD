@@ -1,37 +1,47 @@
 {{ define "main" }} {{ $paramsSubset := slice (dict "name" "Module" "value"
-.Params.Module) (dict "name" "Skill" "value" .Params.Skill) (dict "name"
+.Params.Modules) (dict "name" "Skill" "value" .Params.Skills) (dict "name"
 "Minutes" "value" .Params.Time) }}
 
 <article>
   <header class="page-header">
     {{ partial "breadcrumbs.html" .}}
     <h1 class="page-header__title">{{.Title}}</h1>
-    {{ partial "definition-list.html" (dict "context" $paramsSubset) }}
+    {{if gt (len $paramsSubset) 0 }}{{ partial "definition-list.html" (dict
+    "context" $paramsSubset) }}{{end}}
   </header>
 
   <section class="copy">{{.Content}}</section>
 
   {{ with .Params.objectives }}
-  <h3>Objectives</h3>
-  <ul>
-    {{ range $key, $value := . }}
-    <li>{{ $value | markdownify }}</li>
-    {{ end }}
-  </ul>
+  <section class="copy">
+    <h3>Learning Objectives</h3>
+    <ul class="objectives">
+      {{ range $key, $value := . }}
+      <li>{{ $value | markdownify }}</li>
+      {{ end }}
+    </ul>
+  </section>
   {{ end }} {{ with .Params.prep }}
-  <h3>Preparation</h3>
-  {{ . | markdownify }} {{ end }} {{ with .Params.introduction }}
-  <h3>Introduction</h3>
-  {{ . | markdownify }} {{ end }} {{ with .Params.exercises }}
-  <h3>Exercises</h3>
+  <section class="copy">
+    <h3>Preparation</h3>
+    {{ . | markdownify }}
+  </section>
+  {{ end }} {{ with .Params.introduction }}
+  <section class="copy">
+    <h3>Introduction</h3>
+    {{ . | markdownify }}
+  </section>
+  {{ end }} {{ with .Params.exercises }}
+  <section class="copy">
+    <h3>Exercises</h3>
     {{ range . }}
-    <section class="c-exercise">
+    <section class="exercise">
       <h4>{{ .name }} ({{ .time }} minutes)</h4>
-      <p>Goal: {{ .goal | markdownify }}</p>     
-      {{ .content | markdownify }}</p>
+      <p><strong>Goal: </strong>{{ .goal | markdownify }}</p>
+      {{ .content | markdownify }}
     </section>
     {{ end }}
-  </ul>
+  </section>
   {{ end }}
 </article>
 
