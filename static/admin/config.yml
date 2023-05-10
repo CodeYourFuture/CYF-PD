@@ -21,7 +21,7 @@ collections:
           required: true,
         }
       - label: "Module"
-        name: "module"
+        name: "modules"
         widget: "select"
         options:
           - "Fundamentals"
@@ -44,7 +44,7 @@ collections:
           - "4"
         required: true
       - label: "Skill"
-        name: "skill"
+        name: "skills"
         widget: "select"
         options:
           - "Professional Basics"
