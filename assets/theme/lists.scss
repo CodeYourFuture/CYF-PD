@@ -1,24 +1,23 @@
 // if it has a class we presume it's styled
 ul[class],
-li[class] {
-  padding: 0;
-  margin: 0;
+ol[class] {
+  padding-left: var(--theme-spacing--gutter);
+  margin: 0 0 0.5em 0;
   list-style: none;
 }
-
-ul.skills {
-  padding-left: var(--theme-spacing--gutter);
-  li {
-    list-style-type: "🎯    ";
-    margin-bottom: 0.5em;
-  }
+[class] li {
+  padding: 0;
+  margin: 0 0 0.5em 0;
 }
-ul.modules {
-  padding-left: var(--theme-spacing--gutter);
-  li {
-    list-style-type: "🧩   ";
-    margin-bottom: 0.5em;
-  }
+.skills li {
+  list-style-type: "🎯    ";
+}
+.modules li,
+.blocks li {
+  list-style-type: "🧩   ";
+}
+.objectives li {
+  list-style-type: "✅   ";
 }
 
 dl {

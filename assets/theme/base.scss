@@ -46,8 +46,15 @@ a:visited {
   }
 }
 
+code,
+tt,
+kbd {
+  font-family: var(--theme-font--system);
+}
+
 .copy {
   max-width: var(--theme-spacing--linelength);
+  margin-bottom: var(--theme-spacing--gutter);
   a:any-link {
     text-decoration: dotted underline;
   }
