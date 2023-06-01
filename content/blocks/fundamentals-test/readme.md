@@ -52,7 +52,7 @@ exercises:
       **P﻿art 4**
 
 
-      * Discuss what this exercise shows?
+      * Discuss what have you learned with this exercise?
 
       * Define what are hard (technical) skills and soft (professional) skills?
 
