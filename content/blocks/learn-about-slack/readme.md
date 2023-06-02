@@ -19,7 +19,9 @@ exercises:
     content: >-
       * Research Slack and its benefits
 
-      * Watch this video about Slack Etiquette for our community.
+      * This link talks about interesting tips of [how to use Slack](https://dispatch.m.io/slack-etiquette/)
+
+      * Watch this video about Slack Etiquette for our community
 
       * Read this text about [replying in a thread](https://docs.codeyourfuture.io/trainees/guides/common-responses/reply-in-thread)
 
