@@ -7,7 +7,7 @@ skills: Professional Basics
 objectives:
   - Actively use Slack 3 times per week to work with peers and community + Reply
     to one question a week on any public CYF Slack channels.
-time: 45
+time: 5
 prep: Everyone has to have their laptops up and running and connected to the
   internet.
 introduction: >-
@@ -50,7 +50,7 @@ exercises:
 
       * Every trainee must reply to it - this exercise only finished is we have the number of replies equals the number of trainees in the class!
   - name: Emojis express a lot
-    time: 11
+    time: 15
     goal: Understand the emojis meaning
     content: >-
       In pairs play the Emoji communication game. 
