@@ -31,6 +31,6 @@ exercises:
 
       This will the rota of the daily messages to be posted on Slack by that person. You have more information about it on your Coursework.
     name: This is our Slack Rota spreadsheet
-    time: 9
+    time: 10
     goal: Have 1 shared file in which trainees can organise the Slack rota
 ---
