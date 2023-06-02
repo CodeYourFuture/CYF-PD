@@ -50,7 +50,7 @@ exercises:
 
       * Every trainee must reply to it - this exercise only finished is we have the number of replies equals the number of trainees in the class!
   - name: Emojis express a lot
-    time: 15
+    time: 10
     goal: Understand the emojis meaning
     content: >-
       In pairs play the Emoji communication game. 
