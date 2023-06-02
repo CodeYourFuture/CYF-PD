@@ -25,5 +25,7 @@ exercises:
 
       * Read this text about [replying in a thread](https://docs.codeyourfuture.io/trainees/guides/common-responses/reply-in-thread)
 
+      * A﻿nd learn [how to organise your sidebar](https://slack.com/intl/en-gb/help/articles/360043207674-Organise-your-sidebar-with-customised-sections)
+
       * M﻿ake a list of any questions you have, so you can discuss it with your team members
 ---
