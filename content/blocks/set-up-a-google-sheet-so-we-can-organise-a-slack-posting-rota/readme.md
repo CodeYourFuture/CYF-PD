@@ -7,7 +7,7 @@ week: "2"
 skills: Professional Basics
 objectives:
   - "Create a file using Google suite and share with your peers "
-time: 15
+time: -2
 prep: O﻿ne trainee must volunteer to create the Google Sheet.
 introduction: Knowing how Google Sheets work is important as it enables
   efficient data organisation, analysis, and collaboration, enhancing
@@ -31,6 +31,6 @@ exercises:
 
       This will the rota of the daily messages to be posted on Slack by that person. You have more information about it on your Coursework.
     name: This is our Slack Rota spreadsheet
-    time: 10
+    time: 9
     goal: Have 1 shared file in which trainees can organise the Slack rota
 ---
