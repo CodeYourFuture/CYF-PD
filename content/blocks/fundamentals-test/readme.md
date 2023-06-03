@@ -4,7 +4,7 @@ description: Highlighting the importance of professional development in order to
   get a tech job
 modules: Fundamentals
 week: "1"
-skills: Professional Basics
+skills: ["Professional Basics"]
 objectives: []
 time: 40
 prep: >-

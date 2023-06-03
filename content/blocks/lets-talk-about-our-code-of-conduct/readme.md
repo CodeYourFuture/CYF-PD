@@ -4,7 +4,7 @@ description: A quick exercise to ensure we are all aware of our Code of Conduct
   and the importance of it for our community.
 modules: Fundamentals
 week: "1"
-skills: Professional Basics
+skills: ["Professional Basics"]
 objectives:
   - Use the Code of Conduct to ensure we have a safe community
 time: 20
@@ -21,6 +21,7 @@ exercises:
       able to do this interactive work.
     name: Let's talk Code of Conduct
     time: 20
-    goal: Understand the importance of knowing and acting accordingly to the Code of
+    goal:
+      Understand the importance of knowing and acting accordingly to the Code of
       Conduct of any enterprise
 ---
