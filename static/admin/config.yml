@@ -46,12 +46,16 @@ collections:
       - label: "Skill"
         name: "skills"
         widget: "select"
+        multiple: true
         options:
-          - "Professional Basics"
           - "Confidence"
           - "Communication"
-          - "Time Management"
           - "Employability"
+          - "English Language"
+          - "Problem Solving"
+          - "Professional Basics"
+          - "Time/Project Management"
+          - "Teamwork"
         required: true
       - label: "Learning Objectives"
         name: "objectives"
