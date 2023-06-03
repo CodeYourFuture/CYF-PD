@@ -3,7 +3,8 @@ title: Trigger Readme Test
 description: I want to access the github readme api
 modules: JS3
 week: "2"
-skills: Confidence
+skills:
+  - Confidence
 objectives:
   - pull through and parse from base64 blob
 time: 30

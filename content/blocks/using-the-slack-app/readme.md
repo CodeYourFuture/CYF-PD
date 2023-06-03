@@ -3,7 +3,7 @@ title: Using the Slack app
 description: In this session we will practice using Slack in the cohort.
 modules: Fundamentals
 week: "2"
-skills: Professional Basics
+skills: ["Professional Basics"]
 objectives:
   - Actively use Slack 3 times per week to work with peers and community + Reply
     to one question a week on any public CYF Slack channels.
@@ -19,7 +19,8 @@ introduction: >-
 exercises:
   - name: Let's share our knowledge about Slack
     time: 15
-    goal: Identify who is already Slack savvy and could support the other trainees
+    goal:
+      Identify who is already Slack savvy and could support the other trainees
       in their learning journey
     content: >-
       Trainees should discuss the below questions about Slack and how to use it,

@@ -4,7 +4,7 @@ description: Learning to use Google Sheet so the cohort can organise their rota
   for the coursework
 modules: Fundamentals
 week: "2"
-skills: Professional Basics
+skills: ["Professional Basics"]
 objectives:
   - "Create a file using Google suite and share with your peers "
 time: 0

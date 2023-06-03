@@ -4,10 +4,9 @@ description: All agreements that must be read and agreed to must be done before
   the first Fundamentals lesson
 modules: Fundamentals
 week: "1"
-skills: Professional Basics
+skills: ["Professional Basics"]
 objectives:
-  - Agree on all terms and rules to be part of Code Your FutureAgree on all
-    terms and rules to be part of Code Your Future
+  - Agree on all terms and rules to be part of Code Your Future
 time: 5
 prep: N﻿/A
 introduction: Agreements are important because they establish clear expectations
