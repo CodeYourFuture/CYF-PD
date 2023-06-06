@@ -3,7 +3,8 @@ title: Learn about Slack
 description: Preparation of the Slack class to ensure you have some knoweldge
 modules: Fundamentals
 week: "2"
-skills: ["Professional Basics"]
+skills:
+  - Professional Basics
 objectives:
   - Actively use Slack 3 times per week to work with peers and community + Reply
     to one question a week on any public CYF Slack channels.
@@ -21,7 +22,7 @@ exercises:
 
       * This link talks about interesting tips of [how to use Slack](https://dispatch.m.io/slack-etiquette/)
 
-      * Watch this video about Slack Etiquette for our community
+      * Watch [this video](https://app.wowto.ai/link/MgDFclxInpb&autolocale=true) about Slack Etiquette for our community
 
       * Read this text about [replying in a thread](https://docs.codeyourfuture.io/trainees/guides/common-responses/reply-in-thread)
 
