@@ -1,6 +1,6 @@
 ---
 title: Learn about Slack
-description: Preparation of the Slack class to ensure you have some knoweldge
+description: Preparation for the Slack class to ensure you have some knowledge
 modules: Fundamentals
 week: "2"
 skills:
