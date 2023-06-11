@@ -21,7 +21,7 @@ prep: >-
   **Online:**
 
 
-  *  Interactive whiteboard
+  * Interactive whiteboard
 
   * [Slide deck](https://docs.google.com/presentation/d/1Kti5KVzY9GGJ9rNU8Ye0G5eRNJo1S_qAzbTO1DosOnU/edit?usp=sharing)
 introduction: F﻿or this exercise, you will work with your whole cohort. Make
@@ -52,9 +52,9 @@ exercises:
       **P﻿art 4**
 
 
-      * Discuss what have you learned with this exercise?
+      * Discuss what have you learned with this exercise.
 
-      * Define what are hard (technical) skills and soft (professional) skills?
+      * Define what are hard (technical) skills and soft (professional) skills.
 
       * Are the soft skills really soft?
 
