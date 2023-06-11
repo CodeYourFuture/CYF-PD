@@ -44,15 +44,15 @@ exercises:
       * Why should we avoid using private messaging?
   - name: Let's practice using a thread
     time: 10
-    goal: Everyone to actively using Slack and replying in a thread
+    goal: For everyone to actively use Slack and reply in a thread
     content: >-
       * O﻿ne trainee posts something on the cohort Slack (for example, do you
       like Slack? or What is your favourite colour?)
 
-      * Every trainee must reply to it - this exercise only finished is we have the number of replies equals the number of trainees in the class!
+      * Every trainee must reply to it - this exercise is only finished if we have the same number of replies as the number of trainees in the class!
   - name: Emojis express a lot
     time: 10
-    goal: Understand the emojis meaning
+    goal: Understand the meaning of emojis
     content: >-
       In pairs play the Emoji communication game. 
 

@@ -9,7 +9,7 @@ objectives:
   - Use Slack 3 times per week to work with peers and community
   - Reply to one question a week on any public CYF Slack channels.
 time: 30
-prep: You need internet to search for some things
+prep: You need to use the internet to search for some things.
 introduction: S﻿lack is the main collaboration tool within our community and
   also within tech companies. This means you have to know it for your future job
   in tech.
