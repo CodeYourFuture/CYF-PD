@@ -3,6 +3,7 @@ title: Population Block
 description: Create all the skills and modules
 modules:
   - Fundamentals
+  - Induction
   - HTML-CSS
   - JS1
   - JS2
@@ -56,7 +57,8 @@ exercises:
   - name: lorem
     time: 20
     goal: ipsum
-    content: orem ipsum dolor sit amet, consectetur adipiscing elit. Duis commodo
+    content:
+      orem ipsum dolor sit amet, consectetur adipiscing elit. Duis commodo
       ipsum fringilla tellus faucibus, et facilisis elit fermentum. Vestibulum
       pharetra aliquet nibh, ut gravida ante blandit eget. Curabitur ultricies
       nulla vitae diam porttitor fermentum. Mauris neque felis, lacinia ut velit
