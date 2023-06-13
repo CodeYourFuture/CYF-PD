@@ -8,7 +8,7 @@ skills:
   - Professional Basics
 objectives:
   - "Create a file using Google suite and share with your peers "
-time: 0
+time: 15
 prep: O﻿ne trainee must volunteer to create the Google Sheet.
 introduction: Knowing how Google Sheets work is important as it enables
   efficient data organisation, analysis, and collaboration, enhancing
