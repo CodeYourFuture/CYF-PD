@@ -8,7 +8,7 @@ skills:
 objectives:
   - Agree with the goals and expectations of the Code Your Future Software
     Development Course
-time: 118
+time: 90
 prep: >-
   Review the
   [presentation](https://docs.google.com/presentation/d/1QnYlp5tZF9vn7tJqtu0wrBO8_qNtqZdXqeQJ6dPQuHY/edit?usp=sharing)
@@ -27,7 +27,7 @@ introduction: >-
   I﻿n order to achieve this, we have expectations of every trainee, and you will probably also have expectations about CYF. So we are now doing some exercises to align them.
 exercises:
   - name: Goals and expectations presentation and exercise
-    time: 100
+    time: 80
     content: O﻿pen [this
       presentation](https://docs.google.com/presentation/d/1QnYlp5tZF9vn7tJqtu0wrBO8_qNtqZdXqeQJ6dPQuHY/edit?usp=sharing)
       and follow the slides
