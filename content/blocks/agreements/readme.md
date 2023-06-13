@@ -8,7 +8,7 @@ skills:
   - Professional Basics
 objectives:
   - Agree on all terms and rules to be part of Code Your Future
-time: 50
+time: 40
 prep: N﻿/A
 introduction: Agreements are important because they establish clear expectations
   and foster trust between parties, ensuring mutual understanding and
