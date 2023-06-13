@@ -4,7 +4,8 @@ description: Learning to use Google Sheet so the cohort can organise their rota
   for the coursework
 modules: Fundamentals
 week: "2"
-skills: ["Professional Basics"]
+skills:
+  - Professional Basics
 objectives:
   - "Create a file using Google suite and share with your peers "
 time: 0
@@ -14,7 +15,7 @@ introduction: Knowing how Google Sheets work is important as it enables
   productivity and enabling effective decision-making.
 exercises:
   - content: >-
-      Set-up a Google sheet on the cohort drive
+      One trainee to set-up a Google sheet on the cohort drive
 
 
       * The spreadsheet must have at least the columns Date and Name
