@@ -25,6 +25,7 @@ collections:
         widget: "select"
         options:
           - "Fundamentals"
+          - "Induction"
           - "HTML-CSS"
           - "JS1"
           - "JS2"
