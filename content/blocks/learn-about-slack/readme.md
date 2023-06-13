@@ -15,7 +15,7 @@ introduction: S﻿lack is the main collaboration tool within our community and
   in tech.
 exercises:
   - name: What is Slack?
-    time: 10
+    time: 0
     goal: Understand how Slack works
     content: >-
       * Research Slack and its benefits
