@@ -7,7 +7,7 @@ skills:
   - Communication
 objectives:
   - Give a presentation to an audience about a planned topic.
-time: 40
+time: 50
 prep: E﻿nsure you have done the prep exercise
 introduction: >-
   Everybody has to explain themselves and persuade others of their ideas. Giving
@@ -18,7 +18,7 @@ introduction: >-
   When presenting, you should remember your message. Be careful that everything you do and say helps the audience understand.
 exercises:
   - goal: Give a presentation to an audience about a planned topic.
-    time: 0
+    time: 20
     name: Give a 3 minute presentation
     content: >-
       1. In groups of 3 people, each person should give a 3 minute presentation
@@ -38,7 +38,7 @@ exercises:
 
       1. Make notes of the feedback you received and think about how you can apply it next time
   - name: Present your content to different audiences
-    time: 0
+    time: 20
     goal: Give a presentation to an audience about a planned topic.
     content: >-
       1. In the same groups of 3 people, take turns to give a 1 minute
