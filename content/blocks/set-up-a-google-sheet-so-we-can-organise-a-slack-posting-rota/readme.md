@@ -20,7 +20,9 @@ exercises:
 
       * The spreadsheet must have at least the columns Date and Name
 
-      * The title of spreadsheet should be Slack Rota Cohort XXXX (substitute XXXX for the region initials and cohort number)
+      * The title of the spreadsheet should be XXX X Rota (substitute XXXX for the region initials and cohort number, for example, GLA 6)
+
+      * The title of the tab should be Slack Rota
 
       * It must be saved on the cohort drive
 
