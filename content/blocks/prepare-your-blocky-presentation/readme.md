@@ -1,5 +1,5 @@
 ---
-title: Prep Blocky presentation
+title: Prep Blockly presentation
 description: This preparation work will ensure you are ready to present your
   Blockly project  to your cohort
 modules: Fundamentals
