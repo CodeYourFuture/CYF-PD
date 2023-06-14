@@ -1,5 +1,5 @@
 ---
-title: Presenting your Blockly project
+title: Present Blockly project
 description: This is the time in which everyone will present their blockly project
 modules: Fundamentals
 week: "3"
