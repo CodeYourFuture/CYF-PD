@@ -1,5 +1,5 @@
 ---
-title: Google sheet to organise
+title: Google sheet for pairing
 description: Learning to use Google Sheet so the cohort can organise their rota
   for the coursework
 modules: Fundamentals
