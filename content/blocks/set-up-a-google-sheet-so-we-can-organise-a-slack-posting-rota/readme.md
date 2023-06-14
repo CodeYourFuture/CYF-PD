@@ -1,5 +1,5 @@
 ---
-title: Set-up a Google sheet so we can organise a Slack posting rota
+title: Google sheet for Slack rota
 description: Learning to use Google Sheet so the cohort can organise their rota
   for the coursework
 modules: Fundamentals
