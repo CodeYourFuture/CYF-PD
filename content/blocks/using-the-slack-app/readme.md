@@ -8,7 +8,7 @@ skills:
 objectives:
   - Actively use Slack 3 times per week to work with peers and community + Reply
     to one question a week on any public CYF Slack channels.
-time: 60
+time: 45
 prep: Everyone must have their laptops up and running and connected to the internet.
 introduction: >-
   Slack is a collaboration platform that enables efficient team communication,
