@@ -1,6 +1,6 @@
 ---
 title: Google sheet for pairing
-description: Learning to use Google Sheet so the cohort can organise their rota
+description: Learning to use Google Sheets so the cohort can organise their rota
   for the coursework
 modules: Fundamentals
 week: "4"
