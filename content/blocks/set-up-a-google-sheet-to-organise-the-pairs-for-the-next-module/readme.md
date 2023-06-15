@@ -2,8 +2,8 @@
 title: Google sheet for pairing
 description: Learning to use Google Sheets so the cohort can organise their rota
   for the coursework
-modules: Fundamentals
-week: "4"
+modules: Induction
+week: "1"
 skills:
   - Professional Basics
 objectives:
