@@ -4,30 +4,33 @@ description: Highlighting the importance of professional development in order to
   get a tech job
 modules: Fundamentals
 week: "1"
-skills: ["Professional Basics"]
+skills:
+  - Professional Basics
 objectives: []
-time: 40
+time: 30
 prep: >-
-  **In person:** 
+  In-person: 
 
 
-  * 2 big sheet of paper and post-it notes
+  * 2 big sheets of paper and Post-it notes
 
   * A few markers 
 
   * [Slide deck](https://docs.google.com/presentation/d/1Kti5KVzY9GGJ9rNU8Ye0G5eRNJo1S_qAzbTO1DosOnU/edit?usp=sharing)
 
 
-  **Online:**
+  Online:
 
 
-  * Interactive whiteboard
+  *  Interactive whiteboard
 
-  * [Slide deck](https://docs.google.com/presentation/d/1Kti5KVzY9GGJ9rNU8Ye0G5eRNJo1S_qAzbTO1DosOnU/edit?usp=sharing)
-introduction: F﻿or this exercise, you will work with your whole cohort. Make sure you have at least one contribution during each part of the exercise.
+
+  [Slide deck](https://docs.google.com/presentation/d/1Kti5KVzY9GGJ9rNU8Ye0G5eRNJo1S_qAzbTO1DosOnU/edit?usp=sharing)
+introduction: F﻿or this exercise, you will work with your whole cohort. Make
+  sure you have at least one contribution during each part of the exercise.
 exercises:
   - content: >-
-      **P﻿art 1**
+      **Part 1**
 
 
       Draw a circle and write WORST BOSS. Think about the characteristics of the "Worst Boss", write your ideas on post-its and share them on the collaborative sheet.
@@ -36,24 +39,24 @@ exercises:
        Think about a boss you worked with in the past or a boss you would not want to work for.
 
 
-      **P﻿art 2**
+      **Part 2**
 
 
-      Draw another circle and write BEST BOSS. Now think about the characteristics of the "Best Boss" you have ever had or you would want to have, write your ideas on post-its and share them on the collaborative sheet.
+      Draw another circle and write BEST BOSS. Now think about the characteristics of the "Best Boss" you have or would want to have. Write your ideas on Post-it (one per Post-it!)  and share them on the collaborative sheet.
 
 
-      **P﻿art 3**
+      **Part 3**
 
 
       Work with your cohort to group the 'hard skills' (technical skills) and the 'soft skills' (professional skills) shared for the "Best Boss". You can move the post-its under these two headings on a separate sheet.
 
 
-      **P﻿art 4**
+      **Part 4**
 
 
-      * Discuss what have you learned with this exercise.
+      * Discuss what you have learned with this exercise.
 
-      * Define what are hard (technical) skills and soft (professional) skills.
+      * Define hard (technical) and soft (professional) skills.
 
       * Are the soft skills really soft?
 
@@ -61,8 +64,8 @@ exercises:
       **Part 5**
 
 
-      If there is time, go through these [slides](https://docs.google.com/presentation/d/1Kti5KVzY9GGJ9rNU8Ye0G5eRNJo1S_qAzbTO1DosOnU/edit?usp=sharing) together. If not, take some time to go through them in your own time.
+      If there is time, go through these [slides](https://docs.google.com/presentation/d/1Kti5KVzY9GGJ9rNU8Ye0G5eRNJo1S_qAzbTO1DosOnU/edit?usp=sharing) together. If not, take time to review them in your own time.
     name: Worst Boss vs Best Boss
-    time: 40
+    time: 25
     goal: Evaluate the difference of technical and professional skills
 ---
