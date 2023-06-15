@@ -1,13 +1,13 @@
 ---
 title: Google sheet for Slack rota
-description: Learning to use Google Sheet so the cohort can organise their rota
+description: Learning to use Google Sheets so the cohort can organise their rota
   for the coursework
 modules: Fundamentals
 week: "2"
 skills:
   - Professional Basics
 objectives:
-  - "Create a file using Google suite and share with your peers "
+  - "Create a file using Google Suite and share with your peers "
 time: 15
 prep: O﻿ne trainee must volunteer to create the Google Sheet.
 introduction: Knowing how Google Sheets work is important as it enables
@@ -15,7 +15,7 @@ introduction: Knowing how Google Sheets work is important as it enables
   productivity and enabling effective decision-making.
 exercises:
   - content: >-
-      One trainee to set-up a Google sheet on the cohort drive
+      One trainee to set up a Google sheet on the cohort drive
 
 
       * The spreadsheet must have at least the columns Date and Name
@@ -24,15 +24,15 @@ exercises:
 
       * The title of the tab should be Slack Rota
 
-      * It must be saved on the cohort drive
+      * Save the file on the cohort drive
 
-      * Post a message on the cohort Slack with the shared spreadsheet and the instructions of what to do (see below)
-
-
-      Every trainee now has has to go onto that spreadsheet and add their name against a date. 
+      * Post a message on the cohort Slack with the shared spreadsheet and the instructions on what to do (see below)
 
 
-      This will the rota of the daily messages to be posted on Slack by that person. You have more information about it on your Coursework.
+      Every trainee must enter that spreadsheet and add their name against a date.
+
+
+      This file will be the rota of that person's daily messages posted on Slack. You have more information about it in your Coursework.
     name: This is our Slack Rota spreadsheet
     time: 10
     goal: Have 1 shared file in which trainees can organise the Slack rota
