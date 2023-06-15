@@ -1,7 +1,7 @@
 ---
 title: Agreements
-description: All agreements that must be read and agreed to must be done before
-  the first Fundamentals lesson
+description: You must have read and agreed to all agreements before the first
+  Fundamentals lesson
 modules: Fundamentals
 week: "1"
 skills:
@@ -15,6 +15,9 @@ introduction: Agreements are important because they establish clear expectations
   cooperation.
 exercises:
   - content: >-
+      Agree on all terms and rules to be part of Code Your Future
+
+
       You must read and agree to these rules before attending Code Your Future.
 
 
@@ -25,7 +28,7 @@ exercises:
       * [House Rules](https://docs.codeyourfuture.io/organisation/agreements-and-rules/house-rules)
 
 
-      If you have concerns or questions, please contact your cohort team. They will be happy to talk to you about our rules and what they mean for you.
+      If you have concerns or questions, please contact your cohort team. They will happily talk to you about our rules and what they mean to you.
 
 
       After reading and agreeing to it, [sign the trainee agreement](https://codeyourfuture.eversign.com/embedded/a4062d0361324f7f97cba1105f164b24) before coming to class.
