@@ -33,6 +33,6 @@ exercises:
 
       After reading and agreeing to it, [sign the trainee agreement](https://codeyourfuture.eversign.com/embedded/a4062d0361324f7f97cba1105f164b24) before coming to class.
     name: Agreements for Code Your Future
-    time: 0
+    time: 35
     goal: Agree on all terms and rules to be part of Code Your Future
 ---
