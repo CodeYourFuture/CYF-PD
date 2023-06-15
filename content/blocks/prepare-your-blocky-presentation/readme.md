@@ -8,7 +8,7 @@ skills:
   - Communication
 objectives:
   - Package the parts of a presentation to be effective.
-time: 120
+time: 88
 prep: |-
   1. Write your notes on Google Docs.
   2. Comment on your Github Project issue with a link to the document.
@@ -16,7 +16,7 @@ introduction: You will give a presentation about your work with Blockly, to your
   peers. So let’s prepare for it.
 exercises:
   - name: Questions to help guiding your presentation content
-    time: 0
+    time: 15
     goal: Package the parts of a presentation to be effective.
     content: |-
       Write one or two sentences on each of the following: 
@@ -31,7 +31,7 @@ exercises:
       8. In conclusion, what should the audience remember?
   - name: Thinking about how different audiences would influence your presentation
       content
-    time: 0
+    time: 15
     goal: Adapting your presentation to different audiences
     content: >-
       How would your presentation change according to the audience? Write notes
@@ -46,7 +46,7 @@ exercises:
 
       4. Explain what it is, to a 10 year old child.
   - name: Adapting your presentation to different purpose
-    time: 0
+    time: 15
     goal: Package the parts of a presentation to be effective
     content: >-
       How would your presentation change according to your purpose? \
@@ -66,7 +66,7 @@ exercises:
 
       6. Tell the CYF team what you have learned from it.
   - name: How is your presentation benefiting the audience
-    time: 0
+    time: 15
     goal: Package the parts of a presentation to be effective.
     content: >-
       What benefit would the audience gain from listening to you? Don’t repeat
