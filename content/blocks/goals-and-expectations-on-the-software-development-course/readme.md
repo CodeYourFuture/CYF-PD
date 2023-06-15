@@ -1,8 +1,8 @@
 ---
 title: SDC Goals and expectations
 description: Presentation with multiple exercises
-modules: Fundamentals
-week: "4"
+modules: Induction
+week: "1"
 skills:
   - Professional Basics
 objectives:
