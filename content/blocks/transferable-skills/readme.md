@@ -1,7 +1,6 @@
 ---
 title: Transferable skills
-description: In this session we will talk about our transferable skills. We will
-  give each other feedback on the document we prepared before the session.
+description: n/a
 modules: HTML-CSS
 week: "1"
 skills:
@@ -72,9 +71,7 @@ exercises:
       * Were people in the right mindset to give and receive feedback?
 
 
-
-
-      *Situation 1:* Tom asked Katie for help on the code he was writing. 
+      ###### Situation 1: Tom asked Katie for help on the code he was writing.
 
 
       Tom: “Hi Katie, would you mind spending a few minutes looking at this function I am working on? I can’t seem to find what’s wrong with the code.”
@@ -92,7 +89,7 @@ exercises:
       Katie walks away.
 
 
-      *Situation 2:* Patricia stops by Carla’s desk.
+      ###### Situation 2: Patricia stops by Carla’s desk.
 
 
       Patricia: “Hi Carla. Just wanted to let you know how much I appreciate the work you did in the last project and I hope we get to work together again”
@@ -101,7 +98,7 @@ exercises:
       Carla: “Oh Thank You! You made my day!”
 
 
-      *Situation 3:* Team members in a project retrospective meeting discuss things they did well and things that need improvement.
+      ###### Situation 3: Team members in a project retrospective meeting discuss things they did well and things that need improvement.
 
 
       Jessica: “I think overall the project went well but developers were constantly waiting for Karen to finish testing their code before they could deploy to Production. She was overwhelmed with the amount of work on her plate”
