@@ -6,7 +6,11 @@ modules: Fundamentals
 week: "1"
 skills:
   - Professional Basics
-objectives: []
+objectives:
+  - Trainees to be able to differentiate professional development and technical
+    skills
+  - Be able to distinguish the importance of professional skills to be a good
+    leader
 time: 30
 prep: >-
   In-person: 
