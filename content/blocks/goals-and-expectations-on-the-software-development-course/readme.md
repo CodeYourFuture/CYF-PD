@@ -6,7 +6,7 @@ week: "1"
 skills:
   - Professional Basics
 objectives:
-  - Agree with the goals and expectations of the Code Your Future Software
+  - Describe with the goals and expectations of the Code Your Future Software
     Development Course
 time: 90
 prep: Review the
