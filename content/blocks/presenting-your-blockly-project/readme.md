@@ -6,8 +6,7 @@ week: "3"
 skills:
   - Communication
 objectives:
-  - By the end of this exercise the trainee has formulated the content for a
-    presentation
+  - Trainees can present a planned content to an audience
 time: 50
 prep: E﻿nsure you have done the prep exercise
 introduction: >-
