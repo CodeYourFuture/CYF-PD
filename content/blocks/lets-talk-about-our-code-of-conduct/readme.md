@@ -9,7 +9,7 @@ skills:
 objectives:
   - After this session, trainees can apply the Code of Conduct to have a safe
     community
-time: 26
+time: 25
 prep: Use this [slide
   deck](https://docs.google.com/presentation/d/1k7F64r8dMImDSXhOei3ovUdy3Y5MhqSXM4Y4E6d3E04/edit)
   to do this activity.
