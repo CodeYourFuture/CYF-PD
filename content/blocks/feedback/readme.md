@@ -9,8 +9,13 @@ skills:
 objectives:
   - Differentiate positive and negative feedbacks
 time: 15
-prep: |-
+prep: >-
+  Must have done the [prep
+  work](https://cyf-pd.netlify.app/blocks/prep-for-feedback/readme/)
+
+
   Work with your pair.
+
 
   Y﻿ou will play the three situations once.
 introduction: >-
