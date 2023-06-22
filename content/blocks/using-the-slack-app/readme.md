@@ -6,7 +6,8 @@ week: "2"
 skills:
   - Professional Basics
 objectives:
-  - Actively use Slack 3 times weekly to work with peers and the community
+  - By the end of this session trainees will know how to use Slack as a
+    communication tool
 time: 45
 prep: Everyone must have their laptops up and running and connected to the internet.
 introduction: >-
