@@ -7,7 +7,8 @@ week: "1"
 skills:
   - Professional Basics
 objectives:
-  - Use the Code of Conduct to ensure we have a safe community
+  - After this session, trainees can apply the Code of Conduct to have a safe
+    community
 time: 26
 prep: Use this [slide
   deck](https://docs.google.com/presentation/d/1k7F64r8dMImDSXhOei3ovUdy3Y5MhqSXM4Y4E6d3E04/edit)
