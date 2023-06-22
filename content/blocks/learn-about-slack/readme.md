@@ -6,8 +6,7 @@ week: "2"
 skills:
   - Professional Basics
 objectives:
-  - Use Slack 3 times per week to work with peers and community
-  - Reply to one question a week on any public CYF Slack channels.
+  - Trainees will be able to describe Slack's basic funcionalities
 time: 30
 prep: You need to use the Internet to search for answers.
 introduction: S﻿lack is the primary collaboration tool within our community and
