@@ -18,9 +18,9 @@ introduction: Feedback is a valuable tool to understand whether things are going
   develop and grow professionally. How feedback is communicated will not only
   determine how effective it will be but also how positive its impact will be.
 exercises:
-  - name: Answer the questions about feedback
+  - name: Answer questions about feedback
     content: |-
-      Answer the following questions in writing:
+      These are the questions:
 
       * What is feedback?
       * What is general feedback and specific feedback?
