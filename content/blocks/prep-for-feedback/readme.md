@@ -30,5 +30,5 @@ exercises:
       * What is destructive feedback?
       * Why is it important to receive and give feedback effectively?
     time: 30
-    goal: Write a reflection about feedback
+    goal: Answer the below questions in writing
 ---
