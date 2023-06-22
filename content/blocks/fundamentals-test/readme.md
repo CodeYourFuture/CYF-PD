@@ -9,8 +9,7 @@ skills:
 objectives:
   - Trainees to be able to differentiate professional development and technical
     skills
-  - Be able to distinguish the importance of professional skills to be a good
-    leader
+  - Distinguish the importance of professional skills to be a good leader
 time: 30
 prep: >-
   In-person: 
