@@ -10,7 +10,7 @@ time: 60
 prep: Go through [this slides
   deck](https://docs.google.com/presentation/d/1E8O9eh8dTQdIsI6VpVwFHesAz0PBDW38WSXuTir_vUk/edit#slide=id.ga9333c68a9_0_33)
   about the transferable skills.
-introduction: N﻿/A
+introduction: .
 exercises:
   - content: >-
       Write a 100-word text on your previous job/education experience.
