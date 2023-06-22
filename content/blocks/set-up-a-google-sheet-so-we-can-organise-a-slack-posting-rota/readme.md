@@ -7,7 +7,7 @@ week: "2"
 skills:
   - Professional Basics
 objectives:
-  - "Create a file using Google Suite and share with your peers "
+  - "Create and share a Google sheet with your peers "
 time: 15
 prep: O﻿ne trainee must volunteer to create the Google Sheet.
 introduction: Knowing how Google Sheets work is important as it enables
