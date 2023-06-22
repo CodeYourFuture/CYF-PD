@@ -6,7 +6,7 @@ week: "1"
 skills:
   - Professional Basics
 objectives:
-  - Ability to apply for childcare expenses, if needed
+  - With this exercise trainees can request childcare expenses, if needed
 time: 30
 prep: "* R﻿ead our [Expenses
   policy](https://docs.codeyourfuture.io/organisation/agreements-and-rules/stud\
