@@ -64,7 +64,7 @@ exercises:
       3. React with an emoji showing the suggestions you think should **not** be adopted
   - name: Discuss how you would organise your lesson
     time: 15
-    goal: Ensure we have clearly understood how to use emojis
+    goal: Understand how the cohort will self-organise
     content: >-
       W﻿ith the input of the previous discussion in the thread,  in groups of 4,
       discuss:
@@ -74,7 +74,10 @@ exercises:
 
       2. D﻿efine what steps would you take to solve the 5 steps.
 
-      3. 1﻿ team to share their outcome
+      3. 1﻿ team to share their reflection and importance of knowing this
 
-      4. O﻿ther teams to add to it
+      4. O﻿ther teams to their complementary reflection
+
+
+      Remember: self-organisation is a goal for the cohort!
 ---
