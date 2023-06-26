@@ -18,7 +18,7 @@ introduction: >-
   It's important because it enhances productivity, fosters collaboration, and centralises communication for remote and distributed teams.
 exercises:
   - name: Let's share our knowledge about Slack
-    time: 15
+    time: 10
     goal: Share your knowledge about Slack
     content: >-
       Trainees should discuss the below questions about Slack and how to use it
@@ -48,31 +48,33 @@ exercises:
       like Slack? or What is your favourite colour?)
 
       * Every trainee must reply to it - this exercise only finishes if we have the same number of replies as the number of trainees in the class!
-  - name: Emojis express a lot
+  - name: Organising the cohort thread
     time: 10
-    goal: Understand the meaning of emojis
+    goal: Organisation of tasks whilst using Slack
     content: >-
-      In pairs, play the Emoji communication game. 
+      Someone should post a question on Slack: "What would you do if you come to
+      a class and there are no volunteers to guide it? How would you organise
+      yourselves?".
 
 
-      * One person writes a message only using emojis on the cohort channel and tags their pair.
+      1. Add on the thread one suggestion of what could be do
 
-      * The other person tries to understand it and writes the answer in the thread.
+      2. React with a pertinent emoji to the suggestions you think should be adopted
 
-      * Continue the conversation in the thread until it makes sense.
-
-      * Then they switch roles - the person answering the message writes a new message on that thread and tags their pair.
-
-      * And repeat
-  - name: Let's practice reacting to a message with an emoji
-    time: 10
+      3. React with an emoji showing the suggestions you think should **not** be adopted
+  - name: Discuss how you would organise your lesson
+    time: 15
     goal: Ensure we have clearly understood how to use emojis
     content: >-
-      A trainee posts something on the channel
+      W﻿ith the input of the previous discussion in the thread,  in groups of 4,
+      discuss:
 
 
-      E﻿very trainee reacts to it with what they think is the appropriate emoji.
+      1. List the 5 actions that are the highest priority, if you arrive and there is no volunteer available.  
 
+      2. D﻿efine what steps would you take to solve the 5 steps.
 
-      Discuss if anyone doesn't understand or wants to know more about a specific emoji used.
+      3. 1﻿ team to share their outcome
+
+      4. O﻿ther teams to add to it
 ---
