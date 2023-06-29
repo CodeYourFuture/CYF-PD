@@ -1,30 +1,28 @@
 ---
 title: Prep for Introspection
 description: This is the preparation work for the exercise that will be done in
-  the next lesson, about introspection
+  the next lesson, about introspection.
 modules: HTML-CSS
 week: "4"
 skills:
   - Confidence
 objectives:
-  - Identify your CYF and career goals
-time: 40
+  - Evaluate your learning process so far in the course.
+time: 50
 prep: W﻿atch this [video](https://www.youtube.com/watch?v=s-NiJzwdN0Y) on
-  Introspection and why it matters
+  Introspection.
 introduction: I﻿ntrospection is important as it helps you understand yourself
   and clearly set your goals.
 exercises:
   - name: Answer questions about CYF and your career goals
-    time: 30
-    goal: Answer the questions in writing
-    content: >-
+    time: 40
+    goal: Answer the questions in writing.
+    content: |-
       
 
-      1. W﻿hat made you interested in CYF and having a job in tech?
-
-      2. W﻿ill you commit to CYF and how are you planning on doing that?
-
-      3. H﻿ow will you make sure you learn as much as possible and do extra projects to make you stand out as a job candidate?
-
-      4. H﻿ow will you organize your time to make sure you can balance your CYF commitments and your personal life?
+      1. What we covered over the past weeks?
+      2. What parts we enjoyed?
+      3. What we will do differently in the next module?
+      4. What tips and tricks we can share with each other?
+      5. What advice we would give to the next class?
 ---
