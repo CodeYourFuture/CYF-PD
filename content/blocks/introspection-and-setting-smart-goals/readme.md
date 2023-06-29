@@ -10,7 +10,9 @@ objectives:
   - Set at least one personal SMART goal per module.
   - Evaluate your learning process so far.
 time: 60
-prep: M﻿ust have done prep work.
+prep: |-
+  M﻿ust have done prep work, bring it with you. \
+  Y﻿ou need a computer and internet for this exercise.
 introduction: >-
   I﻿ntrospection is important as it helps you understand yourself and clearly
   set your goals.
