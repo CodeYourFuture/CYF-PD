@@ -5,7 +5,7 @@ description: This is the preparation work for the exercise that will be done in
 modules: HTML-CSS
 week: "2"
 skills:
-  - Employability
+  - Teamwork
 objectives:
   - Explore active listening techniques and skills as well as good listening
     habits.
