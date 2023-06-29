@@ -46,12 +46,7 @@ exercises:
       5. What advice we would give to the next class?
 
 
-
-
       **P﻿resent** your agreed-upon **answers** and overall **experience** in CYF so far.
-
-
-      **post** them on Slack. (10 min)
   - name: Setting SMART Goals
     time: 25
     goal: To understand and to be more comfortable with writing SMART goals.
