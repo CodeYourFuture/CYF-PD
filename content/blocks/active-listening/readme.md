@@ -1,0 +1,127 @@
+---
+title: Active listening
+description: Learn about active listening.
+modules: HTML-CSS
+week: "2"
+skills:
+  - Teamwork
+objectives:
+  - To learn how to formulate proper open-ended questions.
+  - "To be able to properly interpret what others are saying. "
+time: 60
+prep: |-
+  M﻿ust have done prep work, bring it with you. \
+  Y﻿ou need a computer and internet for this exercise.
+introduction: Listening is one of the most important skills you can have. How
+  well you listen has a major impact on your job effectiveness and on the
+  quality of your relationships with other people.
+exercises:
+  - name: Open-ended questions
+    time: 20
+    goal: Learn to ask specific, open-ended questions.
+    content: >-
+      **Pair and practice asking open-ended questions**. One individual will
+      play the role of speaker and the other one the role of listener, then
+      switch. For each of the scenarios below, the listener should **ask** at
+      least **5 questions**. Once the person finishes their thought, the
+      listener should **demonstrate** engagement by asking specific, open-ended
+      questions. They should **avoid** adding their own **judgment** to those
+      questions — the focus should be on what the other person has to say.
+
+
+      At the end of each scenario, make sure to **discuss** how it went and provide feedback.
+
+
+      **For example, ask:**
+
+
+      * *“Tell me more about that.”*
+
+      * *“How did you feel?”*
+
+      * *“What made you pursue that option?”* 
+
+      * *“What can I do to help?”* 
+
+
+      *Avoid asking questions or making statements that indicate judgment. For example, instead of:* 
+
+
+      * *“Why would you do that?” try asking “What motivated you to do that?”* 
+
+      * *“You didn’t really mean that, did you?” try asking “What did you mean by that?”* 
+
+      * *“That doesn’t make sense” try asking “I’m not following, could you explain…”* 
+
+
+      **SCENARIO 1**
+
+
+      Joe is a new team member that just joined. Joe will start by introducing himself:
+
+
+      **Speaker**: “Hi my name is Joe, I am a software developer that just joined the company. I worked previously in SuperTech as a database developer where I used to develop database reports and support an SQL database. As a hobby I enjoy playing piano and running.”
+
+
+      **Listener**: Using open-ended questions, learn more about Joe with the objective to build trust and a strong working relationship.
+
+
+
+
+      **S﻿CENARIO 2**
+
+
+      Lucy is your colleague and today she looks sad. When asked about it, she explained that she just had a conversation with her manager about her performance and unfortunately it was not great.
+
+
+      **Speaker**: “My manager just told me I was not meeting expectations. This caught me by surprise as I thought I was doing exactly what was expected from me. I think it is unfair. How can I make sure I do well if I don’t know what I am being assessed against?”
+
+
+      **Listener**: Using open-ended questions, demonstrate empathy.
+
+
+      **\
+
+      SCENARIO 3**
+
+
+      Jane is very unhappy with how John provides feedback on her pull requests.
+
+
+      **Speaker**: “It is really difficult for me to take John’s comments as constructive when he uses statements like ‘unacceptable piece of code’ or ‘this is poorly written’. I am not sure if this is because English is not his native language but I am now scared to submit my code for review!”
+
+
+      **Listener:** Use open-ended questions to help resolve this conflict.
+  - name: Active listening in a conversation.
+    time: 35
+    goal: To practice active listening with a real conversation.
+    content: >-
+      **In many ways, active listening is a mindfulness practice.** The listener
+      is trying to stay focused on the present, with what is being shared. And
+      they are working to accomplish this without judgment. \
+
+      **In groups** of at least 4 people, sit in a circle and **discuss** each of the topics below ensuring there is always only one person speaking at all times. At the end of each discussion, have a discussion on how it went and provide **feedback**.
+
+
+      \
+
+      **You will have to ensure you follow these rules:**
+
+
+      * **Avoid interrupting**: you will have a thought or comment about something they have to say, but try to put those thoughts to the side while you’re listening to understand.
+
+      * **Listen without judgment**: It’s OK if your point of view is different from the speaker’s, BUT put aside any thoughts that come into your head to focus on what the speaker is trying to communicate.
+
+      * **Paraphrase and summarize**: Once the other person is done speaking, paraphrase what you heard back to them in your own words. Paraphrasing helps you ensure you understood what the other person was trying to express. By paraphrasing and summarizing you’re also demonstrating that your focus was on them.
+
+      * **Model positive nonverbal behavior**: Nonverbal communication is anything you communicate without words—things like your facial expression, gestures, posture, and body language. Make eye contact, avoid crossing your arms or fidgeting, smile and nod along while the other person is speaking.
+
+      * ***Ask specific, open-ended questions.***
+
+
+      1. **Topic:** What do you think are the most wanted technical skills and programming languages today in the job market and why? What do you think you need to do to be ready to showcase those technical skills?
+
+      2. **Topic**: How prepared do you feel to start interviewing for a software developer job? What do you think will be the most challenging parts of the whole recruitment process (initial recruiter call, behavioral interview, technical assessment)? What can you do to prepare better?
+
+      3. **Topic**: Talk about something personal you would like to share with the rest of the group. It could be a personal achievement, a struggle, a recent event that impacted you either positively or negatively, it could be just sharing your personal story!
+---
