@@ -7,7 +7,7 @@ week: "2"
 skills:
   - Teamwork
 objectives:
-  - Explore active listening techniques and skills as well as good listening
+  - Understand active listening techniques and skills as well as good listening
     habits.
 time: 60
 prep: >-
@@ -21,7 +21,7 @@ introduction: Listening is one of the most important skills you can have. How
   quality of your relationships with other people.
 exercises:
   - name: Write down open-ended questions.
-    time: 60
+    time: 40
     goal: Prepare for the Saturday's lesson.
     content: Considering what you have learned regarding Active Listening, write
       down some open-ended questions related to building relationship, building
