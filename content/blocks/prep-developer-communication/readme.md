@@ -1,14 +1,14 @@
 ---
 title: Prep Developer Communication
-description: This prep exercises is for you to think about how to explain
-  concepts to different audiences
+description: This prep exercise is for you to think about how to explain
+  concepts to different audiences.
 modules: HTML-CSS
 week: "3"
 skills:
   - Communication
 objectives:
   - In pairs, trainees will develop a presentation of technical concepts to a
-    diverse audience
+    diverse audience.
 time: 60
 prep: Work together with your pair
 introduction: You will explore how a professional developer explains technical
@@ -69,7 +69,7 @@ exercises:
 
       * Define who will say what part of the presentation.
 
-      * T﻿hink about possible questions that could be asked and reflect on the answers you should give
+      * T﻿hink about possible questions that could be asked and reflect on the answers you should give.
 
-      * Give each other feedback whilst practising
+      * Give each other feedback whilst practising.
 ---
