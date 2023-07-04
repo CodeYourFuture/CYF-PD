@@ -21,7 +21,7 @@ exercises:
     goal: Actively listen to each others presentation
     time: 20
     content: >-
-      1. One set of trainees presents to the other pairs
+      1. One set of trainees presents to the other pairs you are in a group with
 
       2. The trainees that are listening should practice active listening techniques
 
