@@ -7,8 +7,7 @@ week: "1"
 skills:
   - Professional Basics
 objectives:
-  - "By the end of this exercise the trainees should be able to update a Google
-    Sheet "
+  - "Be able to update a Google Sheet "
 time: 15
 prep: O﻿ne trainee must volunteer to create a new tab on the existing Google sheet.
 introduction: Knowing how Google Sheets work is essential as it enables
