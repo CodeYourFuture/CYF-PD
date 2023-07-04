@@ -107,7 +107,7 @@ exercises:
 
       \
 
-      **In groups** of at least 4 people, sit in a circle and **discuss** each of the topics below ensuring there is always only one person speaking at all times. At the end of each discussion, have a discussion on how it went and provide **feedback**.
+      **In groups** of at least 4 people, sit in a circle and **discuss** each of the topics below ensuring there is always only one person speaking at all times. At the end of each discussion, discuss how it went and provide **feedback**.
 
 
       \
@@ -115,17 +115,15 @@ exercises:
       **You will have to ensure you follow these rules:**
 
 
-      * **Avoid interrupting**: you will have a thought or comment about something they have to say, but try to put those thoughts to the side while you’re listening to understand.
+      * **Avoid interrupting**
 
-      * **Listen without judgment**: It’s OK if your point of view is different from the speaker’s, BUT put aside any thoughts that come into your head to focus on what the speaker is trying to communicate.
+      * **Listen without judgment**
 
-      * **Paraphrase and summarise**: Once the other person is done speaking, paraphrase what you heard back to them in your own words. Paraphrasing helps you ensure you understood what the other person was trying to express. By paraphrasing and summarising you’re also demonstrating that your focus was on them.
+      * **Paraphrase and summarise what the other person has told you to avoid miscommunication**
 
-      * **Model positive nonverbal behaviour**: Nonverbal communication is anything you communicate without words—things like your facial expression, gestures, posture, and body language. Make eye contact, avoid crossing your arms or fidgeting, smile and nod along while the other person is speaking.
+      * **Let the other person know you are listening by showing it through positive nonverbal and body language behavior**
 
-      * ***Ask specific, open-ended questions.***
-
-
+      * **Ask specific, open-ended questions.**
 
 
       **T﻿opics**
@@ -133,7 +131,7 @@ exercises:
 
       1. **Topic:** What do you think are the most wanted technical skills and programming languages today in the job market and why? What do you think you need to do to be ready to showcase those technical skills?
 
-      2. **Topic**: How prepared do you feel to start interviewing for a software developer job? What do you think will be the most challenging parts of the whole recruitment process (initial recruiter call, behavioural interview, technical assessment)? What can you do to prepare better?
+      2. **Topic**: How prepared do you feel to start interviewing for a software developer job? What do you think will be the most challenging parts of the whole recruitment process (initial recruiter call, behavioral interview, technical assessment)? What can you do to prepare better?
 
       3. **Topic**: Talk about something personal you would like to share with the rest of the group. It could be a personal achievement, a struggle, a recent event that impacted you either positively or negatively, it could be just sharing your personal story!
 ---
