@@ -33,6 +33,7 @@ exercises:
          * I make sure to avoid terminology my audience won’t know
          * I plan to leave pauses and look to see if my audience are following me
          * I try out my presentation with a colleague first and get their feedback
+      3. When preparing the presentation in the following exercise, make sure to include at least three improvements from this list.
   - name: Prepare a tutorial
     time: 20
     content: >-
