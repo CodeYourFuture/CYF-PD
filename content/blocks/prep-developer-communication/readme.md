@@ -7,8 +7,8 @@ week: "3"
 skills:
   - Communication
 objectives:
-  - In pairs, trainees will develop a presentation of technical concepts to a
-    diverse audience.
+  - Trainees will develop a presentation of technical concepts tailored for a
+    specific audience
 time: 60
 prep: Work together with your pair
 introduction: You will explore how a professional developer explains technical
