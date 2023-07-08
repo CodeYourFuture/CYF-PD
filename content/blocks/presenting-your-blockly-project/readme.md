@@ -44,6 +44,9 @@ exercises:
       1. In the same groups of 3 people, take turns giving a 1-minute
       presentation to each audience. 
 
+         * A trainee in the next class of CYF
+         * Your grandmother
+         * The boss wants a new website.
       2. Tell them what benefit they will gain from listening. Tell them the first half of a story or promise a benefit to the audience if they pay attention, such as learning something new.
 
       3. Give the other person feedback about how well they adapted to their audience.
