@@ -10,8 +10,8 @@ objectives:
   - Be able to explain what a SMART goal is
 time: 15
 prep: H﻿ave access to internet
-introduction: S﻿etting SMART goals keeps the projects moving forward, helps with
-  accountability and timing. It helps breaking down goals and achieve them.
+introduction: Setting SMART goals keeps the projects moving forward and helps
+  with accountability and timing. It helps to break down goals and achieve them.
 exercises:
   - content: W﻿atch this [video](https://www.youtube.com/watch?v=1-SvuFIQjK8) on
       SMART Goals and if needed make some notes.
