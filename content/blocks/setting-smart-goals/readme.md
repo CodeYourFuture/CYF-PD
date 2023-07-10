@@ -1,33 +1,32 @@
 ---
 title: Setting SMART Goals
-description: Learn how to set SMART goals.
+description: Practice how to set SMART goals.
 modules: HTML-CSS
 week: "4"
 skills:
   - Time/Project Management
 objectives:
-  - By the end of this session trainees will be able to set SMART Goals.
-time: 25
+  - Be able to create SMART Goals for different scenarios
+time: 16
 prep: |-
   M﻿ust have done prep work, bring it with you. \
   Y﻿ou need a computer and internet for this exercise.
 introduction: S﻿etting SMART goals keeps the projects moving forward, helps with
   accountability and timing. It helps breaking down goals and achieve them.
 exercises:
-  - name: Setting SMART Goals
-    time: 25
+  - name: Practice setting SMART Goals
+    time: 20
     goal: To understand and be more comfortable with writing SMART Goals.
     content: >-
-      Work in groups of 3 to 4 people. **Read** the scenarios written below
-      and **write** goals for each of them following the SMART framework:
+      Work in groups of 4 people. 
 
 
-      1. You want to post/publish more on Slack.
+      1. **Read** the scenarios written below and **write** goals for each of them following the SMART framework (10 min)
 
-      2. You want to improve your active listening skills.
+         * You want to post/publish more on Slack.    
+         * You want to improve your active listening skills. 
+         * Your peer gave you constructive feedback on your assignment and you wish to improve it. 
+      2. Discuss whether your group has noticed any benefit or obstacles using this approach when setting goals. **Write a phrase** summarising your group feeling about this. (5 min)
 
-      3. Your peer gave you constructive feedback on your assignement and you wish to improve it.
-
-
-      **Post** your answers in a respective Slack thread (create one if needed) and **add** whether your group has noticed any benefit or obstacles using this approach when setting goals.
+      3. **Post** your answers in a respective Slack thread (create one if needed) (5 min)
 ---
