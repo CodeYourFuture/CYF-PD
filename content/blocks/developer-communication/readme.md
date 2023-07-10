@@ -11,9 +11,11 @@ objectives:
   - "Demonstrate the ability to adapt your communication to different audiences "
 time: 50
 prep: |-
-  Group 3 pairs - one that has worked on each audience. 
+  Split into groups of six, and within your groups, split into three pairs of two people.
 
-  You might have to have repeated audiences in the same group.
+  The roles are that one trainee will be talking to their pair who is listening and responding, and the other trainees will be watching.
+
+  In some groups, you may need one person to be in more than one pair.
 introduction: Trainees will present how they would explain technical concepts to
   a specific audience.
 exercises:
@@ -21,22 +23,22 @@ exercises:
     goal: Actively listen to each others presentation
     time: 20
     content: >-
-      1. One set of trainees presents to the other pairs you are in a group with
+      1. One pair has a conversation - one person presents information, and the other listens to the information
 
-      2. The trainees that are listening should practice active listening techniques
+      2. The trainee that is listening should practice active listening techniques
 
-      3. The trainees that are listening should ask questions impersonating the audience that is being talked to (a 10 year old, a manager, a peer)
+      3. The trainee that is listening should ask questions impersonating the audience that is being talked to (a 10 year old, a manager, a peer)
 
-      4. Make notes of what you thought was good or interesting and what you think could be improved for the next exercise
+      4. Everyone should make notes of what you thought was good or interesting and what you think could be improved for the next exercise
   - name: Reflect on the presentation
     time: 30
-    goal: Give feedback on each others presentation
+    goal: Give feedback on each other's presentation
     content: >-
       1. You will work in the same groups
 
-      2. Each trainee should share what they thought was the most challenging in this exercise *(prep or in class)*
+      2. Each trainee should share what they thought was the most challenging in this exercise *(while preparing or in class)*
 
-      3. Share a clear example of something you liked on someone’s presentation
+      3. Share a clear example of something you liked on someone's presentation
 
 
       * Explain the specific situation/action
