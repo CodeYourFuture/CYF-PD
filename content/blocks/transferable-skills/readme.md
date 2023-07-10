@@ -5,6 +5,9 @@ modules: HTML-CSS
 week: "1"
 skills:
   - Communication
+objectives:
+  - Interpret transferrable skills that can be used in your new tech career
+  - Give feedback on a text prepared by a peer
 time: 40
 prep: Must have done the [prep
   work](https://cyf-pd.netlify.app/blocks/prep-transferable-skills/readme/)
@@ -23,7 +26,7 @@ exercises:
 
       * What skills do you use to adapt new situations?
 
-      * What skills do you use during this bootcamp?
+      * What skills do you use during this course?
   - name: Giving each other feedback
     time: 15
     goal: To practice providing feedback.
