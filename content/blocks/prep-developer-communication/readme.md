@@ -63,7 +63,7 @@ exercises:
     goal: Preparing the presentation for the lessons
   - name: Practice public speaking skills
     time: 20
-    goal: Be ready to prepare the content in class
+    goal: Be ready to present the content in class
     content: >-
       Work with your pair on how you will present this to the class.
 
