@@ -1,31 +1,37 @@
 ---
-title: "Introspection "
+title: Introspection in groups
 description: Evaluate your learning process so far.
 modules: HTML-CSS
 week: "4"
 skills:
   - Confidence
 objectives:
-  - By the end of this class the trainees will describe their learning process
-    so far.
-time: 25
+  - Organise common answers in the group about the trainees learning process so
+    far.
+time: 40
 prep: |-
-  M﻿ust have done prep work, bring it with you. \
-  Y﻿ou need a computer and internet for this exercise.
-introduction: I﻿ntrospection is important as it helps you understand yourself
-  and clearly set your goals.
+  Must have done prep work; bring it with you.\
+  You need a computer and internet for this exercise.
+introduction: Introspection in groups is important for gaining diverse
+  perspectives, enhancing self-awareness through feedback, receiving validation
+  and support, and promoting accountability and motivation.
 exercises:
-  - name: Introspection
-    time: 25
-    goal: To reflect on the learning process so far and work in groups.
+  - name: Agree on introspection answers in groups
+    time: 15
+    goal: Organise common answers in the group about the trainees learning process
+      so far.
     content: >-
-      In groups of 3 - 4 people, **discuss** your answers to the questions you
-      answered before the class. As a group **agree** on the final answers,
-      **write** them **down** and choose a speaker for your group who will
-      **present** your answers.
+      * In groups of 4 people, **discuss** your answers to the questions you
+      answered before the class.
+
+      *  As a group **agree** on the final answers and **write** them **down**  
+
+      * Choose a speaker for your group who will **present** your your agreed-upon answers. The presentation has to be done in **3 minutes**.
 
 
-      Agree on the final answers to the questions and discuss what your experience has been so far:
+
+
+      Questions:
 
 
       1. What we covered over the past weeks?
@@ -37,7 +43,15 @@ exercises:
       4. What tips and tricks we can share with each other?
 
       5. What advice we would give to the next class?
+  - name: Present your group answers to your cohort
+    time: 25
+    goal: Share your answers and agreed ideas in a 3 minutes verbal presentation
+    content: >-
+      * C﻿hoose a time keeper to ensure no group goes over the 3-minute
+      presentation time. 
+
+      * E﻿ach speaker of a group has to present their answers within **3 minutes**
 
 
-      **P﻿resent** your agreed-upon **answers** and overall **experience** in CYF so far.
+      *Tip: next speaker can omit some information that has already been said to avoid repetitive information and reduce their presentation time.*
 ---
