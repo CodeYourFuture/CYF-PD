@@ -115,15 +115,15 @@ exercises:
       **You will have to ensure you follow these rules:**
 
 
-      * **Avoid interrupting**
+      * Avoid interrupting
 
-      * **Listen without judgment**
+      * Listen without judgment
 
-      * **Paraphrase and summarise what the other person has told you to avoid miscommunication**
+      * Paraphrase and summarise what the other person has told you to avoid miscommunication
 
-      * **Let the other person know you are listening by showing it through positive nonverbal and body language behavior**
+      * Let the other person know you are listening by showing it through positive nonverbal and body language behavior
 
-      * **Ask specific, open-ended questions.**
+      * Ask specific, open-ended questions.
 
 
       **T﻿opics**
