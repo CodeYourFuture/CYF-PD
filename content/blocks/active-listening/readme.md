@@ -121,7 +121,7 @@ exercises:
 
       * Paraphrase and summarise what the other person has told you to avoid miscommunication
 
-      * Let the other person know you are listening by showing it through positive nonverbal and body language behavior
+      * Let the other person know you are listening by showing it through positive nonverbal and body language behaviour
 
       * Ask specific, open-ended questions.
 
@@ -131,7 +131,7 @@ exercises:
 
       1. **Topic:** What do you think are the most wanted technical skills and programming languages today in the job market and why? What do you think you need to do to be ready to showcase those technical skills?
 
-      2. **Topic**: How prepared do you feel to start interviewing for a software developer job? What do you think will be the most challenging parts of the whole recruitment process (initial recruiter call, behavioral interview, technical assessment)? What can you do to prepare better?
+      2. **Topic**: How prepared do you feel to start interviewing for a software developer job? What do you think will be the most challenging parts of the whole recruitment process (initial recruiter call, behavioural interview, technical assessment)? What can you do to prepare better?
 
       3. **Topic**: Talk about something personal you would like to share with the rest of the group. It could be a personal achievement, a struggle, a recent event that impacted you either positively or negatively, it could be just sharing your personal story!
 ---
