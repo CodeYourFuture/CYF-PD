@@ -31,7 +31,7 @@ exercises:
     goal: Use your critical thinking to answer the maximum number of questions on
       the quiz.
   - name: Developing the ultimate chocolate bar
-    time: 30
+    time: 25
     goal: To use critical thinking skills
     content: >-
       For the next exercise, you will use critical thinking skills to develop
@@ -42,7 +42,7 @@ exercises:
       **Instructions**
 
 
-      1. Stay in the same groups of 4t
+      1. Stay in the same groups of 4
 
       2. One person is the creator of the chocolate bar and the rest of the group are the customers/users 
 
@@ -73,7 +73,7 @@ exercises:
 
       **Repeat step 2**
   - name: Reflect on the exercise
-    time: 10
+    time: 25
     goal: Reflect on the learning of today's session
     content: >-
       O﻿rganise the cohort in a big circle for the reflection. 
