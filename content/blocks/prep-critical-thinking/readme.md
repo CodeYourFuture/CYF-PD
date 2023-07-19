@@ -8,7 +8,7 @@ skills:
 objectives:
   - By the end of this preparation trainees will be able to explain critical
     thinking.
-time: 60
+time: 55
 prep: "* Watch
   [video](https://protect-za.mimecast.com/s/OvCXCMjKL2hq3MqBXHwgSrP?domain=yout\
   u.be) on critical thinking and coders (5 minutes)"
