@@ -35,6 +35,16 @@ exercises:
 
       * How would you advise yourself in that moment to have a growth mindset? Make bullet points as detailed as possible
     name: Reflecting on your experiences
-    time: 30
+    time: 25
     goal: Use your past experience to identify the benefit of having a growth mindset
+  - content: >-
+      **Solve [this
+      quiz](https://www.positivityguides.net/test-your-mindset-quiz/)** on your
+      own. 
+
+
+      *M﻿ake a note of your outcome since you will use this in the session.*
+    name: Test your mindset
+    time: 10
+    goal: Identify your own mindset
 ---
