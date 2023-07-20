@@ -35,4 +35,13 @@ exercises:
       2. S﻿hare your text with this person.
       3. Read your pair’s text. 
       4. Give a feedback on their transferrable skill.
+  - name: Share how you will contribute to the cohort
+    time: 5
+    goal: Recognise how each trainee will contribute to the cohort
+    content: >-
+      Considering your discussion, what is the **one positive skill** that will
+      contribute to your cohort?
+
+
+      * Everyone to share 1 skill (no explanation needed, no discussion needed, keep it short)
 ---
