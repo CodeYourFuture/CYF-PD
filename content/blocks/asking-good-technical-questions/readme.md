@@ -23,7 +23,6 @@ introduction: |-
 
   1. (10m) How do you get help today? Why don’t you get help?
   2. (45m) Good question improvisation
-  3. (5m) Create groups
 exercises:
   - name: How do you get help today?  Why don’t you get help?
     time: 10
@@ -44,7 +43,7 @@ exercises:
 
       * Ask ChatGPT or other AI
 
-      * Ask a colleague
+      * Ask a peer
 
       * Ask an expert/senior
 
@@ -67,6 +66,8 @@ exercises:
       * Nothing stops me because most people usually get pleasure from helping, and often even enjoy showing off their knowledge.
 
       * Nobody has ever had my problem before, so there’s no point asking anyone
+
+      * Other (\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__)
   - name: Good Question Improvisation!
     time: 45
     goal: Practice framing a good question and get feedback on it
