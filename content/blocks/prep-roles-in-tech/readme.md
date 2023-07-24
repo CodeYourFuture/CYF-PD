@@ -9,7 +9,7 @@ skills:
 objectives:
   - Identify the different roles in the tech industry
 time: 60
-prep: n﻿/a
+prep: Make sure you have your laptop, good internet and some time to focus
 introduction: In the real world, it always takes a team of people with different
   skill sets to build valuable software. You will need to understand the typical
   roles and how they fit together.  This will also help you identify the ones
@@ -27,7 +27,7 @@ exercises:
 
       2. Make a list of all roles you found, with the role’s name and:
 
-      3. * one phrase describing what this job does
+         * one phrase describing what this job does
          * one phrase explaining why this job is essential
 
       *Tip: make sure you have easy access to this for the class.*
