@@ -15,9 +15,10 @@ objectives:
   - Create well constructed questions that provide helpful answers to technical
     issues
 time: 60
-prep: >
-  A4 paper with Exercise 1 printed for each trainee in the cohort, and made
-  available at the start of the session. Pens.
+prep: |-
+  * A4 paper with exercise 1 printed for each trainee in the cohort  
+  * Give each trainee one paper at the start of the session
+  * Pens
 introduction: |-
   3 exercises below:
 
