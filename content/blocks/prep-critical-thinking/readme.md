@@ -31,7 +31,7 @@ exercises:
         * M﻿ake sure your Google Doc can be commented by anyone
       * This should be done by Thursday evening at 20:00 before your next class
 
-      * M﻿ake sure you react to the definitions you liked with a ‘thumbs up’emoji
+      * M﻿ake sure you react to the definitions you liked with a ‘thumbs up’ emoji
     time: 50
     goal: This prep is for you to describe critical thinking
 ---
