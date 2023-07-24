@@ -39,8 +39,11 @@ exercises:
     time: 5
     goal: Recognise how each trainee will contribute to the cohort
     content: >-
-      Considering your discussion, what is the **one positive skill** that will
-      contribute to your cohort?
+      No one is good at everything however everyone is good at *something*. That
+      is why we work in teams - to combine our strengths.
+
+
+      Identify a **skill or strength** that you have that will **positively contribute** to the cohort.
 
 
       * Everyone to share 1 skill (no explanation needed, no discussion needed, keep it short)
