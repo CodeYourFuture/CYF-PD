@@ -8,10 +8,10 @@ skills:
 objectives:
   - By the end of this preparation trainees will be able to explain critical
     thinking.
-time: 58
-prep: "* Watch
-  [video](https://protect-za.mimecast.com/s/OvCXCMjKL2hq3MqBXHwgSrP?domain=yout\
-  u.be) on critical thinking and coders (5 minutes)"
+time: 60
+prep: "* R﻿ead this text and watch this
+  [video](https://thedevelopmentmanager.com/professional-personal-development-s\
+  kills-critical-thinking/) on critical thinking and coders (10 minutes)"
 introduction: Critical thinking is crucial because it enables individuals to
   analyse and evaluate information, make reasoned judgments, and approach
   problems with logical and rational thought processes.
@@ -19,7 +19,7 @@ exercises:
   - name: Critical thinking
     content: >-
       * A﻿fter watching the
-      [video](https://protect-za.mimecast.com/s/OvCXCMjKL2hq3MqBXHwgSrP?domain=youtu.be),
+      [video](https://thedevelopmentmanager.com/professional-personal-development-skills-critical-thinking/),
       how would you explain what critical thinking is to a 6th grader? Write out
       your definition to a maximum of 250 words
 
@@ -32,6 +32,6 @@ exercises:
       * This should be done by Thursday evening at 20:00 before your next class
 
       * M﻿ake sure you react to the definitions you liked with a ‘thumbs up’emoji
-    time: 55
+    time: 50
     goal: This prep is for you to describe critical thinking
 ---
