@@ -95,9 +95,10 @@ exercises:
       * A﻿sk 1 customer of each group to share. Again, if all reflection has been said, it's fine to just say "same as what was mentioned by X person" 
 
 
+      **C﻿onclusions**
 
 
-      **C﻿onclusions**When developing a product for a customer/user, we cannot merely rely on our gut feelings or preferences. Using critical thinking, we employ different types of research in our development. Critical thinking requires you to think beyond your opinions/facts that you know and your own experiences. It involves good decision-making and using other sources to form a sound judgement.
+      When developing a product for a customer/user, we cannot merely rely on our gut feelings or preferences. Using critical thinking, we employ different types of research in our development. Critical thinking requires you to think beyond your opinions/facts that you know and your own experiences. It involves good decision-making and using other sources to form a sound judgement.
 
 
       **Good versus Poor decision making**
