@@ -38,7 +38,7 @@ exercises:
     name: Creating pairs for the coursework
     time: 5
     goal: Update the shared file in which trainees can organise teamwork rotas
-  - name: Create pairs considering the availability
+  - name: Create pairs considering trainees' availability
     time: 10
     goal: Connect the people's availability defining the most effective pairs to
       work together
@@ -53,5 +53,5 @@ exercises:
 
       3. Identify who could pair together, considering their availability.
 
-      4. Someone should add these pairs on the other spreadsheet (exercise 1).
+      4. Someone should add these pairs to the other spreadsheet (exercise 1).
 ---
