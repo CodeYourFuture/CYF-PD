@@ -37,5 +37,5 @@ exercises:
       4. L﻿eave non-available slots in grey. (Examples of Non-available slots: school pick-up/drop-off times, eating times, individual studying, part-time job, resting time, exercising times, mental health focus, etc. You do not have to detail what you are doing, but consider these when adding your availability)
 
 
-      T﻿ip: Copy and paste one of the current coloured cells to your cell, this way you don't have to figure out what's the correct colour to use.
+      *T﻿ip: Copy and paste one of the current coloured cells to your cell, this way you don't have to figure out what's the correct colour to use.*
 ---
