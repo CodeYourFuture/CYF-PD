@@ -18,21 +18,27 @@ exercises:
       One trainee to set up a Google sheet on the cohort drive
 
 
-      * The spreadsheet must have at least the columns Date and Name
+      * The  first tab must have at least the columns Date and Name
 
       * The title of the spreadsheet should be XXX X Rota (substitute XXXX for the region initials and cohort number, for example, GLA 6)
 
-      * The title of the tab should be Slack Rota
+      * The name of the tab should be Slack Rota 
+
+      * A﻿dd the dates for the Fundamentals course
 
       * Save the file on the cohort drive
 
       * Post a message on the cohort Slack with the shared spreadsheet and the instructions on what to do (see below)
 
 
-      Every trainee must enter that spreadsheet and add their name against a date.
 
 
-      This file will be the rota of that person's daily messages posted on Slack. You have more information about it in your Coursework.
+      **I﻿nstructions**
+
+
+      * Every trainee must enter that spreadsheet and add their name against a date.
+
+      * This file will be the rota of that person's daily messages posted on Slack. You have more information about it in your Coursework.
     name: This is our Slack Rota spreadsheet
     time: 10
     goal: Have 1 shared file in which trainees can organise the Slack rota
