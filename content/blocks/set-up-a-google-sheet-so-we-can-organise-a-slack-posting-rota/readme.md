@@ -8,11 +8,16 @@ skills:
   - Professional Basics
 objectives:
   - "Create and share a Google sheet with your peers "
+  - "Practising posting on Slack "
 time: 15
 prep: O﻿ne trainee must volunteer to create the Google Sheet.
-introduction: Knowing how Google Sheets work is important as it enables
-  efficient data organisation, analysis, and collaboration, enhancing
-  productivity and enabling effective decision-making.
+introduction: >-
+  Knowing how Google Sheets work is essential as it enables efficient data
+  organisation, analysis, and collaboration, enhancing productivity and enabling
+  effective decision-making.
+
+
+  Effectively using Slack is also important since it will be part of your journey at CYF - and in your tech journey too. So let's practice posting simple things.
 exercises:
   - content: >-
       One trainee to set up a Google sheet on the cohort drive
