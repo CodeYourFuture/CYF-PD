@@ -31,7 +31,7 @@ exercises:
 
       5. Open the existent spreadsheet for pairs/groups and **create a new tab** called "JS1 Groups". 
 
-      6. Add the groups to the "JS1 Groups" tab
+      6. **Add the groups t**o the "JS1 Groups" tab
 
       7. Share the spreadsheet on Slack so it is visible to everyone.
 ---
