@@ -2,7 +2,7 @@
 title: Fail Fast Prep
 description: This exercise is the work to be done for the next lesson, in which
   we will discuss the Failing Fast concept.
-modules: JS1
+modules: JS2
 week: "1"
 skills:
   - Confidence
