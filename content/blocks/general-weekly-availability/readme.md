@@ -10,10 +10,14 @@ skills:
 objectives:
   - Share your weekly availability with your peers
 time: 10
-prep: T﻿he [General Weekly Availability
-  Spreadsheet](https://docs.google.com/spreadsheets/d/1udYTh7Kdwet5lbBlx_Nn2MQS4v6UX4aQ4E7AsPteCjY/edit#gid=0)
+prep: >-
+  The [General Weekly Availability
+  Spreadsheet](https://docs.google.com/spreadsheets/d/1GiAEOZixNXNssJtx3wh-rL_bvdINmCqlTcf1yukpsf8/copy?usp=sharing)
   for your cohort must have been created and shared with everyone. If no one has
   done this yet, take the initiative and do it.
+
+
+  T﻿his is one file for the cohort, not one per person.
 introduction: >-
   S﻿haring our general availability means that you and your peers can identify
   roughly who is available and when. 
