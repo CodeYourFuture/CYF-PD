@@ -72,36 +72,10 @@ exercises:
 
 
       Different group representatives volunteer to share thoughts with the class.
-  - goal: To write down acceptance criteria for user stories.
-    time: 15
-    name: Which acceptance criteria should this story have?
-    content: >-
-      A﻿cceptance criteria (A/C) are the business rules that define the
-      parameters and expectations for a user story to be considered done.
-      A﻿cceptance criteria can be a list of rules only, but the best way to
-      write them is using Gherkin Syntax (GIVEN, WHEN, THEN). 
-
-
-      A﻿s a developer, the acceptance criteria need to be very clear to you, to ensure you are building the correct piece of software. So discussing it as a team and everyone agreeing on them, is crucial to avoid user stories being blocked because of assumptions or lack of clarity. 
-
-
-      In the **same group**, chose one of the user stories you created and **define at least 2 acceptance criteria for this story**.
-
-
-      U﻿sing the previous example of user story about removing books from your basket, the A/C could be:
-
-
-      **Scenario: removing books from shopping cart**\
-
-      G﻿IVEN I have two books A and B added to my shopping cart *(describe initial context)*\
-
-      W﻿HEN I remove book A *(describe the event/action)*\
-
-      T﻿HEN I have only book B left *(describe the expected outcome)*
   - goal: To understand the process of breaking down user stories into tasks and
       distributing those tasks among team members.
     name: Tasks needed to deliver this user story
-    time: 12
+    time: 15
     content: >-
       Now that we have user stories, it is time to **break them down into
       tasks**. Tasks are used to break down user stories into smaller components
