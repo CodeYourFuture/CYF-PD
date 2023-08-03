@@ -75,13 +75,13 @@ exercises:
       9. Finally, discuss as a group your experience through this process.
 
 
-      **P﻿roblem 1** 
+      **Problem 1** 
 
 
       Your team need to design a user interface for an employee directory for your company. The user story: As an employee, I can find out who is who in my organisation so I know who to contact about particular projects or topics. Generate lots of different designs for what this might look like.
 
 
-      **P﻿roblem 2**
+      **Problem 2**
 
 
       Your child has a new hamster that is very acrobatic and gymnastic. For her birthday, you want to build a hamster gym. The user story: As a 10 year old, I want some fun obstacles that my hamster can play with so I can make TikTok video. Generate lots of designs for inexpensive hamster play equipment.
