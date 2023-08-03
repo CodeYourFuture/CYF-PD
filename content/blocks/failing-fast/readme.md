@@ -52,8 +52,8 @@ exercises:
       following the “Crazy 8's” Design Sprint method."
     time: 30
     content: >-
-      Form groups of 4 or 5 people. Read the problem below and follow the steps
-      below.
+      Form groups of 4 or 5 people. Chose one of the problems below and follow
+      these steps. *If you have time do a second round with the other problem.* 
 
 
       1. Grab a piece of paper
@@ -73,6 +73,18 @@ exercises:
       8. Pick the top idea with the most votes and discuss as a group for 5 minutes how to make it even better.
 
       9. Finally, discuss as a group your experience through this process.
+
+
+      **P﻿roblem 1** 
+
+
+      Your team need to design a user interface for an employee directory for your company. The user story: As an employee, I can find out who is who in my organisation so I know who to contact about particular projects or topics. Generate lots of different designs for what this might look like.
+
+
+      **P﻿roblem 2**
+
+
+      Your child has a new hamster that is very acrobatic and gymnastic. For her birthday, you want to build a hamster gym. The user story: As a 10 year old, I want some fun obstacles that my hamster can play with so I can make TikTok video. Generate lots of designs for inexpensive hamster play equipment.
 
 
       *It’s important to remember that the ideas do not have to be great. This exercise is about quieting the inner critic and giving our creative impulses space to flourish. Weird, impossible, and impractical ideas often give way to truly inspired ones. It’s called Crazy 8’s for a reason.*
