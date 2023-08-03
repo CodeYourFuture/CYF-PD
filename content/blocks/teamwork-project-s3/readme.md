@@ -22,7 +22,10 @@ introduction: >-
   H﻿owever, we cannot deliver everything at once. And we also cannot plan every detail. We can prioritise the must-haves and then focus on them.
 
 
-  > P﻿roduct > Features > User Stories > Acceptance criteria > Tasks
+  > P﻿roduct > Features > User Stories > Tasks
+
+
+  T﻿his mapping process is also sometimes called User Journey mapping or Story Mapping.  And you can - and should - do it whenever you are starting a new project.
 exercises:
   - goal: To understand the requirements of building a library website.
     name: What questions should we ask to identify what needs to be built?
