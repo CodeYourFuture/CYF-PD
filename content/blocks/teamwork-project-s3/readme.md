@@ -93,11 +93,11 @@ exercises:
 
       **Scenario: removing books from shopping cart**\
 
-      G﻿IVEN I have two books A and B added to my shopping cart\
+      G﻿IVEN I have two books A and B added to my shopping cart *(describe initial context)*\
 
-      W﻿HEN I remove book A\
+      W﻿HEN I remove book A *(describe the event/action)*\
 
-      T﻿HEN I have only book B left
+      T﻿HEN I have only book B left *(describe the expected outcome)*
   - goal: To understand the process of breaking down user stories into tasks and
       distributing those tasks among team members.
     name: Tasks needed to deliver this user story
