@@ -72,9 +72,10 @@ exercises:
 
       *P﻿S: Do NOT discuss the day plan exercises. Otherwise, this will disrupt the lesson.*
   - content: >-
-      1. Read the article "[Belbin's Team
-      Roles](https://www.mindtools.com/pages/article/newLDR_83.htm)" and watch
-      the video. 
+      T﻿his is an individual task.
+
+
+      1. Read the article "[Belbin's Team Roles](https://www.mindtools.com/pages/article/newLDR_83.htm)" and watch the video. 
 
       2. Reflect on the team roles you have taken so far in your life. 
 
