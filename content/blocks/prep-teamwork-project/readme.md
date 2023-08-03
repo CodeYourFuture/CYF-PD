@@ -54,4 +54,23 @@ introduction: >-
 
 
   ![An image that shows the tasks per week for the Teamwork project. Week 1: Tech roles, Team goals, project board and product ideas. Week 2: Tech product, requirements, resolving conflicts. Week 3: MVP, Feature & user story, Team dynamics. Week 4: Presentations and retrospective](teamwork-project.png "Teamwork Project")
+exercises:
+  - content: >-
+      1. Prepare for the meeting by reading the Sprint 1-Day Plan yourself. Make
+      notes of questions or important information you think would be essential
+      to discuss with your team.
+
+      2. Read the article "[Belbin's Team Roles](https://www.mindtools.com/pages/article/newLDR_83.htm)" and watch the video. Reflect on the team roles you have taken so far in your life. *Keep this article in mind if you need to change your behaviour to help your team perform better during the project.*
+    name: Prepare for your team meeting
+    time: 60
+    goal: Be prepared for the first meeting with your team
+  - name: Have a first meeting with your team
+    time: 60
+    goal: Understand the teamwork project
+    content: >-
+      1. Organise **or** attend the first call with your team
+
+      2. Discuss your understanding of the project, your questions and what you think you as a team should prepare for.
+
+      3. Discuss the different roles a team has and your understanding of it as a team
 ---
