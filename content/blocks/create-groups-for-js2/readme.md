@@ -8,7 +8,7 @@ skills:
   - Teamwork
 objectives:
   - "Identify groups of people with similar availability that can work together "
-time: 5
+time: 10
 prep: O﻿pen the group spreadsheet and create a new tab called "JS2 Groups"
 introduction: Interacting with diverse groups fosters empathy, enhancing
   interpersonal skills for handling others effectively. So focus on grouping
