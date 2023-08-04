@@ -1,5 +1,5 @@
 ---
-title: Teamwork Project Presentation
+title: Teamwork Project Presentation prep
 description: In the next session, you will present your product’s brief, what
   you have learnt and how you have worked during the Teamwork Project.
 modules: JS3
@@ -20,7 +20,7 @@ introduction: >-
   product, the same way you sell yourself when searching for a job. 
 
 
-  Work in a team and agree on how your product will be presented by all of you.
+  Work in a team on how all of you will present your product.
 exercises:
   - content: >-
       You will create a 5 minute long presentation about:
