@@ -12,7 +12,7 @@ objectives:
 time: 10
 prep: >-
   The [General Weekly Availability
-  Spreadsheet](https://docs.google.com/spreadsheets/d/1GiAEOZixNXNssJtx3wh-rL_bvdINmCqlTcf1yukpsf8/copy?usp=sharing)
+  Spreadsheet](https://docs.google.com/spreadsheets/d/1MtWyOhoaZCsFH12PLXbAMHBS_e32nQNseVkMj2OP0Q0/copy)
   for your cohort must have been created and shared with everyone. If no one has
   done this yet, take the initiative and do it.
 
@@ -32,7 +32,8 @@ exercises:
     time: 10
     goal: Share your weekly availability with your peers
     content: >-
-      1. Open to the cohort's General Weekly Availability spreadsheet. 
+      1. Open to the cohort's [General Weekly Availability
+      spreadsheet](https://docs.google.com/spreadsheets/d/1MtWyOhoaZCsFH12PLXbAMHBS_e32nQNseVkMj2OP0Q0/copy). 
 
       2. A﻿dd your name to the following line that is available in column A
 
