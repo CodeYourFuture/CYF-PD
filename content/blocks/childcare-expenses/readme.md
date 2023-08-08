@@ -5,8 +5,7 @@ modules: Fundamentals
 week: "1"
 skills:
   - Professional Basics
-objectives:
-  - With this exercise trainees can request childcare expenses, if needed
+objectives: []
 time: 30
 prep: Read this
   [link](https://docs.codeyourfuture.io/trainees/support/trainee-expenses#childcare)
