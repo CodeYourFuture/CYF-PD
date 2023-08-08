@@ -6,8 +6,7 @@ modules: Fundamentals
 week: "1"
 skills:
   - Professional Basics
-objectives:
-  - Agree on all terms and rules to be part of Code Your Future
+objectives: []
 time: 40
 prep: N﻿/A
 introduction: Agreements are important because they establish clear expectations
