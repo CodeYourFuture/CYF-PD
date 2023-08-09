@@ -31,7 +31,7 @@ exercises:
       Write down about this event and reflect on it. 
 
 
-      Y﻿ou can use following questions to guide you.
+      Y﻿ou can use the following questions to guide you.
 
 
       * What did you learn from it? 
