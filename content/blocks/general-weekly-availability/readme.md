@@ -26,7 +26,7 @@ introduction: >-
   Why is this important? 
 
 
-  Because you can then identify pairs and groups that can help each other, and helping each other isn't only good for the community and your relationship and makes us feel good about ourselves.
+  Because you can then identify pairs and groups that can help each other, and helping each other is good for the community and your relationship, and makes us feel good about ourselves.
 exercises:
   - name: Add your general availability
     time: 10
@@ -35,7 +35,7 @@ exercises:
       1. Open to the cohort's [General Weekly Availability
       spreadsheet](https://docs.google.com/spreadsheets/d/1MtWyOhoaZCsFH12PLXbAMHBS_e32nQNseVkMj2OP0Q0/copy). 
 
-      2. A﻿dd your name to the following line that is available in column A
+      2. A﻿dd your name to the next line that is available in column A.
 
       3. Use the same colour as the example to identify when you are available. 
 
