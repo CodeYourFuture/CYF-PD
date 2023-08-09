@@ -54,7 +54,7 @@ exercises:
       Discuss **as a class** the **responsibilities** of the following tech roles. 
 
 
-      Write a **brief description** for each of them on a post-its and share the post it on a collaborative board:
+      Write a **brief description** for each of them on a post-it and share the post it on a collaborative board:
 
 
       * Front-end web developer
