@@ -24,7 +24,7 @@ exercises:
       I﻿n pairs, you will work on two different problems 
 
 
-      1. Each individual will pick a problem to solve f rom the list below.
+      1. Each individual will pick a problem to solve from the list below.
 
       2. Take no more than 5 minutes to come up with a way to solve it. There is no silly solution so don’t be afraid to come up with something that may even sound funny. The idea is to do this as quickly as possible.
 
@@ -46,7 +46,7 @@ exercises:
 
       * **Problem 1**: A company called SuperShoes is trying to find new revenue streams. They sell their shoes in brick stores as well as online. One idea they are exploring is the ability for customers to customise their shoes online when ordering them. Your job is to either further develop this idea or come up with a totally new one. Feel free to draw your vision on a piece of paper if you think that will help you explain it to your partner when gathering feedback. 
 
-      * **Problem 2:** A social media company called SuperSocial runs a site that is aimed to show events and news happenings in neighborhoods. Recently they are noticing a drop in user engagement. Users are not visiting the site as often and when they do, they are not spending much time on it. The company is trying to look for ways to keep users entertained for longer. Your job is to look into new things that could keep users engaged. It could be a new type of content, maybe adding games or maybe creating a new rewards program based on users' interactions and contributions on the site. Feel free to draw your vision on a piece of paper if you think that will help you explain it to your partner when gathering feedback.
+      * **Problem 2:** A social media company called SuperSocial runs a site that aims to show events and news happenings in neighborhoods. Recently they are noticing a drop in user engagement. Users are not visiting the site as often and when they do, they are not spending much time on it. The company is trying to look for ways to keep users entertained for longer. Your job is to look into new things that could keep users engaged. It could be a new type of content, maybe adding games or maybe creating a new rewards program based on users' interactions and contributions on the site. Feel free to draw your vision on a piece of paper if you think that will help you explain it to your partner when gathering feedback.
   - name: Practice idea generation
     goal: " Learn how to generate many ideas in a very short period of time by
       following the “Crazy 8's” Design Sprint method."
@@ -64,7 +64,7 @@ exercises:
 
       4. Individually, each team member sketches one idea in each rectangle, trying their best until all sections are filled
 
-      5. When the timer goes off, all pens are down
+      5. When the timer goes off, everyone puts their pens down
 
       6. Each person now presents their top two or three ideas, out of their whole Crazy Eight matrix, to the group.
 
