@@ -15,15 +15,15 @@ prep: Watch this video about [public speaking
   skills](https://www.ted.com/talks/amy_cuddy_your_body_language_may_shape_who_you_are)
   to improve your presentation skills.
 introduction: >-
-  B﻿eing part f a product team is about teamwork and delivering working software
-  that gives value to the user. An important aspect is to also sell your
-  product, the same way you sell yourself when searching for a job. 
+  Being part f a product team is about teamwork and delivering working software
+  that gives value to the user. An important aspect is selling your product, the
+  same way you market yourself when searching for a job. 
 
 
   Work in a team on how all of you will present your product.
 exercises:
   - content: >-
-      You will create a 5 minute long presentation about:
+      You will create a 5-minute long presentation about:
 
 
       * Your product’s brief (what is your MVP, who are your users, what is the value, etc.)
@@ -34,10 +34,10 @@ exercises:
 
       * What would your barriers be if you were to build this product in real life
 
-      * How you would overcome those barriers to successfully launch your product
+      * How would you overcome those barriers to successfully launch your product
 
 
-      Share your presentation (e.g. PowerPoint slides, Word doc, hand-made poster, etc). on your project board.
+      Share your presentation (e.g. PowerPoint slides, Word doc, hand-made poster, etc.). on your project board.
     name: Creating the presentation
     goal: Prepare a presentation for a product pitch as a team
     time: 120
@@ -50,18 +50,18 @@ exercises:
 
       * Each team will have 5 minutes to present
 
-      * Everyone in your team should get a chance to speak; some of you may speak longer and some shorter
+      * Everyone in your group should get a chance to speak; some of you may talk longer and some shorter
 
 
-      Identify which content/slides will be presented by whom in the team.
+      Identify which content/slides will be delivered by whom in the team.
 
 
-      P﻿ractice to present, give each other feedback, review it and practice again:
+      Practice present, give each other feedback, review it and practice again:
 
 
-      * i﻿s ﻿the presenters communication clear
+      * is ﻿the presenter's communication clear
 
-      * i﻿s t﻿he presenters body-language aligned with what t﻿hey are saying
+      * is ﻿the presenter’s body language aligned with what they are saying
 
-      * can the team keep time to the 5 minutes (this includes the time to get the presentation up and running)
+      * can the team keep time to 5 minutes (this includes the time to get the presentation up and running)
 ---
