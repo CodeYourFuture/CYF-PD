@@ -7,7 +7,7 @@ skills:
   - Time/Project Management
 objectives:
   - Be able to create SMART Goals for different scenarios
-time: 16
+time: 20
 prep: |-
   M﻿ust have done prep work, bring it with you. \
   Y﻿ou need a computer and internet for this exercise.
