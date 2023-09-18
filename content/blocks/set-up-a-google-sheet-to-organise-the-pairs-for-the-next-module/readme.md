@@ -22,16 +22,21 @@ introduction: >-
   PS: It’s important to pair with different people in your cohort. There is more diversity, there better your professional competencies will evolve.
 exercises:
   - content: >-
-      One trainee to update the Google sheet “XXX X Rota” on the cohort drive
 
+      On the Fundamentals section of the course, you should have created a rota spreadsheet of the form “XXX X Rota”, replacing the "X"'s with the name of your region and cohort number.
+      For example, "NW 6 Rota" for the cohort in North West and cohort 6.
+      
+      Double check this rota spreadsheet is bookmarked to your cohort channel and post a link to the spreadsheet on Slack
+      
+      
+      One trainee needs to update this Google sheet “XXX X Rota” on the cohort drive
+
+
+      * Create a new tab on the spreadsheet called “Pairs Induction”
 
       * The new tab must have two columns, one with the title “Pair 1” and another for “Pair 2.” 
 
-      * The name of the tab should be “Pairs Induction”
-
       * Post a message on the cohort Slack with the shared spreadsheet and the instructions on what to do (see below)
-
-
 
 
       This tab will be the rota of the coursework.
