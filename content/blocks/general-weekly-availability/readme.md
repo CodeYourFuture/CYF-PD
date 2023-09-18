@@ -16,6 +16,9 @@ prep: >-
   for your cohort must have been created and shared with everyone. If no one has
   done this yet, take the initiative and do it.
 
+  - Someone in your cohort needs to bookmark this spreadsheet on your cohort channel in Slack.
+  - Someone in your cohort also needs to do a brief post on Slack linking people to this spreadsheet.
+
 
   T﻿his is one file for the cohort, not one per person.
 introduction: >-
