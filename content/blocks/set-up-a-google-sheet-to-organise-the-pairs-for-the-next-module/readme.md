@@ -52,7 +52,7 @@ exercises:
       of them should be done by one person:
 
 
-      1. H﻿ow many hours of coursework has to be done in pairs? Double check the issues that have a 🫱🏿‍🫲🏽 Pairs label on this module's backlog
+      1. H﻿ow many hours of coursework have to be done in pairs? Double check the issues that have a 🫱🏿‍🫲🏽 Pairs label on this module's backlog
  
       2. Open the "General Weekly Availability" spreadsheet.
 
