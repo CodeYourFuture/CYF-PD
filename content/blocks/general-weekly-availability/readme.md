@@ -11,10 +11,9 @@ objectives:
   - Share your weekly availability with your peers
 time: 10
 prep: >-
-  The [General Weekly Availability
+ Copy this [General Weekly Availability
   Spreadsheet](https://docs.google.com/spreadsheets/d/1MtWyOhoaZCsFH12PLXbAMHBS_e32nQNseVkMj2OP0Q0/copy)
-  for your cohort must have been created and shared with everyone. If no one has
-  done this yet, take the initiative and do it.
+  for your cohort and share it with everyone. If no one has done this yet, take the initiative and do it.
 
   - Someone in your cohort needs to bookmark this spreadsheet on your cohort channel in Slack.
   - Someone in your cohort also needs to do a brief post on Slack linking people to this spreadsheet.
