@@ -20,7 +20,7 @@ exercises:
 
       * This link talks about interesting tips on [how to use Slack](https://dispatch.m.io/slack-etiquette/)
 
-      * Watch [this video](https://app.wowto.ai/link/MgDFclxInpb&autolocale=true) about Slack Etiquette for our community
+      * Watch [this video](https://www.youtube.com/watch?v=CaI0tP-SEJg) about Slack Etiquette for our community
 
       * Read this text about [replying in a thread](https://docs.codeyourfuture.io/trainees/guides/common-responses/reply-in-thread)
 
