@@ -45,16 +45,16 @@ exercises:
     time: 10
     goal: For everyone to actively use Slack and reply in a thread
     content: >-
-      * O﻿ne trainee posts something on the cohort Slack (for example, do you
-      like Slack? or What is your favourite colour?)
+      * O﻿ne trainee posts something on the cohort Slack *(for example, do you
+      like Slack? or What is your favourite colour?)*
 
       * Every trainee must reply to it - this exercise only finishes if we have the same number of replies as the number of trainees in the class!
   - name: Organising the cohort thread
     time: 10
     goal: Organisation of tasks whilst using Slack
     content: >-
-      Someone should post a question on Slack: "What would you do if you come to
-      a class and there are no volunteers to guide it? How would you organise
+      Someone should post this question on Slack: "What would you do if you come
+      to a class and there are no volunteers to guide it? How would you organise
       yourselves?".
 
 
