@@ -7,9 +7,10 @@ week: "1"
 skills:
   - Professional Basics
 objectives:
-  - Trainees to be able to differentiate professional development and technical
-    skills
-  - Distinguish the importance of professional skills to be a good leader
+  - Explain why professional development skills are important for individuals
+    seeking tech jobs.
+  - Explain the difference between hard (technical) skills and soft
+    (professional) skills
 time: 30
 prep: >-
   In-person: 
