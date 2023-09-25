@@ -7,7 +7,7 @@ skills:
   - Professional Basics
 objectives:
   - "Identify groups of people with similar availability that can work together "
-time: 15
+time: 10
 prep: Use the existent cohort spreadsheet.
 introduction: Working in groups of different people than only your close peers
   makes you a more empathic person, which is an excellent quality when dealing
