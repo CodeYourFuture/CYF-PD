@@ -7,8 +7,8 @@ week: "1"
 skills:
   - Professional Basics
 objectives:
-  - After this session, trainees can apply the Code of Conduct to have a safe
-    community
+  - Utilise the CYF Code of Conduct to identify desirable and undesirable
+    behaviours in specific situations.
 time: 25
 prep: Use this [slide
   deck](https://docs.google.com/presentation/d/1k7F64r8dMImDSXhOei3ovUdy3Y5MhqSXM4Y4E6d3E04/edit)
