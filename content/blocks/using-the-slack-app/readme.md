@@ -9,7 +9,8 @@ objectives:
   - By the end of this session trainees will know how to use Slack as a
     communication tool
 time: 45
-prep: Everyone must have their laptops up and running and connected to the internet.
+prep: Everyone must have their laptops connected to the internet and the Slack
+  app open.
 introduction: >-
   Slack is a collaboration platform that enables efficient team communication,
   file sharing, and integration with various tools.
