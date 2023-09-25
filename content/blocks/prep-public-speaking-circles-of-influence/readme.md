@@ -60,26 +60,26 @@ exercises:
     goal: Prepare a THREE-minute talk on a topic you are very familiar with and
       confident about
     content: >-
-      Think of ONE topic that might be suitable for your short talk. It must be
-      something you are VERY confident and comfortable with and does not have to
-      be technical. For example, it could be about some particular cooking
-      method or simple recipe, a favourite hobby or sport, or tourist tips for a
-      place you love. You will not use slides or any other props.  
+      Think of **ONE topic** that might be suitable for your short talk. It must
+      be **something you are VERY confident and comfortable** with and **does
+      not have to be technical**. For example, it could be about some particular
+      cooking method or simple recipe, a favourite hobby or sport, or tourist
+      tips for a place you love. You will not use slides or any other props.  
 
 
-      For your topic, think of THREE key messages that are the most important. For example, if your topic was “How to create the perfect poached egg”, your three messages might be: 1) how to prepare the water; 2) the best way to crack the egg; 3) how long to cook it.
+      For your topic, think of **THREE key messages** that are the most important. *For example, if your topic was “How to create the perfect poached egg”, your three messages might be: 1) how to prepare the water; 2) the best way to crack the egg; 3) how long to cook it.*
 
 
-      Do some quick (<10 minutes) internet research on HOW to deliver short talks to small groups.  Some things you might consider:
+      Do some quick (<10 minutes) internet research on **HOW to deliver short talks** to small groups.  Some things you might consider:
 
 
-      * **Organise your talk**:  tell them what you’re going to tell them; tell them; tell them what you told them.
+      * **Organise your talk**:  tell them what you will say to them;
 
       * **Know your audience**: think about what they might already know and what is important for them to understand from your talk.
 
-      * **Connect to your audience** with an example or short story.  Interact with them by asking closed questions.
+      * **Connect to your audience** with an example or short story. Interact with them by asking closed questions.
 
-      * **Control your voice**: speak clearly, not too fast, and leave pauses for your audience to think
+      * **Control your voice**: speak clearly, not too fast, and leave pauses for your audience to think.
 
       * **Manage nervousness**: start with some deep breaths, a big smile, and focus on your message, not you.
 
@@ -88,5 +88,5 @@ exercises:
       * **Be authentic**: just be you!  People intuitively recognise when someone is just talking as their natural, authentic self, and they will trust and connect with you better.
 
 
-      Practice your three-minute talk with a friend or family member. Check that it takes three minutes or less. Ask your friend what they liked about your talk, and one thing that might improve it.
+      **Practice** your three-minute talk with a friend or family member. C**heck that it takes three minutes or less**. Ask your friend what they liked about your talk, and one thing that might improve it.
 ---
