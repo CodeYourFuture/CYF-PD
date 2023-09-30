@@ -11,7 +11,7 @@ objectives:
     behaviours in specific situations.
 time: 25
 prep: Use this [slide
-  deck](https://docs.google.com/presentation/d/1k7F64r8dMImDSXhOei3ovUdy3Y5MhqSXM4Y4E6d3E04/edit)
+  deck](https://docs.google.com/presentation/d/1o58dBm8lEdA2Iz8zABnsv6aFDjkXJp8XoUC9tuO1ER0/edit?usp=sharing)
   to do this activity.
 introduction: The Code of Conduct is the guideline for ethical and respectful
   behaviour in our community. We all need to be aware of and understand it since
