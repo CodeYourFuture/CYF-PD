@@ -6,8 +6,8 @@ week: "2"
 skills:
   - Professional Basics
 objectives:
-  - By the end of this session trainees will know how to use Slack as a
-    communication tool
+  - List the reasons why it is important to react to channels, messages, and
+    threads in Slack
 time: 45
 prep: Everyone must have their laptops connected to the internet and the Slack
   app open.
