@@ -10,7 +10,7 @@ objectives:
   - Explain why professional development skills are important for individuals
     seeking tech jobs.
   - Explain the difference between hard (technical) skills and soft
-    (professional) skills
+    (professional) skills in 5 sentences
 time: 30
 prep: >-
   In-person: 
