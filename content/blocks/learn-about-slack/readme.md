@@ -6,7 +6,7 @@ week: "2"
 skills:
   - Professional Basics
 objectives:
-  - Trainees will be able to describe Slack's basic funcionalities
+  - Describe Slack's basic funcionalities in 5 sentences
 time: 30
 prep: You need to use the Internet to search for answers.
 introduction: S﻿lack is the primary collaboration tool within our community and
