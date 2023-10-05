@@ -30,7 +30,7 @@ prep: >-
 
 
   [Slide deck](https://docs.google.com/presentation/d/1Kti5KVzY9GGJ9rNU8Ye0G5eRNJo1S_qAzbTO1DosOnU/edit?usp=sharing)
-introduction: F﻿or this exercise, you will work with your whole cohort. Make
+introduction: For this exercise, you will work with your whole cohort. Make
   sure you have at least one contribution during each part of the exercise.
 exercises:
   - content: >-

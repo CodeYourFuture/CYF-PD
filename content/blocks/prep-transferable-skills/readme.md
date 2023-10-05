@@ -25,7 +25,7 @@ exercises:
       Share it with your pair of the week advance, so they can read it and you can discuss it in the class.
 
 
-      M﻿ake sure you also read the text you receive beforehand.
+      Make sure you also read the text you receive beforehand.
     name: Write about your previous job/education experience
     time: 40
     goal: Reflect about your transferrable skills

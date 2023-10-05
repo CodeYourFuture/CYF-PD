@@ -9,7 +9,7 @@ objectives:
   - Describe Slack's basic funcionalities in 5 sentences
 time: 30
 prep: You need to use the Internet to search for answers.
-introduction: S﻿lack is the primary collaboration tool within our community and
+introduction: Slack is the primary collaboration tool within our community and
   tech companies. This means you have to know it for your future job in tech.
 exercises:
   - name: What is Slack?

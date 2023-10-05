@@ -45,7 +45,7 @@ exercises:
     time: 10
     goal: For everyone to actively use Slack and reply in a thread
     content: >-
-      * O﻿ne trainee posts something on the cohort Slack *(for example, do you
+      * One trainee posts something on the cohort Slack *(for example, do you
       like Slack? or What is your favourite colour?)*
 
       * Every trainee must reply to it - this exercise only finishes if we have the same number of replies as the number of trainees in the class!
@@ -67,17 +67,17 @@ exercises:
     time: 15
     goal: Understand how the cohort will self-organise
     content: >-
-      W﻿ith the input of the previous discussion in the thread,  in groups of 4,
+      With the input of the previous discussion in the thread,  in groups of 4,
       discuss:
 
 
       1. List the 5 actions that are the highest priority, if you arrive and there is no volunteer available.  
 
-      2. D﻿efine what steps would you take to solve the 5 steps.
+      2. Define what steps would you take to solve the 5 steps.
 
-      3. 1﻿ team to share their reflection and importance of knowing this
+      3. 1 team to share their reflection and importance of knowing this
 
-      4. O﻿ther teams to their complementary reflection
+      4. Other teams to their complementary reflection
 
 
       Remember: self-organisation is a goal for the cohort!

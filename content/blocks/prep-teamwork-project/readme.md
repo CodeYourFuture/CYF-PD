@@ -17,9 +17,9 @@ prep: |-
   * A mix of genders
   * Maximum 5 members
 
-  T﻿o do so organise yourselves as a cohort.
+  To do so organise yourselves as a cohort.
 
-  *T﻿ip: try to work with people you haven't worked with yet.*
+  *Tip: try to work with people you haven't worked with yet.*
 introduction: >-
   Working as a team when developing software is very important. The
   collaboration, knowledge sharing and diversity of skill sets result in
@@ -70,9 +70,9 @@ exercises:
       2. Discuss your understanding of the project, your questions and what you think you as a team should prepare for.
 
 
-      *P﻿S: Do NOT discuss the day plan exercises. Otherwise, this will disrupt the lesson.*
+      *PS: Do NOT discuss the day plan exercises. Otherwise, this will disrupt the lesson.*
   - content: >-
-      T﻿his is an individual task.
+      This is an individual task.
 
 
       1. Read the article "[Belbin's Team Roles](https://www.mindtools.com/pages/article/newLDR_83.htm)" and watch the video. 

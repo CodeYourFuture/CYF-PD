@@ -17,7 +17,7 @@ prep: >-
 
   * Watch this [video](https://www.youtube.com/watch?v=wmMgjrqhHrw) about failure and how you learn and innovate.
 introduction: >-
-  Failing fast is crucial for identifying flaws a﻿nd giving you a quick
+  Failing fast is crucial for identifying flaws and giving you a quick
   opportunity to change anything that is needed.
 
 
@@ -31,7 +31,7 @@ exercises:
       Write down about this event and reflect on it. 
 
 
-      Y﻿ou can use the following questions to guide you.
+      You can use the following questions to guide you.
 
 
       * What did you learn from it? 

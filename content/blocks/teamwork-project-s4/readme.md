@@ -17,7 +17,7 @@ prep: >-
 
   * All group members should have their presentation downloaded on their computers in case the internet or someone’s laptop doesn’t work on the day.
 
-  * C﻿hose one person to be the timekeeper
+  * Chose one person to be the timekeeper
 introduction: During the presentations, listen actively to each other and write
   down questions you would like to ask or feedback you would like to give.
 exercises:

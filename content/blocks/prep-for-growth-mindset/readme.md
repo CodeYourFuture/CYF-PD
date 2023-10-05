@@ -43,7 +43,7 @@ exercises:
       own. 
 
 
-      *M﻿ake a note of your outcome since you will use this in the session.*
+      *Make a note of your outcome since you will use this in the session.*
     name: Test your mindset
     time: 10
     goal: Identify your own mindset

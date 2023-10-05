@@ -94,22 +94,22 @@ exercises:
       You’ll need these questions as you will work on them to structure them
       into good questions that are likely to get valuable responses on Saturday.
   - content: >-
-      A﻿ fellow trainee is asking a question on the channel that they are stuck,
+      A fellow trainee is asking a question on the channel that they are stuck,
       sends an example and asks for help. 
 
 
-      Y﻿ou check it and you can find the problem immediately. What do you do?
+      You check it and you can find the problem immediately. What do you do?
 
 
       1. Give them the answer
 
-      2. P﻿rompt them with questions so they can find the answer themselves?
+      2. Prompt them with questions so they can find the answer themselves?
 
 
-      T﻿hink about the differences and the benefits between these questions.
+      Think about the differences and the benefits between these questions.
 
 
-      A﻿nd now, considering we want to help each other to learn, which strategy will you use more moving forward?
+      And now, considering we want to help each other to learn, which strategy will you use more moving forward?
     name: Unblocking someone or helping them to learn?
     time: 15
     goal: Compare different ways of answering questions

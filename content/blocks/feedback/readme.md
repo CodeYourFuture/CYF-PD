@@ -17,7 +17,7 @@ prep: >-
   Work with your pair.
 
 
-  Y﻿ou will play the three situations once.
+  You will play the three situations once.
 introduction: >-
   Take turns to play the roles below and answer the following questions for each
   situation:

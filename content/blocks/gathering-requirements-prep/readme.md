@@ -9,11 +9,11 @@ objectives:
   - "Define product, MVP, feature, user story "
 time: 60
 introduction: >-
-  T﻿o be able to gather requirements, you need to think about the product,
+  To be able to gather requirements, you need to think about the product,
   Minimum Viable Product (MVP), features and user stories. 
 
 
-  I﻿n this prep work, you will understand the theory and reflect on these concepts so that you are prepared for the exercises that will be done during the lesson.
+  In this prep work, you will understand the theory and reflect on these concepts so that you are prepared for the exercises that will be done during the lesson.
 exercises:
   - content: >-
       Read the following materials and get familiar with "product", “MVP”,

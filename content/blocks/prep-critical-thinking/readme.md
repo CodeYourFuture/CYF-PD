@@ -9,7 +9,7 @@ objectives:
   - By the end of this preparation trainees will be able to explain critical
     thinking.
 time: 60
-prep: "* R﻿ead this text and watch this
+prep: "* Read this text and watch this
   [video](https://thedevelopmentmanager.com/professional-personal-development-s\
   kills-critical-thinking/) on critical thinking and coders (10 minutes)"
 introduction: Critical thinking is crucial because it enables individuals to
@@ -18,20 +18,20 @@ introduction: Critical thinking is crucial because it enables individuals to
 exercises:
   - name: Critical thinking
     content: >-
-      * A﻿fter watching the
+      * After watching the
       [video](https://thedevelopmentmanager.com/professional-personal-development-skills-critical-thinking/),
       how would you explain what critical thinking is to a 6th grader? Write out
       your definition to a maximum of 250 words
 
-        * M﻿ake sure you use a grammar tool, such as Grammarly, to correct your English
-        * C﻿reate this in a Google doc
-      * P﻿ost the link to your Google Doc on the Slack in thread about "Critical Thinking" 
+        * Make sure you use a grammar tool, such as Grammarly, to correct your English
+        * Create this in a Google doc
+      * Post the link to your Google Doc on the Slack in thread about "Critical Thinking" 
 
-        * I﻿f no one has created the Slack thread, start it
-        * M﻿ake sure your Google Doc can be commented by anyone
+        * If no one has created the Slack thread, start it
+        * Make sure your Google Doc can be commented by anyone
       * This should be done by Thursday evening at 20:00 before your next class
 
-      * M﻿ake sure you react to the definitions you liked with a ‘thumbs up’ emoji
+      * Make sure you react to the definitions you liked with a ‘thumbs up’ emoji
     time: 50
     goal: This prep is for you to describe critical thinking
 ---

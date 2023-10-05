@@ -70,7 +70,7 @@ exercises:
 
       * Define who will say what part of the presentation.
 
-      * T﻿hink about possible questions that could be asked and reflect on the answers you should give.
+      * Think about possible questions that could be asked and reflect on the answers you should give.
 
       * Give each other feedback whilst practising.
 ---
