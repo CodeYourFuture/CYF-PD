@@ -6,7 +6,8 @@ week: "3"
 skills:
   - Communication
 objectives:
-  - Trainees can present a planned content to an audience
+  - Apply knowledge of audience adaptation by delivering a presentation adapted
+    to your audience, focusing on the benefit and engagement factor
 time: 50
 prep: E﻿nsure you have done the prep exercise
 introduction: >-
