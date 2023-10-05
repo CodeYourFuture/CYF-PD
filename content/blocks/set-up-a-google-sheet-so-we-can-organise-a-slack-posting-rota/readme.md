@@ -7,7 +7,8 @@ week: "2"
 skills:
   - Professional Basics
 objectives:
-  - "Create and share a Google sheet with your peers "
+  - Apply the knowledge of how to set up a Google Sheet by creating one on the
+    cohort drive
   - "Practising posting on Slack "
 time: 15
 prep: O﻿ne trainee must volunteer to create the Google Sheet.
