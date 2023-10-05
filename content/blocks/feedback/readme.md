@@ -7,7 +7,7 @@ week: "1"
 skills:
   - Communication
 objectives:
-  - Differentiate positive and negative feedbacks
+  - Give 3 examples of positive and negative feedback
 time: 15
 prep: >-
   Must have done the [prep
