@@ -7,8 +7,8 @@ week: "1"
 skills:
   - Employability
 objectives:
-  - When completing this exercise you will be able to recognise what
-    transferrable skills you already have
+  - Analyse your previous job/education experience to identify the skills you
+    can reuse as a developer
 time: 60
 prep: Go through [this slides
   deck](https://docs.google.com/presentation/d/1E8O9eh8dTQdIsI6VpVwFHesAz0PBDW38WSXuTir_vUk/edit#slide=id.ga9333c68a9_0_33)
