@@ -8,7 +8,7 @@ week: "1"
 skills:
   - Time/Project Management
 objectives:
-  - Share your weekly availability with your peers
+  - Detail your availability on a shared spreadsheet
 time: 10
 prep: >-
   The [General Weekly Availability
