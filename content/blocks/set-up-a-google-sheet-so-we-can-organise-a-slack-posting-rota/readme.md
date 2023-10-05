@@ -9,7 +9,7 @@ skills:
 objectives:
   - Apply the knowledge of how to set up a Google Sheet by creating one on the
     cohort drive
-  - "Practising posting on Slack "
+  - Post a question, idea or notes on Slack at least once a week
 time: 15
 prep: O﻿ne trainee must volunteer to create the Google Sheet.
 introduction: >-
