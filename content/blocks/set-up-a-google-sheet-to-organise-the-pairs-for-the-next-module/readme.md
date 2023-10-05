@@ -7,7 +7,8 @@ week: "1"
 skills:
   - Professional Basics
 objectives:
-  - Use a Google sheet to identify and define pairs for the following week's work
+  - Divide the group in pairs considering people's availability using Google
+    sheet
 time: 15
 prep: O﻿ne trainee must volunteer to create a new tab on the existing Google sheet.
 introduction: >-
