@@ -9,7 +9,7 @@ objectives:
   - Apply knowledge of audience adaptation by delivering a presentation adapted
     to your audience, focusing on the benefit and engagement factor
 time: 50
-prep: E﻿nsure you have done the prep exercise
+prep: Ensure you have done the prep exercise
 introduction: >-
   Everybody has to explain themselves and persuade others of their ideas. Giving
   a formal presentation is one way of doing that. You know the topic. You want

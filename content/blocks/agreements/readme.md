@@ -8,7 +8,7 @@ skills:
   - Professional Basics
 objectives: []
 time: 40
-prep: N﻿/A
+prep: N/A
 introduction: >-
   Agreements are important because they establish clear expectations and foster
   trust between parties, ensuring mutual understanding and cooperation.

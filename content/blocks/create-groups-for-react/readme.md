@@ -16,13 +16,13 @@ exercises:
   - name: Create groups for the next module's group work.
     time: 10
     content: >-
-      T﻿hese are the tasks that must be completed. Organise yourselves so that
+      These are the tasks that must be completed. Organise yourselves so that
       not only one person is doing this.
 
 
-      1. Y﻿ou must consider trainees' availability.
+      1. You must consider trainees' availability.
 
-      2. Y﻿ou must consider how many hours of coursework or prep work has to be done in groups.
+      2. You must consider how many hours of coursework or prep work has to be done in groups.
 
       3. You then can define the groups (look for diversity, so people that haven't 
 

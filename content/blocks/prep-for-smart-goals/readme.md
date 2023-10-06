@@ -9,11 +9,11 @@ skills:
 objectives:
   - Be able to explain what a SMART goal is
 time: 15
-prep: H﻿ave access to internet
+prep: Have access to internet
 introduction: Setting SMART goals keeps the projects moving forward and helps
   with accountability and timing. It helps to break down goals and achieve them.
 exercises:
-  - content: W﻿atch this [video](https://www.youtube.com/watch?v=1-SvuFIQjK8) on
+  - content: Watch this [video](https://www.youtube.com/watch?v=1-SvuFIQjK8) on
       SMART Goals and if needed make some notes.
     name: What are SMART goals?
     time: 15

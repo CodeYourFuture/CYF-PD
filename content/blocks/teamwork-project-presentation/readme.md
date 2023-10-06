@@ -59,9 +59,9 @@ exercises:
       Practice present, give each other feedback, review it and practice again:
 
 
-      * is ﻿the presenter's communication clear
+      * is the presenter's communication clear
 
-      * is ﻿the presenter’s body language aligned with what they are saying
+      * is the presenter’s body language aligned with what they are saying
 
       * can the team keep time to 5 minutes (this includes the time to get the presentation up and running)
 ---

@@ -12,7 +12,7 @@ objectives:
   - Describe what growth mindset is
   - Support professional growth of peers
 time: 60
-prep: n﻿/a
+prep: n/a
 introduction: The importance of a growth mindset is the ability to be resilient,
   continuously learning, and the belief that intelligence and abilities can be
   developed through dedication and effort.
@@ -21,7 +21,7 @@ exercises:
     time: 20
     goal: To discuss the characteristics of fixed and growth mindsets
     content: >-
-      1. Form small groups (3﻿-4 people) and discuss the **characteristics** of
+      1. Form small groups (3-4 people) and discuss the **characteristics** of
       fixed and growth mindsets. 
 
       2. Write down **examples** of fixed and growth mindset.
@@ -45,10 +45,10 @@ exercises:
     time: 15
     goal: To identify the characteristics of growth mindset
     content: >-
-      1. **G﻿roup people** according to their quiz results
+      1. **Group people** according to their quiz results
          * Strong growth mindset.  
          * Growth mindset but with some fixed ideas
          * Fixed mindset, but with some growth ideas
          * Strong fixed mindset.
-      3. T﻿alk in these groups about how you can **support each other**. *Sharing a common mindset empowers us to support each other in changing.*
+      3. Talk in these groups about how you can **support each other**. *Sharing a common mindset empowers us to support each other in changing.*
 ---

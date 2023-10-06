@@ -11,7 +11,7 @@ objectives:
     cohort drive
   - Post a question, idea or notes on Slack at least once a week
 time: 15
-prep: O﻿ne trainee must volunteer to create the Google Sheet.
+prep: One trainee must volunteer to create the Google Sheet.
 introduction: >-
   Knowing how Google Sheets work is essential as it enables efficient data
   organisation, analysis, and collaboration, enhancing productivity and enabling
@@ -32,12 +32,12 @@ exercises:
 
       *  The  first tab must have at least the columns Date and Name
 
-      * A﻿dd all the dates for the Fundamentals course months
+      * Add all the dates for the Fundamentals course months
 
       * Post a message on the cohort Slack with the shared spreadsheet and the instructions on what to do (see below)
 
 
-      **I﻿nstructions**
+      **Instructions**
 
 
       * Go to the tab Slack rota and add your name against one date.

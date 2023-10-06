@@ -9,9 +9,9 @@ objectives:
   - Be able to create SMART Goals for different scenarios
 time: 20
 prep: |-
-  M﻿ust have done prep work, bring it with you. \
-  Y﻿ou need a computer and internet for this exercise.
-introduction: S﻿etting SMART goals keeps the projects moving forward, helps with
+  Must have done prep work, bring it with you. \
+  You need a computer and internet for this exercise.
+introduction: Setting SMART goals keeps the projects moving forward, helps with
   accountability and timing. It helps breaking down goals and achieve them.
 exercises:
   - name: Practice setting SMART Goals

@@ -12,7 +12,7 @@ skills:
 objectives:
   - Relate the problem solving and failing fast concepts
 time: 60
-prep: Y﻿ou must have done the prep work
+prep: You must have done the prep work
 introduction: These exercises will help you understanding the failing fast
   concept in practice.
 exercises:
@@ -21,7 +21,7 @@ exercises:
     goal: Practice trying new ideas and iterating through them, gathering feedback
       and making improvements until you are happy with the outcome.
     content: >-
-      I﻿n pairs, you will work on two different problems 
+      In pairs, you will work on two different problems 
 
 
       1. Each individual will pick a problem to solve from the list below.

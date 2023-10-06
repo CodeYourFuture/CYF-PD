@@ -19,13 +19,13 @@ introduction: >-
   the same knowledge of the strategy of the product and the main end goal.
 
 
-  H﻿owever, we cannot deliver everything at once. And we also cannot plan every detail. We can prioritise the must-haves and then focus on them.
+  However, we cannot deliver everything at once. And we also cannot plan every detail. We can prioritise the must-haves and then focus on them.
 
 
-  > P﻿roduct > Features > User Stories > Tasks
+  > Product > Features > User Stories > Tasks
 
 
-  T﻿his mapping process is also sometimes called User Journey mapping or Story Mapping.  And you can - and should - do it whenever you are starting a new project.
+  This mapping process is also sometimes called User Journey mapping or Story Mapping.  And you can - and should - do it whenever you are starting a new project.
 exercises:
   - goal: To understand the requirements of building a library website.
     name: What questions should we ask to identify what needs to be built?
@@ -43,7 +43,7 @@ exercises:
       *Make sure to encourage different people to share their ideas*
 
 
-      *F﻿ocus is on the questions, not the answers!*
+      *Focus is on the questions, not the answers!*
   - goal: To understand the process of breaking down a product into features.
     time: 10
     content: >-
@@ -56,7 +56,7 @@ exercises:
 
       * In small groups, identify the main features you would expect to see on this website. *In this example, features could be a shopping cart, book search, etc.*
 
-      * O﻿ne person of each group to share the group's thoughts with the class.
+      * One person of each group to share the group's thoughts with the class.
     name: What features should this website have?
   - goal: To understand the process of breaking down features into user stories.
     name: Breaking features down into user stories
@@ -85,7 +85,7 @@ exercises:
       that can then be assigned to individual team members. 
 
 
-      C﻿hose a user story and in t﻿he same groups complete the following:
+      Chose a user story and in t﻿he same groups complete the following:
 
 
       * Identify the tasks that need to be completed in order to deliver value to the user, providing the outcome described in the user story.

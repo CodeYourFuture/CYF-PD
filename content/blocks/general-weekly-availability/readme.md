@@ -17,9 +17,9 @@ prep: >-
   done this yet, take the initiative and do it.
 
 
-  T﻿his is one file for the cohort, not one per person.
+  This is one file for the cohort, not one per person.
 introduction: >-
-  S﻿haring our general availability means that you and your peers can identify
+  Sharing our general availability means that you and your peers can identify
   roughly who is available and when. 
 
 
@@ -35,12 +35,12 @@ exercises:
       1. Open to the cohort's [General Weekly Availability
       spreadsheet](https://docs.google.com/spreadsheets/d/1MtWyOhoaZCsFH12PLXbAMHBS_e32nQNseVkMj2OP0Q0/copy). 
 
-      2. A﻿dd your name to the next line that is available in column A.
+      2. Add your name to the next line that is available in column A.
 
       3. Use the same colour as the example to identify when you are available. 
 
-      4. L﻿eave non-available slots in grey. (Examples of Non-available slots: school pick-up/drop-off times, eating times, individual studying, part-time job, resting time, exercising times, mental health focus, etc. You do not have to detail what you are doing, but consider these when adding your availability)
+      4. Leave non-available slots in grey. (Examples of Non-available slots: school pick-up/drop-off times, eating times, individual studying, part-time job, resting time, exercising times, mental health focus, etc. You do not have to detail what you are doing, but consider these when adding your availability)
 
 
-      *T﻿ip: Copy and paste one of the current coloured cells to your cell, this way you don't have to figure out what's the correct colour to use.*
+      *Tip: Copy and paste one of the current coloured cells to your cell, this way you don't have to figure out what's the correct colour to use.*
 ---

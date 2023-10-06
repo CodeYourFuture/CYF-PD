@@ -11,14 +11,14 @@ objectives:
   - Explain the functionality of a product
 time: 60
 prep: Have post-its and pens and a collaborative board
-introduction: Y﻿ou will work together through these exercises to ensure everyone
+introduction: You will work together through these exercises to ensure everyone
   understands and can apply the concepts your read about.
 exercises:
   - goal: To explain the product, MVP, feature, and user story concepts
     name: Discuss the theory you read about
     time: 15
     content: >-
-      * C﻿reate a collaborative board with the following concepts
+      * Create a collaborative board with the following concepts
 
         * Product
         * MVP
@@ -42,12 +42,12 @@ exercises:
         * Who are your users?
         * What different user profiles will be?
         * What user needs does your product try to address?
-      * W﻿rite down a a **short description** of your product, users, and user needs, which will be played back to the wider group. 
+      * Write down a a **short description** of your product, users, and user needs, which will be played back to the wider group. 
 
       * **One speaker** will represent the team (ideally not the same person that talked in the previous lesson). Each speaker has **only 1 minute** to describe the product, user and user needs.
 
 
-      *M﻿ake sure someone is the time keeper so all groups have the same amount of time.*
+      *Make sure someone is the time keeper so all groups have the same amount of time.*
     time: 20
   - goal: To identify how products achieve user needs
     time: 20

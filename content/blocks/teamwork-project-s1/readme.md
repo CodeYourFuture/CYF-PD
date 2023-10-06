@@ -10,7 +10,7 @@ objectives:
   - Describe different roles in tech teams
   - Explain the importance of agreeing on clear goals for the team
 time: 60
-prep: Y﻿ou must have done the prep work.
+prep: You must have done the prep work.
 introduction: Collaborative software development equals higher-quality products
   and efficient development cycles. Team synergy, knowledge, and diverse skills
   are crucial to achieving this. We are going to talk about these roles and
@@ -38,7 +38,7 @@ exercises:
 
 
 
-      1. Define w﻿hich team member w﻿ill be the time keeper for your team.
+      1. Define which team member w﻿ill be the time keeper for your team.
 
       2. Work in your teams for about **10 minutes** and write down **brief answers** to each question. 
 

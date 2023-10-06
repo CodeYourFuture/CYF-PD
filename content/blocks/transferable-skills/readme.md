@@ -34,7 +34,7 @@ exercises:
     goal: To practice providing feedback.
     content: |-
       1. Pair up with another peer. 
-      2. S﻿hare your text with this person.
+      2. Share your text with this person.
       3. Read your pair’s text. 
       4. Give a feedback on their transferrable skill.
   - name: Share how you will contribute to the cohort

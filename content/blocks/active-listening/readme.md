@@ -73,7 +73,7 @@ exercises:
 
       \
 
-      **S﻿CENARIO 2**
+      **SCENARIO 2**
 
 
       Lucy is your colleague and today she looks sad. When asked about it, she explained that she just had a conversation with her manager about her performance and unfortunately it was not great.
@@ -126,7 +126,7 @@ exercises:
       * Ask specific, open-ended questions.
 
 
-      **T﻿opics**
+      **Topics**
 
 
       1. **Topic:** What do you think are the most wanted technical skills and programming languages today in the job market and why? What do you think you need to do to be ready to showcase those technical skills?
