@@ -10,14 +10,14 @@ objectives:
   - Identify your pair for the following week
 time: 5
 prep: |-
-  * O﻿pen the existent Google Sheet for your cohort
-  * U﻿se the General Availability Spreadsheet
+  * Open the existent Google Sheet for your cohort
+  * Use the General Availability Spreadsheet
 introduction: >-
   Working with different people allows you to learn diverse things by talking,
   discussing, listening and working together. 
 
 
-  S﻿o make sure you are pairing with different people with similar availability.
+  So make sure you are pairing with different people with similar availability.
 exercises:
   - name: Create pairs for next week
     goal: Identify the new pair to work with for this week
@@ -27,7 +27,7 @@ exercises:
 
         * The new tab must have two columns, one with the title “Pair 1” and another for “Pair 2.” 
         * The name of the tab should be “Pairs HTML S1"
-        * C﻿heck people's availability and assign pairs
+        * Check people's availability and assign pairs
         * Post a message on the cohort Slack with the shared spreadsheet
 
         This tab will be the rota of the coursework.

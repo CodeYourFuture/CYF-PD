@@ -6,8 +6,8 @@ week: "1"
 skills:
   - Professional Basics
 objectives:
-  - Describe with the goals and expectations of the Code Your Future Software
-    Development Course
+  - Describe the goals of the Software Development course and what is expected
+    of you
 time: 90
 prep: Review the
   [presentation](https://docs.google.com/presentation/d/1QnYlp5tZF9vn7tJqtu0wrBO8_qNtqZdXqeQJ6dPQuHY/edit?usp=sharing)

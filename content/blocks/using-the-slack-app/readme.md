@@ -6,10 +6,11 @@ week: "2"
 skills:
   - Professional Basics
 objectives:
-  - By the end of this session trainees will know how to use Slack as a
-    communication tool
+  - List the reasons why it is important to react to channels, messages, and
+    threads in Slack
 time: 45
-prep: Everyone must have their laptops up and running and connected to the internet.
+prep: Everyone must have their laptops connected to the internet and the Slack
+  app open.
 introduction: >-
   Slack is a collaboration platform that enables efficient team communication,
   file sharing, and integration with various tools.
@@ -44,16 +45,16 @@ exercises:
     time: 10
     goal: For everyone to actively use Slack and reply in a thread
     content: >-
-      * O﻿ne trainee posts something on the cohort Slack (for example, do you
-      like Slack? or What is your favourite colour?)
+      * One trainee posts something on the cohort Slack *(for example, do you
+      like Slack? or What is your favourite colour?)*
 
       * Every trainee must reply to it - this exercise only finishes if we have the same number of replies as the number of trainees in the class!
   - name: Organising the cohort thread
     time: 10
     goal: Organisation of tasks whilst using Slack
     content: >-
-      Someone should post a question on Slack: "What would you do if you come to
-      a class and there are no volunteers to guide it? How would you organise
+      Someone should post this question on Slack: "What would you do if you come
+      to a class and there are no volunteers to guide it? How would you organise
       yourselves?".
 
 
@@ -66,17 +67,17 @@ exercises:
     time: 15
     goal: Understand how the cohort will self-organise
     content: >-
-      W﻿ith the input of the previous discussion in the thread,  in groups of 4,
+      With the input of the previous discussion in the thread,  in groups of 4,
       discuss:
 
 
       1. List the 5 actions that are the highest priority, if you arrive and there is no volunteer available.  
 
-      2. D﻿efine what steps would you take to solve the 5 steps.
+      2. Define what steps would you take to solve the 5 steps.
 
-      3. 1﻿ team to share their reflection and importance of knowing this
+      3. 1 team to share their reflection and importance of knowing this
 
-      4. O﻿ther teams to their complementary reflection
+      4. Other teams to their complementary reflection
 
 
       Remember: self-organisation is a goal for the cohort!

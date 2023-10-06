@@ -10,7 +10,7 @@ objectives:
 time: 60
 prep: |-
   * Form groups of 4 
-  * 1﻿ Laptop with internet access per group
+  * 1 Laptop with internet access per group
   * Pen and paper or a virtual board
 introduction: Sometimes the things we accept as common knowledge are not rooted
   in facts. Critical thinking involves separating our gut feelings from those
@@ -19,15 +19,15 @@ exercises:
   - name: “Everyone says so, so it must be true” Quiz
     time: 10
     content: >-
-      I﻿n your groups, start with a quiz called “Everyone says so, so it must be
+      In your groups, start with a quiz called “Everyone says so, so it must be
       true” [here](https://play.howstuffworks.com/quiz/bad-science-quiz).
 
 
       1. Go to the link and answer as many questions as you can in 10 min.
 
-      2. T﻿he group should agree on what is the right answer, without long discussions.
+      2. The group should agree on what is the right answer, without long discussions.
 
-      3. T﻿he goal is to answer as many questions as possible in this short time.
+      3. The goal is to answer as many questions as possible in this short time.
     goal: Use your critical thinking to answer the maximum number of questions on
       the quiz.
   - name: Developing the ultimate chocolate bar
@@ -76,7 +76,7 @@ exercises:
     time: 25
     goal: Reflect on the learning of today's session
     content: >-
-      O﻿rganise the cohort in a big circle for the reflection. 
+      Organise the cohort in a big circle for the reflection. 
 
 
       **Creator to share**
@@ -87,15 +87,15 @@ exercises:
       * Every creator can share, but if everyone already said your ideas, you are welcome to pass to avoid repetitive discussion
 
 
-      **C﻿ustomers to share**
+      **Customers to share**
 
 
       * What influenced your recommendations? What were the aspects of the chocolate bar you valued in this product? 
 
-      * A﻿sk 1 customer of each group to share. Again, if all reflection has been said, it's fine to just say "same as what was mentioned by X person" 
+      * Ask 1 customer of each group to share. Again, if all reflection has been said, it's fine to just say "same as what was mentioned by X person" 
 
 
-      **C﻿onclusions**
+      **Conclusions**
 
 
       When developing a product for a customer/user, we cannot merely rely on our gut feelings or preferences. Using critical thinking, we employ different types of research in our development. Critical thinking requires you to think beyond your opinions/facts that you know and your own experiences. It involves good decision-making and using other sources to form a sound judgement.

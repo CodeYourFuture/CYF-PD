@@ -15,10 +15,10 @@ prep: >-
   Form into approximately equal-sized teams of between five and ten people each.
 
 
-  Choose ONE of the TWO exercises.  
+  **Choose ONE** of the TWO exercises.  
 
 
-  Exercise 1a - Ball Point game with balls (recommended)
+  **Exercise 1a** - **Ball Point game with balls** (recommended)
 
 
   * Each team needs a bag with at least 20 balls and another empty bag 
@@ -26,7 +26,7 @@ prep: >-
   * One person is nominated as The Timekeeper with a flipchart and pens
 
 
-  Exercise 1b - Online Ball Point game (same learning objectives, and requires no balls)
+  **Exercise 1b** - **Online Ball Point game** (same learning objectives, and requires no balls)
 
 
   * Everyone needs a laptop

@@ -6,10 +6,10 @@ week: "2"
 skills:
   - Professional Basics
 objectives:
-  - Trainees will be able to describe Slack's basic funcionalities
+  - Describe Slack's basic funcionalities in 5 sentences
 time: 30
 prep: You need to use the Internet to search for answers.
-introduction: S﻿lack is the primary collaboration tool within our community and
+introduction: Slack is the primary collaboration tool within our community and
   tech companies. This means you have to know it for your future job in tech.
 exercises:
   - name: What is Slack?
@@ -20,7 +20,7 @@ exercises:
 
       * This link talks about interesting tips on [how to use Slack](https://dispatch.m.io/slack-etiquette/)
 
-      * Watch [this video](https://app.wowto.ai/link/MgDFclxInpb&autolocale=true) about Slack Etiquette for our community
+      * Watch [this video](https://www.youtube.com/watch?v=CaI0tP-SEJg) about Slack Etiquette for our community
 
       * Read this text about [replying in a thread](https://docs.codeyourfuture.io/trainees/guides/common-responses/reply-in-thread)
 

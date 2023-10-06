@@ -8,6 +8,6 @@ skills:
 objectives:
   - Creates a GUI interface with PR branches
 time: 10
-prep: a﻿kljdfn
-introduction: k﻿sjdnfv
+prep: akljdfn
+introduction: ksjdnfv
 ---

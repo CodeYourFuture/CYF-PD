@@ -11,11 +11,11 @@ objectives:
     habits.
 time: 60
 prep: >-
-  1﻿. Watch [this short video](https://www.youtube.com/watch?v=rzsVh8YwZEQ) to
+  1. Watch [this short video](https://www.youtube.com/watch?v=rzsVh8YwZEQ) to
   get a glance on what Active Listening is.
 
 
-  2﻿. Read [this piece](https://www.mindtools.com/az4wxv7/active-listening) on Active Reading to get a more in depth understanding on why listening is such an important skill and how you can improve it.
+  2. Read [this piece](https://www.mindtools.com/az4wxv7/active-listening) on Active Reading to get a more in depth understanding on why listening is such an important skill and how you can improve it.
 introduction: Listening is one of the most important skills you can have. How
   well you listen has a major impact on your job effectiveness and on the
   quality of your relationships with other people.

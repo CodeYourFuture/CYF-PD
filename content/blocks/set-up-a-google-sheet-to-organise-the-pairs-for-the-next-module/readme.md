@@ -7,9 +7,10 @@ week: "1"
 skills:
   - Professional Basics
 objectives:
-  - Use a Google sheet to identify and define pairs for the following week's work
+  - Divide the group in pairs considering people's availability using Google
+    sheet
 time: 15
-prep: O﻿ne trainee must volunteer to create a new tab on the existing Google sheet.
+prep: One trainee must volunteer to create a new tab on the existing Google sheet.
 introduction: >-
   Looking into the General Weekly Availability that you filled in before the
   induction, we will use each other's availability and identify the best pairs
@@ -51,9 +52,8 @@ exercises:
       Multiple tasks need to be done to make this exercise happen, but not all
       of them should be done by one person:
 
+      1. How many hours of coursework has to be done in pairs? Double check the issues that have a 🫱🏿‍🫲🏽 Pairs label on this module's backlog
 
-      1. H﻿ow many hours of coursework have to be done in pairs? Double check the issues that have a 🫱🏿‍🫲🏽 Pairs label on this module's backlog
- 
       2. Open the "General Weekly Availability" spreadsheet.
 
       3. Identify who could pair together, considering their availability.

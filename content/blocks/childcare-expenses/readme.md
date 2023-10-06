@@ -29,7 +29,7 @@ exercises:
 
 
 
-      *E﻿xtra option (not-CYF related)*
+      *Extra option (not-CYF related)*
 
 
       If you want you can set up an account on the government portal to access extra childcare support.
