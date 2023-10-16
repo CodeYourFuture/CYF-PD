@@ -6,8 +6,7 @@ week: "2"
 skills:
   - Communication
 objectives:
-  - Practise how to apply various professional solutions with colleagues, even
-    when they don’t initially see things the same way
+  - Understand the different theories and actions about conflict resolution
 time: 60
 introduction: >-
   People at work will inevitably disagree with each other at some time. Most
