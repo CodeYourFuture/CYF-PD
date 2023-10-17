@@ -10,7 +10,7 @@ objectives:
 time: 60
 introduction: >-
   People at work will inevitably disagree with each other at some time. Most
-  people want to do what’s best for the organisation. Often, conflicts arise
+  people want to do what’s best for them and those around them. Often, conflicts arise
   from misunderstandings or different attitudes to general problem-solving.
 
 
