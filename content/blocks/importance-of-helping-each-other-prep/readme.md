@@ -15,6 +15,8 @@ prep: >-
   on how helping others makes us happier but it matters how we help.
 
   * Read about ‘helper’s high’ [here.](https://www.happierhuman.com/helpers-high/)
+
+  * Read what is the collective job search [here](https://module-graduates.codeyourfuture.io/further-activities/collective-job-search/the-power-of-linkedin)
 introduction: Helping others is a foundational value at CYF. This week you will
   explore what helping each other means in the CYF community. Let’s start with
   exploring why helping others makes you happier.
