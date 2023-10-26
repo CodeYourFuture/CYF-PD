@@ -15,7 +15,8 @@ modules = [
     "React",
     "Node",
     "Databases",
-    "Final Projects",
+    "The Launch",
+    "Portfolios"
 ]
 
 [taxonomies]
