@@ -12,7 +12,7 @@ modules:
   - Node
   - Databases
   - The Launch
-  - Portfolios
+  - Portfolio
 week: "2"
 skills:
   - Professional Basics
