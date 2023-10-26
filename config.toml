@@ -16,7 +16,7 @@ modules = [
     "Node",
     "Databases",
     "The Launch",
-    "Portfolios"
+    "Portfolio"
 ]
 
 [taxonomies]
