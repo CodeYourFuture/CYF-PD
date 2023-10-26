@@ -21,7 +21,7 @@ To use the CMS, you need an account. This access is limited to CYF members. Join
 +++
 title = ""
 description="Short 30 word description of the block"
-modules = ["Fundamentals", "HTML-CSS", "JS1", "JS2", "JS3", "React", "Node", "Databases", "Final Projects"]
+modules = ["Fundamentals", "HTML-CSS", "JS1", "JS2", "JS3", "React", "Node", "Databases", "The Launch", "Portfolios"]
 week = [1, 2, 3, 4]
 skills = ["Professional", "Confidence", "Communication", "Time Management", "Employability"]
 [objectives]
