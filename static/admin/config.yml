@@ -34,7 +34,7 @@ collections:
           - "Node"
           - "Databases"
           - "The Launch",
-          - "Portfolios"
+          - "Portfolio"
         required: true
       - label: "Week"
         name: "week"
