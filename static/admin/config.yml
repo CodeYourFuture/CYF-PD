@@ -33,7 +33,7 @@ collections:
           - "React"
           - "Node"
           - "Databases"
-          - "The Launch",
+          - "The Launch"
           - "Portfolio"
         required: true
       - label: "Week"
