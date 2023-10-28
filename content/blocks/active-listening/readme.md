@@ -21,7 +21,7 @@ exercises:
   - name: Open-ended questions
     time: 20
     goal: Practice asking open-ended questions in a pre-defined scenario
-    content: >-
+    content: >+
       **Pair and practice asking open-ended questions**. 
 
 
@@ -106,8 +106,6 @@ exercises:
 
       </details>
 
-
-      <hr>
   - name: Active listening while discussing a topic
     time: 35
     goal: Practice active listening in a group conversation.
