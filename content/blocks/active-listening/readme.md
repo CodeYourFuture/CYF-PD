@@ -47,7 +47,7 @@ exercises:
       * *“What can I do to help?”* 
 
 
-      ***Avoid asking questions or making statements that indicate judgment.** For example, instead of:* 
+      **\*Avoid asking questions or making statements that indicate judgment.** For example, instead of:* 
 
 
       * *“Why would you do that?” try asking “What motivated you to do that?”* 
@@ -57,9 +57,9 @@ exercises:
       * *“That doesn’t make sense” try asking “I’m not following, could you explain…”* 
 
 
-      \
+      <details>
 
-      **SCENARIO 1**
+      <summary>Scenario 1</summary>
 
 
       Joe is a new team member that just joined. Joe will start by introducing himself:
@@ -71,9 +71,12 @@ exercises:
       **Listener**: Using open-ended questions, learn more about Joe with the objective to build trust and a strong working relationship.
 
 
-      \
+      </details>
 
-      **SCENARIO 2**
+
+      <details>
+
+      <summary>Scenario 2</summary>
 
 
       Lucy is your colleague and today she looks sad. When asked about it, she explained that she just had a conversation with her manager about her performance and unfortunately it was not great.
@@ -85,9 +88,11 @@ exercises:
       **Listener**: Using open-ended questions, demonstrate empathy.
 
 
-      **\
+      </details>
 
-      SCENARIO 3**
+      <details>
+
+      <summary>Scenario 3</summary>
 
 
       Jane is very unhappy with how John provides feedback on her pull requests.
@@ -97,7 +102,13 @@ exercises:
 
 
       **Listener:** Use open-ended questions to help resolve this conflict.
-  - name: Active listening whilst discussion a topic
+
+
+      </details>
+
+
+      <hr>
+  - name: Active listening while discussing a topic
     time: 35
     goal: Practice active listening in a group conversation.
     content: >-
