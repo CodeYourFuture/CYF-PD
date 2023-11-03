@@ -17,7 +17,7 @@ objectives:
   - Critique you peer’s goals and give feedback
   - Identify challenges to achieving the shared goals
   - Develop a strategy for overcoming those challenges
-time: 57
+time: 60
 prep: Each trainee needs to bring and share their SMART goals and Weekly
   Activity spreadsheet.
 introduction: We will focus on your SMART goals and discuss them a bit further,
