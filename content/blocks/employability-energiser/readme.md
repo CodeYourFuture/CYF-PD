@@ -10,7 +10,7 @@ skills:
   - Employability
 objectives:
   - Recharge focus and enthusiasm through active participation.
-time: 16
+time: 20
 introduction: In the Portfolio Module we are focussing on employabililty - be it
   practising our professional skills or our tech skills. So the energiser is
   also focussed on this topic.
