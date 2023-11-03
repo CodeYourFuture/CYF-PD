@@ -21,24 +21,20 @@ exercises:
       Read the criteria for the portfolio module below:
 
 
-      1. **Have finalised the Software Devleoper course with CYF[](https://module-graduates.codeyourfuture.io/how-does-this-work/portfolio-goals)**
-
-      2. **Develop your technical skills continuously**
+      1. **Develop your technical skills continuously**
 
          1. Deliver and demo 2 tech projects following agile practices and testing, where at least 1 project is completed in a team
          2. Deploy a personal portfolio website during the employability module showcasing your projects.
-      3. **Construct a holistic approach to job hunting**
+      2. **Construct a holistic approach to job hunting**
 
          1. Create a profile (Linkedin, Github, CV and Cover Letter) which demonstrates the skills and experience following the [CYF best practices](https://module-graduates.codeyourfuture.io/further-activities/cv-and-job-prep).
-      4. **Deliver on your job hunting approach by effectively applying to appropriate job opportunities**
+      3. **Deliver on your job hunting approach by effectively applying to appropriate job opportunities**
 
          1. Find and share eight job openings that are suitable for CYF grads and are **not** recruitment agencies.
-         2. Apply to at least 2 “good” jobs per week wth a CV tailored for those opportunities
-         3. Leep track of the job application progress in the grad tracker.
+         2. Apply to at least 2 “good” jobs per week with a CV tailored to those opportunities
+         3. Keep track of the job application progress in the grad tracker.
 
-
-
-      *Portoflio Module criteria [page](<1. <https://module-graduates.codeyourfuture.io/how-does-this-work/portfolio-goals>>)*
+      *Portfolio Module criteria \[page](<1. <https://module-graduates.codeyourfuture.io/how-does-this-work/portfolio-goals>>)*
     name: Learn what the Portfolio Module criteria is
     time: 10
     goal: Understand the goals you need to achieve
