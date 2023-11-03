@@ -10,7 +10,7 @@ skills:
   - Teamwork
 objectives:
   - Practice demoing your achievements
-time: 57
+time: 60
 introduction: Every team will have 8 minutes + 2 minutes for questions (less if
   you have more than 6 teams) to demo their achievements of the last week. Or
   feel free to split them up into smaller groups and demo for each other.
