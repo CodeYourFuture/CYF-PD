@@ -9,7 +9,7 @@ skills:
   - Teamwork
 objectives:
   - Refine tickets' acceptance criteria
-time: 58
+time: 60
 introduction: >-
   The backlog refinement is about reviewing the tickets you have that should be
   picked up next - and ensuring they are the next priority.
