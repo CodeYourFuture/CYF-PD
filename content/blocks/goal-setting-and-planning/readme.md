@@ -13,12 +13,14 @@ time: 30
 introduction: You will be sharing and reviewing your SMART goals with your
   peers. So let’s prepare for it.
 exercises:
-  - content: Review the SMART Goals content from our Curriculum (link to be added)
+  - content: 'The SMART in SMART goals stands for Specific, Measurable, Achievable,
+      Relevant, and Time-Bound. Search this curriculum for "SMART" to help you
+      write your goals. '
     name: Reminder about SMART goals
     time: 10
-    goal: Remind how SMART goals are written
+    goal: Remind yourself how SMART goals are written
   - content: >-
-      Read the criteria for the portfolio module below:
+      Goals in Portfolio
 
 
       1. **Develop your technical skills continuously**
@@ -33,8 +35,6 @@ exercises:
          1. Find and share eight job openings that are suitable for CYF grads and are **not** recruitment agencies.
          2. Apply to at least 2 “good” jobs per week with a CV tailored to those opportunities
          3. Keep track of the job application progress in the grad tracker.
-
-      *Portfolio Module criteria \[page](<1. <https://module-graduates.codeyourfuture.io/how-does-this-work/portfolio-goals>>)*
     name: Learn what the Portfolio Module criteria is
     time: 10
     goal: Understand the goals you need to achieve
@@ -54,14 +54,12 @@ exercises:
       Goals, create your own set of 3 SMART goals 
 
 
-      These goals should be:
+      These goals should cover:
 
 
-      1. Technical development goal≈
+      1. Technical development
 
-      2. Create a set of 3 SMART goals 
-
-      3. Job hunting goal
+      3. Job hunting
     time: 15
     name: Create your own SMART goals
     goal: Have a clear set of goals to be achieved during the Portfolio module
