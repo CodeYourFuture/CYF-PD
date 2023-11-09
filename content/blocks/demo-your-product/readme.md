@@ -9,24 +9,42 @@ skills:
   - Confidence
   - Teamwork
 objectives:
-  - Practice demoing your achievements
-time: 60
-introduction: Every team will have 8 minutes + 2 minutes for questions (less if
-  you have more than 6 teams) to demo their achievements of the last week. Or
-  feel free to split them up into smaller groups and demo for each other.
+  - Demo your product
+  - Explain your work with examples within a time limit
+  - Respond to real questions unscripted
+time: 30
+prep: "Deploy your product and make it available. It isn't expected to be
+  completely finished to be shared in this session. "
+introduction: >-
+  You have thirty minutes to run Demo Time. Each team will talk for five minutes
+  and answer questions for three minutes. 
+
+
+  If you have more than three teams participating in Demo Time, breakout and demo in groups of no more than three teams. 
 exercises:
   - name: "Showtime "
-    time: 60
-    goal: Demonstrate your achievements of the week
-    content: |-
-      One person should be responsible for timekeeping.
+    time: 30
+    goal: "Demo a feature "
+    content: >-
+      One person should be responsible for timekeeping. Set a timer. Each team
+      will talk for five minutes and answer questions for three minutes.
 
-      Each group will demo 1 or 2 tickets delivered in the previous week.
+
+      Each team will demo a ticket delivered in the previous week.
+
 
       Think about:
 
+
       * Giving context
+
       * Explaining the user story and what you are trying to achieve with it
+
       * Showing your implementation
+
+      * Sharing blockers and failures
+
       * Asking for questions/feedback
+
+      * Saying something interesting
 ---
