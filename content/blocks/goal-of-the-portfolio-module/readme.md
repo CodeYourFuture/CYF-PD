@@ -1,7 +1,6 @@
 ---
 title: Goal of the Portfolio Module
-description: We want to ensure everyone know why we are here and what we are
-  trying to achieve.
+description: Why are we here and what are we trying to achieve?
 modules: Portfolio
 week: "1"
 skills:
@@ -16,19 +15,21 @@ prep: >-
   Prep for the exercise on the day:
 
 
-  1. One trainee volunteers to ask the questions and choose who is answering them.
+  1. One person volunteers to ask the questions and choose who is answering them. You can ask each question several times.
 
 
-  2. Each question has to be answered by a maximum of 3 different trainees to ensure we hear different voices.
-introduction: Let's have a quick discussion about what this Portfolio Module is
-  and what is its criteria.
+  2. But choose a different person every time. We must hear different voices!
+
+
+  3. Set a 15 minute timer and wrap up promptly.
+introduction: Let's have a quick discussion about the Portfolio Module!
 exercises:
   - name: What are we doing in the Portfolio Module?
     time: 15
     goal: Align the knowledge of the group about what we are trying to achieve
     content: >-
-      In the main group, we want to get some questions answered so we can
-      confirm we all understand the Portfolio Module's goals.
+      In one big group, let's make sure we all understand the Portfolio Module's
+      goals.
 
 
       Questions to be discussed:
@@ -36,9 +37,9 @@ exercises:
 
       1. What are you doing in the Portfolio Module?
 
-      2. Name 1 of the 4 criterias we need to achieve, and why it is important.
+      2. Name one of the module success criteria, and why it is important?
 
-      3. How many weeks long is the Portfolio Module?
+      3. How long is the Portfolio Module?
 
-      4. How can I help make the Portfolio Module a success?
+      4. How can you help make the Portfolio Module a success?
 ---
