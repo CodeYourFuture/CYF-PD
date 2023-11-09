@@ -1,16 +1,16 @@
 ---
 title: Prep the work for the week
-description: It's important to align what will be the next steps from this first meet-up
+description: Agree the next steps for your team
 modules: Portfolio
 week: "1"
 skills:
   - Time/Project Management
   - Teamwork
 objectives:
-  - Create clear plan for the teamwork
-time: 11
-introduction: Good teams are the ones that communicate well. Make sure you have
-  clarity on who will be doing what from tomorrow.
+  - Create a clear plan for teamwork
+time: 10
+introduction: |
+  Good teams communicate well. Get clarity on who will be doing what and when.
 exercises:
   - name: Planning the next steps
     time: 10
@@ -25,13 +25,13 @@ exercises:
 
       * Who will raise which tickets?
 
-      * Who will set-up the meetings?
+      * Who will set up the meetings?
 
-      * Who will work on which tickets?
+      * Who will work on which tickets and how will we know?
 
       * What time is the best for pair programming?
 
-      * What quesitons do you have?
+      * What questions do you have?
 
       * Are you confident about what you must do from tomorrow?
 ---
