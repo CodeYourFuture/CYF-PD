@@ -8,11 +8,12 @@ skills:
   - Teamwork
   - Employability
 objectives:
-  - Actively working in a product team
-  - Practicing employability skills
-time: 26
-introduction: Coming prepared for a day of teamwork is crucial to ensure you and
-  your teammates can be efficient and use the in-person time effectively.
+  - Work in a product team
+  - Review your tasks on GitHub
+  - Share your blockers on Slack
+time: 30
+introduction: Professionals come to work prepared. Before you arrive to meet and
+  work with your team, look at your work and find out what you should be doing.
 exercises:
   - name: Review the board
     time: 2
