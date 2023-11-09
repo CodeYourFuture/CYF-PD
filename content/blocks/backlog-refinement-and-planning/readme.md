@@ -11,11 +11,16 @@ objectives:
   - Refine tickets' acceptance criteria
 time: 60
 introduction: >-
-  The backlog refinement is about reviewing the tickets you have that should be
-  picked up next - and ensuring they are the next priority.
+  In backlog refinement we:
+
+  1. Review the tickets on the board
+
+  2. Identify which tickets should be picked up next 
+
+  3. Make sure these tickets are the next priority.
 
 
-  When planning your next iteration, you will decide which tickets do we aim to deliver by the following in-person session. We can also discuss which ones you want to demo.
+  We will decide which tickets we aim to deliver during the next sprint. We can also discuss which ones to demo.
 exercises:
   - name: Refine your tickets
     time: 25
@@ -24,7 +29,7 @@ exercises:
       During this review, the team will work together:
 
 
-      1. Discuss as an overview the tickets that will be reviewed and why. Make sure you all agree they are the next priority.
+      1. Discuss the tickets that will be reviewed and why. Make sure you all agree they are the next priority.
 
 
       2. Open the highest priority ticket and read it quietly to remind yourself what this ticket is about.
@@ -49,8 +54,8 @@ exercises:
       2. Discuss the size/difficulty of the tickets
 
 
-      3. Considering the above, decide which tickets you believe you can deliver in the coming week.
+      3. Considering the above, decide which tickets you believe you can deliver in the coming sprint.
 
 
-      4. Identify which ticket you will want to demo next week.
+      4. Identify which ticket you will demo.
 ---
