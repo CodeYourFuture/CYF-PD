@@ -1,7 +1,6 @@
 ---
-title: Employability Energiser
-description: "Every CYF session begins with an energiser. Usually there’s a rota
-  showing who will lead the energiser. "
+title: Bad Interview Answers
+description: We have a lot of serious work to do, but let's start with some fun
 modules: Portfolio
 week: "1"
 skills:
@@ -9,16 +8,29 @@ skills:
   - Communication
   - Employability
 objectives:
-  - Recharge focus and enthusiasm through active participation.
+  - Wake up and make ourselves laugh
 time: 20
-introduction: In the Portfolio Module we are focussing on employabililty - be it
-  practising our professional skills or our tech skills. So the energiser is
-  also focussed on this topic.
+prep: >-
+  Grab a list of [common interview
+  questions](https://www.coursera.org/articles/behavioral-interview-questions)
+  from somewhere like Coursera.
+
+
+  Please [set a timer for 15 minutes](https://www.google.com/search?q=15+minute+timer).
+introduction: We have a lot of serious work to do, but let's start with some fun
 exercises:
   - name: Let's energise
     time: 15
-    content: Choose one of [these
-      energiser](https://docs.google.com/document/d/1naUaWUKv4TE_Rawfvqp-USlzKoTAjYMy_E-6IwVOtsk/edit?usp=sharing)
-      to kick-start our day.
-    goal: Boost engagement, focus, and motivation through active participation
+    content: >-
+      **1. Interviewer:** Cold call a random person and ask them an interview
+      question. Choose an ordinary question.\
+
+      \
+
+      **2. Interviewee:** You must give a **terrible answer** to this question (keep it clean, please!). Then cold call another person to be the interviewer.\
+
+      \
+
+      **3. Interviewer:** Give absolutely straight-faced feedback. If you laugh, you're out and must nominate another player to complete your feedback and return the game to step 1.
+    goal: Let's wake up and have a laugh
 ---
