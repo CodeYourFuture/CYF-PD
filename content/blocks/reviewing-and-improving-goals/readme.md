@@ -14,7 +14,7 @@ skills:
   - English Language
 objectives:
   - "Share your SMART goals and Weekly Activity spreadsheet "
-  - Critique you peer’s goals and give feedback
+  - Review your peers' goals and give feedback
   - Identify challenges to achieving the shared goals
   - Develop a strategy for overcoming those challenges
 time: 60
@@ -39,14 +39,14 @@ exercises:
       Break the group up into small groups.
 
 
-      1. Each trainee should present their SMART goals and Weekly Activity spreadsheet.
+      1. Each trainee will present their SMART goals and Weekly Activity spreadsheet.
 
-      2. The other team members will listen to it and then share their feedback, focussing on making the goals as SMART as possible.
+      2. The other team members will listen to it and then share their feedback, focusing on making the goals as SMART as possible.
 
-      3. Each trainee should adjust their goals and Weekly Activity spreadsheet based on their feedback. This can be done afterwards if it is taken too long during this session.
+      3. Each trainee should adjust their goals and Weekly Activity spreadsheet based on the feedback. (This can be done after class if you run out of time.)
   - name: Reflect on the previous exercise
     time: 10
-    goal: Share the learnings of the smaller groups
+    goal: Share the insights of the smaller groups
     content: >-
       Return to the main group and discuss any common themes or challenges that
       came up in the small groups.
