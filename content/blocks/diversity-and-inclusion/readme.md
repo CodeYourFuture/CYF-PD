@@ -12,7 +12,7 @@ objectives:
   - Describe at least two coping methods against social exclusion
   - Prepare a brief for an inclusive tech product
 time: 60
-prep: n/a
+prep: ""
 introduction: Statistics show that diverse teams are more innovative and perform
   better. The team members feel better belonging to their company and can more
   comfortably bring their ideas to the table. As a result, the products and
