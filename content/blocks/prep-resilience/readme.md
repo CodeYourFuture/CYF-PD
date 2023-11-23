@@ -8,7 +8,7 @@ skills:
 objectives:
   - Reflect on embracing failure as part of growth
 time: 80
-prep: Read the articles below, which suggest techniques for being more resilient.
+prep: ""
 introduction: Learn background information about techniques to help yourself
   deal with adversity.
 exercises:
