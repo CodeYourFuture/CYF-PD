@@ -29,7 +29,8 @@ exercises:
     time: 20
     goal: Think positive and find areas where you need to be resilient
     content: >-
-      
+      Work in pairs:
+
 
       1. Tell your partner something positive that happened earlier today.
 
