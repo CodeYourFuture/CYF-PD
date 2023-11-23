@@ -8,7 +8,7 @@ skills:
 objectives:
   - List and explain 5 different ways we communicate non-verbally
 time: 110
-prep: n/a
+prep: ""
 introduction: Non-verbal communication is just as important as verbal
   communication. If we match non-verbal with verbal we can reinforce our words
   or vice versa. Non-verbal communication helps us spot if someone is being
