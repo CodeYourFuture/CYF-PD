@@ -18,7 +18,7 @@ introduction: The Code of Conduct is the guideline for ethical and respectful
   it sets behavioural expectations for all of us.
 exercises:
   - content: Open [this
-      presentation](https://docs.google.com/presentation/d/1k7F64r8dMImDSXhOei3ovUdy3Y5MhqSXM4Y4E6d3E04/edit)
+      presentation](https://docs.google.com/presentation/d/1o58dBm8lEdA2Iz8zABnsv6aFDjkXJp8XoUC9tuO1ER0/edit#slide=id.g20c4bd85cb5_0_0)
       and follow the exercises. The presenter's notes should help anyone to do
       this interactive work.
     name: Let's talk Code of Conduct
