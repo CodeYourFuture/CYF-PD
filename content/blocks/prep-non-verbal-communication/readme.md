@@ -45,6 +45,11 @@ exercises:
   - name: STAR Method
     time: 15
     goal: To learn about the STAR Method.
-    content: Read this article about the [STAR
-      Method](https://nationalcareers.service.gov.uk/careers-advice/interview-advice/the-star-method#:~:text=or%20application%20form.-,What%20STAR%20stands%20for,you%20learned%20from%20the%20experience)
+    content: >-
+      Using the STAR Method helps structure the answers and examples we give,
+      especially in job interviews. Instead of getting caught up in details, we
+      provide concise answers. 
+
+
+      Read this article about the [STAR Method](https://nationalcareers.service.gov.uk/careers-advice/interview-advice/the-star-method#:~:text=or%20application%20form.-,What%20STAR%20stands%20for,you%20learned%20from%20the%20experience)
 ---
