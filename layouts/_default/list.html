@@ -9,5 +9,6 @@
 <section class="copy">{{.}}</section>
 {{end}}
 <h3 class="is-invisible">List of Links shown as accordions</h3>
-{{ range (.Pages.ByParam "week")}} {{ partial "details.html" . }} {{ end }} {{
-end}}
+{{ range (.Pages.GroupByParam "week")}}
+<h4>📅 Sprint {{ .Key | title }}</h4>
+{{ range .Pages }} {{ partial "details.html" . }} {{end}} {{ end }} {{ end}}
