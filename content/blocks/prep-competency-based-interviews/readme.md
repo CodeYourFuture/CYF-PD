@@ -1,5 +1,5 @@
 ---
-title: Prep Competency-based interviews
+title: Prep JD hunting and Mock Interview
 description: A competency-based interview is also known as a structured,
   behavioural, or situational interview. They will often feature some activity
   or task that will test a candidate’s ability to do what their CV and cover
