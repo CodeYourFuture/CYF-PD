@@ -131,7 +131,7 @@ exercises:
       3. **Know how to do these:** create your feature branch, do a good code review, scope down your PRs, mob your paired commits, resolve merge conflicts, and merge your Pull requests (PR).
 
 
-      Make sure the whole team understand the [exit criteria](https://docs.google.com/document/d/1jMxqI0L7IKFENCQ8Lw-D1lhnj3c3RZI_WK808wG4YJM/edit#heading=h.8bipiccmzk3c). We know it isn’t perfect, but it’s the best way to measure everyone’s input so far.
+      Make sure the whole team understand the [exit criteria](https://docs.google.com/document/d/1eS6sYRP8Jw-siL_cqA-ql_13XWbWhMJlTx9d0H4b47A/edit#heading=h.8bipiccmzk3c). We know it isn’t perfect, but it’s the best way to measure everyone’s input so far.
 
 
       Find the template for your Launch group and add your team data. 
