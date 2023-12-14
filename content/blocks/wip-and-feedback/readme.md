@@ -1,6 +1,8 @@
 ---
 title: WIP and Feedback
-description: Getting early feedback
+description: In this session, you will play a game to explore how getting early
+  customer feedback can improve a team’s effectiveness and discuss WIP (Work not
+  Done).
 modules: React
 week: "3"
 skills:
@@ -8,6 +10,8 @@ skills:
   - Teamwork
 objectives:
   - Describe the benefit of getting early customer feedback.
+  - In max 5 sentences explain how you would assess whether a certain task is a
+    priority or not.
 time: 60
 prep: Plenty of paper and pens
 introduction: Feedback is essential as it lets us know that our message has been
@@ -15,7 +19,7 @@ introduction: Feedback is essential as it lets us know that our message has been
   improve.
 exercises:
   - name: Design-A-Snack
-    time: 60
+    time: 45
     goal: Design and improve a biscuit or drink using feedback from your customers.
     content: >-
       
@@ -49,4 +53,25 @@ exercises:
          * Did you let the Product Owner of your team make the prioritisation decisions? Why?
          * How did you find working in your teams?
          * Were there any features that were added that did not come from customer feedback?
+  - name: WIP-Work in Progress
+    time: 15
+    goal: Discuss the use of limiting Work in Progress (WIP) in planning effective
+      sprints.
+    content: >-
+      In the prep, you played a game to explore how limiting the number of tasks
+      in progress at any time can impact the effectiveness of a team.
+
+
+      As a whole cohort, get together and discuss the following questions:
+
+
+
+
+      1. Is it better that developers have a single task to focus on and complete, or a collection of jobs where they can show they are making progress on each one?  Why?
+
+      2. Is it better that developers have several small tasks for each sprint or a single large one that occupies the whole sprint?  Why?
+
+      3. When planning a new sprint, should a team only plan for the things it is confident it can deliver, or should they make sure they have enough work so that everyone will always be occupied?
+
+      4. When a new urgent piece of work is requested by a senior stakeholder halfway through a sprint, is it better to start working on it immediately or wait till the next sprint?  Why?
 ---
