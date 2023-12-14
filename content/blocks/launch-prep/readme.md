@@ -13,7 +13,8 @@ objectives:
   - Explain the structure of the launch module in 5 sentences
   - In max 5 sentences, explain how you will be measured during the launch module
 time: 180
-prep: ""
+prep: You have been accepted to Launch, as per [entry
+  criteria.](https://docs.google.com/document/d/18e84jL43b_xxLQCKROzIePDwq-gvxKcgZl7LTorPF3I/edit#heading=h.8bipiccmzk3c)
 introduction: >
   The Launch is the first of many products you will build in teams. To achieve
   this, you will need all your learnings from the year of the professional
