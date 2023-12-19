@@ -16,9 +16,6 @@ introduction: >-
   value in your available time.
 
 
-   
-
-
   A typical project can be measured at several stages. The latter measures are closer to value, but these are harder to quantify:
 
 
