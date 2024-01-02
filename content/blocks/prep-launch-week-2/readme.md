@@ -1,5 +1,5 @@
 ---
-title: Prep your Demo presentatin
+title: Prep your Demo presentation
 description: "The demo is an Agile ceremony. It celebrates your team's
   achievement during the past sprint, in our case, the past week. "
 modules: The Launch
