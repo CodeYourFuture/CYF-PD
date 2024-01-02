@@ -43,4 +43,49 @@ exercises:
          * Write the action on the board 
          * Define who in the team will be responsible for delivering it
          * Agree on a deadline.
+  - name: Cooling period (optional)
+    time: 30
+    goal: Solving conflicts as part of a team
+    content: >-
+      Conflicts are part of life. It can occur more often in high-pressure
+      moments, such as delivering a product in a short period. It might happen
+      at any moment in the week, but the retrospective usually brings them up
+      more clearly. 
+
+
+
+
+      **Team conflict**
+
+
+      If you see that you and your team struggle to collaborate, communicate or work together positively, and conflict is getting heated, you can use this cooling technique.
+
+
+      1. Stop working and take a 5-minute break.
+
+      2. Reflect on what you think is working well and what is not working. 
+
+      3. Discuss your preferred ways to communicate.
+
+      4. Re-establish how you will work together as a team.
+
+      5. Create a 5-step action plan about how they will resolve further challenges.
+
+
+
+
+      **Individual conflict**
+
+
+      If the conflict is about one specific individual, they must talk to a volunteer about the following:
+
+
+      1. Their strengths and weaknesses.
+
+      2. Reflections on how they will work together with the team. 
+
+      3. Clear action plan to resolve further challenges.
+
+
+      This must be done so the trainee can work on the team again.
 ---
