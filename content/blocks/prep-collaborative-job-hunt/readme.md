@@ -19,7 +19,8 @@ exercises:
     goal: Get familiar with the process of collaborative job research, as you’ll do
       this in class.
     content: >-
-      1. Watch this video
+      1. Watch [this
+      video](https://www.loom.com/share/9ed34d4d1f3448f19d6d97f5eb2b3037)
 
       2. Write two sentences, with no grammatical mistakes, about why collective job hunting is important and beneficial.
 ---
