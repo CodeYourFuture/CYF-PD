@@ -1,5 +1,5 @@
 ---
-title: Discuss Employers’ Needs
+title: Discuss the needs of employers
 description: Understanding employers' needs can help you a lot when looking and
   applying for jobs.
 modules: Databases
