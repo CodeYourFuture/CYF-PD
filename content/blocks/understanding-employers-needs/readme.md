@@ -15,14 +15,14 @@ exercises:
   - name: Why you should hire a Junior Developer
     time: 30
     goal: To understand the employers’ perspective on hiring a Junior Developer
-    content: Read [this
-      article](https://www.codegram.com/blog/why-you-should-hire-a-junior-developer/)
+    content: Read [the article "Why you should hire a junior
+      developer"](https://www.codegram.com/blog/why-you-should-hire-a-junior-developer/)
       and make notes, as you’ll need them in class.
   - name: "Why hire Junior Developers "
     time: 57
     goal: To understand how to explain to employers why they should hire a Junior
       Developer
-    content: Read [this
-      article](https://blog.flutter.wtf/why-hire-junior-developers/#:~:text=New%20to%20the%20professional%20realm,the%20ever%2Devolving%20tech%20landscape)
-      and make notes, as you’ll need them in class.
+    content: 'Read [the article "Why Hire Junior Developers: Is it Even Worth It?"
+      ](https://blog.flutter.wtf/why-hire-junior-developers/)and make notes, as
+      you’ll need them in class.'
 ---
