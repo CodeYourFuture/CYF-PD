@@ -20,7 +20,7 @@ exercises:
       and make notes, as you’ll need them in class.
   - name: "Why hire Junior Developers "
     time: 57
-    goal: o understand how to explain to employers why they should hire a Junior
+    goal: To understand how to explain to employers why they should hire a Junior
       Developer
     content: Read [this
       article](https://blog.flutter.wtf/why-hire-junior-developers/#:~:text=New%20to%20the%20professional%20realm,the%20ever%2Devolving%20tech%20landscape)
