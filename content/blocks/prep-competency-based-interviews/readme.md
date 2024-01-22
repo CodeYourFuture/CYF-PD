@@ -22,13 +22,6 @@ introduction: >-
   Expect questions opening with 'Tell us about a time when you…', 'Give an example of…' or 'Describe how you…'.
 exercises:
   - name: Preparing for competency-based interviews
-    time: 30
-    goal: Understand what competency-based interviews are and how to prepare for
-      them.
-    content: "* Read this article about [How to answer competency-based interview
-      questions.](https://targetjobs.co.uk/careers-advice/interviews-and-assess\
-      ment-centres/how-answer-competency-based-interview-questions)"
-  - name: Preparing for competency-based interviews
     time: 120
     goal: To prepare for competency-based interviews.
     content: "* Read and complete the recommended exercises in this guide: [The
