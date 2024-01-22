@@ -7,22 +7,23 @@ skills:
   - Employability
 objectives:
   - Name three reasons why it’s important to understand employers' needs.
-time: 90
+time: 40
 introduction: Understanding employers' needs plays a big role in your job
   search, application process, and interview. Seeing their side will help you
   improve your approach and make you a more suitable candidate.
 exercises:
-  - name: Why you should hire a Junior Developer
-    time: 30
+  - name: "Pros and Cons on hiring Junior Developers "
+    time: 40
     goal: To understand the employers’ perspective on hiring a Junior Developer
-    content: Read [the article "Why you should hire a junior
-      developer"](https://www.codegram.com/blog/why-you-should-hire-a-junior-developer/)
-      and make notes, as you’ll need them in class.
-  - name: "Why hire Junior Developers "
-    time: 57
-    goal: To understand how to explain to employers why they should hire a Junior
-      Developer
-    content: 'Read [the article "Why Hire Junior Developers: Is it Even Worth It?"
-      ](https://blog.flutter.wtf/why-hire-junior-developers/)and make notes, as
-      you’ll need them in class.'
+    content: >-
+      1. Read **two** sections in the article Why hire Junior Developers: Is it
+      even worth it?  
+
+
+      * Common Misconceptions about Junior Developers
+
+      * Benefits of Hiring Junior Developers
+
+
+      2. Make notes, as you’ll need them in class.[](https://www.codegram.com/blog/why-you-should-hire-a-junior-developer/)
 ---
