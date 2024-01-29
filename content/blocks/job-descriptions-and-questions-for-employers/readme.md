@@ -34,8 +34,6 @@ exercises:
       * Are there additional questions you would ask to get clarification from the employer?
 
       * Do you agree with their assessment of whether to apply or not?
-
-      *
   - name: Questions for employers
     time: 20
     goal: Clarify your understanding of a Job Description with a potential employer
