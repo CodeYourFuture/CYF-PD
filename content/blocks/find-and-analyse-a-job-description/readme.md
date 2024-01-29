@@ -1,5 +1,5 @@
 ---
-title: Find and analyse a Job Description
+title: Find and analyse a Job Description - Prep
 description: Find a job posting that appeals to you and do some prep work to
   compare how well you fit that job.
 modules: Databases
@@ -9,7 +9,7 @@ skills:
 objectives:
   - List four things that help you understand whether a job posting is worth
     applying for
-time: 55
+time: 60
 introduction: >-
   There is a dance that happens between the hiring manager, an HR department,
   recruiters and you.  Your goal is to find a great job, and they want to find a
@@ -69,7 +69,7 @@ exercises:
 
       6. **Should you apply?** Having done the above assessment, how likely are you to apply for this job?
   - name: Good interview questions
-    time: 13
+    time: 15
     goal: Be prepared with some good messages and questions for your interview
     content: Read this [Harvard Business Review
       article](https://hbr.org/2022/05/38-smart-questions-to-ask-in-a-job-interview)
