@@ -21,7 +21,7 @@ exercises:
   - name: Open-ended questions
     time: 20
     goal: Practice asking open-ended questions in a pre-defined scenario
-    content: >-
+    content: >+
       **Pair and practice asking open-ended questions**. 
 
 
@@ -47,7 +47,7 @@ exercises:
       * *“What can I do to help?”* 
 
 
-      ***Avoid asking questions or making statements that indicate judgment.** For example, instead of:* 
+      **\*Avoid asking questions or making statements that indicate judgment.** For example, instead of:* 
 
 
       * *“Why would you do that?” try asking “What motivated you to do that?”* 
@@ -57,9 +57,9 @@ exercises:
       * *“That doesn’t make sense” try asking “I’m not following, could you explain…”* 
 
 
-      \
+      <details>
 
-      **SCENARIO 1**
+      <summary>Scenario 1</summary>
 
 
       Joe is a new team member that just joined. Joe will start by introducing himself:
@@ -71,9 +71,12 @@ exercises:
       **Listener**: Using open-ended questions, learn more about Joe with the objective to build trust and a strong working relationship.
 
 
-      \
+      </details>
 
-      **S﻿CENARIO 2**
+
+      <details>
+
+      <summary>Scenario 2</summary>
 
 
       Lucy is your colleague and today she looks sad. When asked about it, she explained that she just had a conversation with her manager about her performance and unfortunately it was not great.
@@ -85,9 +88,11 @@ exercises:
       **Listener**: Using open-ended questions, demonstrate empathy.
 
 
-      **\
+      </details>
 
-      SCENARIO 3**
+      <details>
+
+      <summary>Scenario 3</summary>
 
 
       Jane is very unhappy with how John provides feedback on her pull requests.
@@ -97,7 +102,11 @@ exercises:
 
 
       **Listener:** Use open-ended questions to help resolve this conflict.
-  - name: Active listening whilst discussion a topic
+
+
+      </details>
+
+  - name: Active listening while discussing a topic
     time: 35
     goal: Practice active listening in a group conversation.
     content: >-
@@ -126,7 +135,7 @@ exercises:
       * Ask specific, open-ended questions.
 
 
-      **T﻿opics**
+      **Topics**
 
 
       1. **Topic:** What do you think are the most wanted technical skills and programming languages today in the job market and why? What do you think you need to do to be ready to showcase those technical skills?

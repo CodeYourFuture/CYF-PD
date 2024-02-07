@@ -1,0 +1,14 @@
+{{/* The way this site is set up is confusing Hugo and it's not looking in its
+bundle folder for its assets.
+<!--//-->
+Longer term, we might change this from readme.md to index.md and this code can
+be removed.
+<!--//-->
+But for now, we will just reroute images saved into the CMS */}} {{ if in
+.Destination "http" }}
+<a href="{{ .Destination }}">
+  <img src="{{ .Destination }}" alt="{{ .Text }}" />
+</a>
+{{ else }}
+<img src="../{{ .Destination }}" alt="{{ .Text }}" />
+{{ end }}

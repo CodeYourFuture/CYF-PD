@@ -7,8 +7,7 @@ week: "1"
 skills:
   - Communication
 objectives:
-  - By the end of this exercise the trainees will be able to explain the types
-    of feedback
+  - Explain each type of feedback in 3 sentences
 time: 45
 prep: |-
   1. Read the below theory on the topic of giving and receiving feedback. 

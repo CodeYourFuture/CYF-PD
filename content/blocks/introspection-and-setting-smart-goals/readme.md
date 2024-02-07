@@ -47,10 +47,10 @@ exercises:
     time: 25
     goal: Share your answers and agreed ideas in a 3 minutes verbal presentation
     content: >-
-      * C﻿hoose a time keeper to ensure no group goes over the 3-minute
+      * Choose a time keeper to ensure no group goes over the 3-minute
       presentation time. 
 
-      * E﻿ach speaker of a group has to present their answers within **3 minutes**
+      * Each speaker of a group has to present their answers within **3 minutes**
 
 
       *Tip: next speaker can omit some information that has already been said to avoid repetitive information and reduce their presentation time.*

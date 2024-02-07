@@ -7,7 +7,7 @@ week: "1"
 skills:
   - Communication
 objectives:
-  - Differentiate positive and negative feedbacks
+  - Give 3 examples of positive and negative feedback
 time: 15
 prep: >-
   Must have done the [prep
@@ -17,7 +17,7 @@ prep: >-
   Work with your pair.
 
 
-  Y﻿ou will play the three situations once.
+  You will play the three situations once.
 introduction: >-
   Take turns to play the roles below and answer the following questions for each
   situation:

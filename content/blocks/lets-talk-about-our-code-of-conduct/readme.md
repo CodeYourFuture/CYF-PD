@@ -7,18 +7,18 @@ week: "1"
 skills:
   - Professional Basics
 objectives:
-  - After this session, trainees can apply the Code of Conduct to have a safe
-    community
-time: 26
+  - Utilise the CYF Code of Conduct to identify desirable and undesirable
+    behaviours in specific situations.
+time: 25
 prep: Use this [slide
-  deck](https://docs.google.com/presentation/d/1k7F64r8dMImDSXhOei3ovUdy3Y5MhqSXM4Y4E6d3E04/edit)
+  deck](https://docs.google.com/presentation/d/1o58dBm8lEdA2Iz8zABnsv6aFDjkXJp8XoUC9tuO1ER0/edit#slide=id.g20c4bd85cb5_0_0)
   to do this activity.
 introduction: The Code of Conduct is the guideline for ethical and respectful
   behaviour in our community. We all need to be aware of and understand it since
   it sets behavioural expectations for all of us.
 exercises:
   - content: Open [this
-      presentation](https://docs.google.com/presentation/d/1k7F64r8dMImDSXhOei3ovUdy3Y5MhqSXM4Y4E6d3E04/edit)
+      presentation](https://docs.google.com/presentation/d/1o58dBm8lEdA2Iz8zABnsv6aFDjkXJp8XoUC9tuO1ER0/edit#slide=id.g20c4bd85cb5_0_0)
       and follow the exercises. The presenter's notes should help anyone to do
       this interactive work.
     name: Let's talk Code of Conduct

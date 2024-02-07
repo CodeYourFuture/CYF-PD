@@ -9,9 +9,9 @@ skills:
 objectives:
   - Evaluate your learning process so far in the course.
 time: 50
-prep: W﻿atch this [video](https://www.youtube.com/watch?v=s-NiJzwdN0Y) on
+prep: Watch this [video](https://www.youtube.com/watch?v=s-NiJzwdN0Y) on
   Introspection.
-introduction: ﻿Introspection is important as it helps you understand yourself,
+introduction: Introspection is important as it helps you understand yourself,
   your journey, how much you have learned and evolved and set your goals.
 exercises:
   - name: Answer questions about CYF and your career goals

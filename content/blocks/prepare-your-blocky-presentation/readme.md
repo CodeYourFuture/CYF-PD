@@ -7,7 +7,8 @@ week: "3"
 skills:
   - Communication
 objectives:
-  - Create the content for your presentation
+  - Create a tailored presentation that is time-bound, concise and appropriate
+    for the audience
 time: 90
 prep: |-
   1. Write your notes on Google Docs.

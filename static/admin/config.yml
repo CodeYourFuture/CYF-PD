@@ -34,7 +34,8 @@ collections:
           - "React"
           - "Node"
           - "Databases"
-          - "Final Projects"
+          - "The Launch"
+          - "Portfolio"
         required: true
       - label: "Week"
         name: "week"
@@ -69,7 +70,7 @@ collections:
           name: "objective"
           widget: "string"
       - { label: "Time", name: "time", widget: "number", required: true }
-      - { label: "Prep", name: "prep", widget: "markdown", required: true }
+      - { label: "Prep", name: "prep", widget: "markdown", required: false }
       - {
           label: "Introduction",
           name: "introduction",

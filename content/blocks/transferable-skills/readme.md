@@ -6,8 +6,10 @@ week: "1"
 skills:
   - Communication
 objectives:
-  - Interpret transferrable skills that can be used in your new tech career
-  - Give feedback on a text prepared by a peer
+  - In 5 sentences explain why transferable skills are important when becoming a
+    Software Developer
+  - Apply the skill by providing constructive feedback on a peer's transferable
+    skills text
 time: 40
 prep: Must have done the [prep
   work](https://cyf-pd.netlify.app/blocks/prep-transferable-skills/readme/)
@@ -32,7 +34,7 @@ exercises:
     goal: To practice providing feedback.
     content: |-
       1. Pair up with another peer. 
-      2. S﻿hare your text with this person.
+      2. Share your text with this person.
       3. Read your pair’s text. 
       4. Give a feedback on their transferrable skill.
   - name: Share how you will contribute to the cohort
