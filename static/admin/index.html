@@ -6,12 +6,13 @@
     <title>Content Manager</title>
     <!-- Include the script that enables Netlify Identity on this page. -->
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-    <!-- Decap CMS bugfix, see https://github.com/decaporg/decap-cms/issues/5092 -->
+    <!-- 1. Decap CMS bugfix, see https://github.com/decaporg/decap-cms/issues/5092 -->
+    <!-- 2. Decap CMS customisation, see https://github.com/CodeYourFuture/CYF-PD/issues/18 -->
     <style>
       [data-slate-editor] {
         -webkit-user-modify: read-write !important;
       }
-      #nc-root div div [style="height=100%"]:first-of-type {
+      #nc-root [style]:first-of-type {
         display: none;
       }
     </style>
