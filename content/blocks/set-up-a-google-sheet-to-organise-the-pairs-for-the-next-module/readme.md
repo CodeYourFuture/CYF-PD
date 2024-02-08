@@ -7,8 +7,7 @@ week: "1"
 skills:
   - Professional Basics
 objectives:
-  - Divide the group in pairs considering people's availability using Google
-    sheet
+  - Share availability with others using a spreadsheet
 time: 15
 prep: One trainee must volunteer to create a new tab on the existing Google sheet.
 introduction: >-
@@ -23,13 +22,12 @@ introduction: >-
   PS: It’s important to pair with different people in your cohort. There is more diversity, there better your professional competencies will evolve.
 exercises:
   - content: >-
+      
+      On the Fundamentals section of the course, you should have created a rota spreadsheet of the form “XXX X Rota”, replacing the "X"'s with the name of your region and cohort number. For example, "NW 6 Rota" for the cohort in North West and cohort 6.
 
-      On the Fundamentals section of the course, you should have created a rota spreadsheet of the form “XXX X Rota”, replacing the "X"'s with the name of your region and cohort number.
-      For example, "NW 6 Rota" for the cohort in North West and cohort 6.
-      
       Double check this rota spreadsheet is bookmarked to your cohort channel and post a link to the spreadsheet on Slack
-      
-      
+
+
       One trainee needs to update this Google sheet “XXX X Rota” on the cohort drive
 
 
