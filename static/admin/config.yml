@@ -4,6 +4,15 @@ backend:
 publish_mode: editorial_workflow
 media_folder: static/img
 public_folder: /img
+view_groups:
+  default: module
+  groups:
+    - name: module
+      label: Module
+      field: modules
+    - name: skill
+      label: Skill
+      field: skills
 collections:
   - name: "blocks"
     identifier_field: toml
