@@ -5,14 +5,15 @@ publish_mode: editorial_workflow
 media_folder: static/img
 public_folder: /img
 view_groups:
-  default: module
   groups:
     - name: module
       label: Module
       field: modules
+      pattern: ".+"
     - name: skill
       label: Skill
       field: skills
+      pattern: ".+"
 collections:
   - name: "blocks"
     identifier_field: toml
