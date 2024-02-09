@@ -1,8 +1,10 @@
 {{ define "main" }}
-<header class="page-header">
-  {{ partial "breadcrumbs.html" . }}
-  <h1 class="page-header__title">{{.Title}}</h1>
-  <h2 class="page-header__description">{{.Description}}</h2>
+<header class="c-page-header">
+  <div class="c-page-header__container">
+    {{ partial "breadcrumbs.html" . }}
+    <h1 class="c-page-header__title">{{.Title}}</h1>
+    <h2 class="c-page-header__description">{{.Description}}</h2>
+  </div>
 </header>
 
 {{ with .Content }}
@@ -10,5 +12,15 @@
 {{end}}
 <h3 class="is-invisible">List of Links shown as accordions</h3>
 {{ range (.Pages.GroupByParam "week")}}
-<h4>📅 Sprint {{ .Key | title }}</h4>
-{{ range .Pages }} {{ partial "details.html" . }} {{end}} {{ end }} {{ end}}
+<h3>📅 Sprint {{ .Key | title }}</h3>
+<ol class="c-timeline">
+  {{ range .Pages }}
+  <li class="c-timeline__entry">
+    <a class="c-timeline__post" href="{{ .Permalink }}"
+      ><h4 class="c-timeline__title">{{ .Title }}</h4>
+      <p>{{.Description}}</p></a
+    >
+  </li>
+  {{end}}
+</ol>
+{{ end }} {{ end}}

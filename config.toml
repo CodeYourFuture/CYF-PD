@@ -13,17 +13,26 @@ tags = "modules"
       
 [menus]
     [[menus.secondary]]
-        name = "Guides 👈🏾"
+        name = "Home 🏠"
         weight = 1
-        url = "/guides"
-     [[menus.secondary]]
-        name = "Join Us 👋🏿"
+        url = "/"
+    [[menus.secondary]]
+        name = "Modules 📚"
         weight = 2
+        url = "/modules"
+    [[menus.secondary]]
+        name = "Guides 👈🏾"
+        weight = 3
+        url = "/guides"
+    [[menus.secondary]]
+        name = "Join Us 👋🏿"
+        weight = 4
         url = "https://codeyourfuture.io/volunteers/"
     [[menus.secondary]]
         name = "Support 🫶🏼"
-        weight = 3
+        weight = 5
         url = "https://codeyourfuture.io/donate/"
+
 
 [params]
 description = "Professional Development at CYF"

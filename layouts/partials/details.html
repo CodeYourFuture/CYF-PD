@@ -12,14 +12,14 @@
   {{ with .Params.Description}}
   <h5>{{.}}</h5>
   {{end}}
-  <div class="copy">
+  <div class="c-copy">
     <!-- content-->
     {{ .Content}}
     <!-- end content-->
   </div>
   {{ with .Params.Link}}
   <h5>
-    <a class="button button--submit" href="{{.}}">{{$block}}</a>
+    <a class="e-button e-button--submit" href="{{.}}">{{$block}}</a>
   </h5>
   {{end}}
 </details>

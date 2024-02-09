@@ -1,4 +1,11 @@
 {{ define "main" }}
+<header class="c-page-header c-page-header--splash">
+  <div class="c-page-header__container">
+    {{ partial "breadcrumbs.html" . }}
+    <h1 class="c-page-header__title e-heading__1">🧑🏾‍🏫🧑🏽‍💻{{.Title}}</h1>
+    <h2 class="c-page-header__description e-heading__3">{{.Description}}</h2>
+  </div>
+</header>
 <section class="copy">{{.Content}}</section>
 
 <!-- get all the pages -->

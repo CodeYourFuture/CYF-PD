@@ -1,48 +1,98 @@
-{{ define "main" }} {{ $paramsSubset := slice (dict "name" "Module" "value"
-.Params.Modules) (dict "name" "Skill" "value" .Params.Skills) (dict "name"
-"Minutes" "value" .Params.Time) }}
+{{ define "main" }}
 
-<article>
-  <header class="page-header">
-    {{ partial "breadcrumbs.html" .}}
-    <h1 class="page-header__title">{{.Title}}</h1>
-    {{if gt (len $paramsSubset) 0 }}{{ partial "definition-list.html" (dict
-    "context" $paramsSubset) }}{{end}}
+<header class="c-page-header">
+  <div class="c-page-header__container">
+    <h1 class="c-page-header__title e-heading__1">PD Block preview</h1>
+    {{ partial "breadcrumbs.html" . }}
+  </div>
+</header>
+<section class="c-block c-block--pd">
+  <header class="c-block__header">
+    <h2 class="c-block__title e-heading__2" id="{{ .Title |urlize }}">
+      {{ .Title }}
+    </h2>
+    <time class="c-block__time" datetime="P{{ .Params.time }}M"
+      >{{ .Params.time}} minutes</time
+    >
   </header>
 
-  <section class="copy">{{.Content}}</section>
+  <section class="c-copy">{{ .Content | markdownify }}</section>
 
-  {{ with .Params.objectives }}
-  <section class="copy">
-    <h3>Learning Objectives</h3>
-    <ul class="objectives">
-      {{ range $key, $value := . }}
-      <li>{{ $value | markdownify }}</li>
+  <tab-panels class="c-tabs c-tabs--pd">
+    {{ $tab_set_id := .Title | anchorize}}
+    <div class="c-tabs__list" id="{{$tab_set_id }}" role="tablist">
+      <button
+        data-toggle="tab"
+        id="tab-label-intro"
+        class="c-tabs__tab is-active e-heading__5"
+        role="tab"
+        aria-controls="{{$tab_set_id }}-intro"
+        aria-selected="true"
+      >
+        👉🏽 PD Session
+      </button>
+      {{ range $index, $item := .Params.exercises}}
+      <button
+        data-toggle="tab"
+        id="tab-label-{{$item.name | anchorize}}"
+        class="c-tabs__tab e-heading__5"
+        role="tab"
+        aria-controls="{{$tab_set_id }}-{{ $item.name | anchorize }}"
+        aria-selected="false"
+      >
+        🧩 {{add 1 $index}} {{ trim $item.name " " | truncate 20 }}
+      </button>
+      {{- end -}}
+    </div>
+    {{ $tab_set_id := .Title | anchorize}}
+    <div class="c-tabs__group" id="{{ $tab_set_id }}">
+      {{/* First tab is all the setup */}}
+      <div
+        id="{{$tab_set_id }}-intro"
+        class="c-tabs__panel c-tabs__panel--pd is-active"
+        role="tabpanel"
+        aria-labelledby="tab-label-intro"
+      >
+        {{ with .Params.objectives }}
+        <details class="c-objectives">
+          <summary>
+            <h3 class="c-objectives__title e-heading__5">
+              Learning Objectives
+            </h3>
+          </summary>
+          {{ partial "objectives/block.html" . }}
+        </details>
+        {{ end }} {{ with .Params.prep }}
+        <section class="c-copy">
+          <h3>Preparation</h3>
+          <div class="c-copy__node">{{ . | markdownify }}</div>
+        </section>
+        {{ end }} {{ with .Params.introduction }}
+        <section class="c-copy">
+          <h3>Introduction</h3>
+          <div class="c-copy__node">{{ . | markdownify }}</div>
+        </section>
+        {{ end }}
+      </div>
+
+      {{/* Now we go to range over exercises */}} {{ with .Params.exercises }}
+      {{ range . }} {{ $tab_set_id := $tab_set_id }}
+      <div
+        id="{{$tab_set_id }}-{{ .name | anchorize }}"
+        class="c-tabs__panel c-tabs__panel--pd"
+        role="tabpanel"
+        aria-labelledby="tab-label-{{.name | anchorize}}"
+      >
+        <h4 class="e-heading e-heading__4">{{ .name }}</h4>
+        <p>
+          🎯 <strong>Goal: </strong>{{ .goal | markdownify }} {{ with .time
+          }}({{ . }} minutes){{ end }}
+        </p>
+        {{ .content | markdownify }}
+      </div>
       {{ end }}
-    </ul>
-  </section>
-  {{ end }} {{ with .Params.prep }}
-  <section class="copy">
-    <h3>Preparation</h3>
-    {{ . | markdownify }}
-  </section>
-  {{ end }} {{ with .Params.introduction }}
-  <section class="copy">
-    <h3>Introduction</h3>
-    {{ . | markdownify }}
-  </section>
-  {{ end }} {{ with .Params.exercises }}
-  <section class="copy">
-    <h3>Exercises</h3>
-    {{ range . }}
-    <section class="exercise">
-      <h4>{{ .name }} ({{ .time }} minutes)</h4>
-      <p><strong>Goal: </strong>{{ .goal | markdownify }}</p>
-      {{ .content | markdownify }}
-    </section>
-    {{ end }}
-  </section>
-  {{ end }}
-</article>
+    </div>
+  </tab-panels>
+</section>
 
-{{ end }}
+{{ end}} {{ end}}
