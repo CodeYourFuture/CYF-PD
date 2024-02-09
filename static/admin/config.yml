@@ -14,6 +14,11 @@ view_groups:
       label: Skill
       field: skills
       pattern: ".+"
+sortable_fields:
+  fields: ["title", "modules", "skills", "date"]
+  default:
+    field: "title"
+    direction: "Ascending"
 collections:
   - name: "blocks"
     identifier_field: toml
