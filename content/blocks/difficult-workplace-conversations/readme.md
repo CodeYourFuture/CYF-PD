@@ -10,8 +10,8 @@ skills:
   - Problem Solving
   - Teamwork
 objectives:
-  - To identify and practice the steps to form a constructive response to
-    workplace conflict situations.
+  - Practice having a difficult workplace conversation by focusing on a common
+    goal, actively listening to others’ perspectives and avoiding assumptions
 time: 60
 prep: Do the prep.
 introduction: Having difficult conversations is part of work life as well and is
