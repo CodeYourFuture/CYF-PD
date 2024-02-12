@@ -6,9 +6,9 @@ week: "3"
 skills:
   - Time/Project Management
 objectives:
-  - Categorise measures by their stage in the value measurement chain.
-  - In 3 sentences, explain based on whether you would identify which tasks are
-    worth doing and which are not.
+  - Categorise measures as either outputs, outcomes or impacts
+  - Identify whether tasks are valuable or not, and if so what kind of value is
+    delivered
 time: 60
 prep: Do the prep.
 introduction: Building a product that has value is crucial. It's relatively easy
