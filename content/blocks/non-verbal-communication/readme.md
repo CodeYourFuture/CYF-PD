@@ -6,7 +6,8 @@ week: "1"
 skills:
   - Communication
 objectives:
-  - List 3 non-verbal communication differences specific to your culture.
+  - Demonstrate working with colleagues using culturally sensitive, non-verbal
+    body language
 time: 60
 prep: Facilitator to bring a deck of cards. Ensure there is an equal amount of
   each suit (hearts, clubs, diamonds, and spades) so no trainee gets left out.
