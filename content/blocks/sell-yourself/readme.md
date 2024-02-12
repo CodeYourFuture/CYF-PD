@@ -7,9 +7,8 @@ week: "4"
 skills:
   - Confidence
 objectives:
-  - Practice elevator pitches
-  - Express the strengths of another person
-  - Express own professional value
+  - Present your elevator pitch using positive and enthusiastic non-verbal
+    communication
 time: 60
 prep: Stickers for each trainee to put their roles on their top.
 introduction: Training as a developer is a tough and demanding task. You have
