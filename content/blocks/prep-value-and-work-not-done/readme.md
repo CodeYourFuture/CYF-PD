@@ -6,7 +6,9 @@ week: "3"
 skills:
   - Time/Project Management
 objectives:
-  - In three sentences, explain the meaning of value in a work setting.
+  - Explain the difference between outputs, outcomes and impacts
+  - Explain the difference between commercial value, efficiency value, market
+    value, customer value and future value
 time: 45
 introduction: >-
   We don’t have jobs just to fill the time. We should focus our efforts on
