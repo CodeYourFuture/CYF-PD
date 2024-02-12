@@ -6,7 +6,9 @@ week: "1"
 skills:
   - Communication
 objectives:
-  - List and explain 5 different ways we communicate non-verbally
+  - Describe 5 different ways we communicate non-verbally
+  - Describe how the four elements of the STAR method are used in applying for
+    jobs
 time: 80
 prep: ""
 introduction: >-
