@@ -6,8 +6,9 @@ week: "4"
 skills:
   - Confidence
 objectives:
-  - Turn negative arguments into positive
-  - Prepare an elevator pitch
+  - Translate negative self-talk into powerful statements that promote your
+    skills
+  - Develop an elevator pitch using the four recommended elements
 time: 110
 introduction: Training as a developer is a tough and demanding task. You have
   been working so hard and dedicating so many hours to this. How can you make
