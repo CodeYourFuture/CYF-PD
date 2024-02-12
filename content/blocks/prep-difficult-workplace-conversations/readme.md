@@ -7,7 +7,8 @@ skills:
   - Communication
   - Teamwork
 objectives:
-  - Achieve constructive outcomes following difficult conversations.
+  - List three important steps to take when having difficult conversations with
+    workplace colleagues
 time: 60
 introduction: >-
   We all find ourselves in situations where we have to have difficult
