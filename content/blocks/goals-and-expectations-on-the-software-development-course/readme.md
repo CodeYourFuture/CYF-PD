@@ -6,8 +6,7 @@ week: "1"
 skills:
   - Professional Basics
 objectives:
-  - Describe the goals of the Software Development course and what is expected
-    of you
+  - List the milestones for the Software Development Course
 time: 90
 prep: Review the
   [presentation](https://docs.google.com/presentation/d/1QnYlp5tZF9vn7tJqtu0wrBO8_qNtqZdXqeQJ6dPQuHY/edit?usp=sharing)
