@@ -8,18 +8,18 @@ week: "1"
 skills:
   - Time/Project Management
 objectives:
-  - Detail your availability on a shared spreadsheet
+  - Share availability with others using a spreadsheet
 time: 10
 prep: >-
- Copy this [General Weekly Availability
-  Spreadsheet](https://docs.google.com/spreadsheets/d/1MtWyOhoaZCsFH12PLXbAMHBS_e32nQNseVkMj2OP0Q0/copy)
-  for your cohort and share it with everyone. If no one has done this yet, take the initiative and do it.
+  Copy this [General Weekly Availability
+   Spreadsheet](https://docs.google.com/spreadsheets/d/1MtWyOhoaZCsFH12PLXbAMHBS_e32nQNseVkMj2OP0Q0/copy)
+   for your cohort and share it with everyone. If no one has done this yet, take the initiative and do it.
 
-  - Someone in your cohort needs to bookmark this spreadsheet on your cohort channel in Slack.
-  - Someone in your cohort also needs to do a brief post on Slack linking people to this spreadsheet.
+   - Someone in your cohort needs to bookmark this spreadsheet on your cohort channel in Slack.
+   - Someone in your cohort also needs to do a brief post on Slack linking people to this spreadsheet.
 
 
-  This is one file for the cohort, not one per person.
+   This is one file for the cohort, not one per person.
 introduction: >-
   Sharing our general availability means that you and your peers can identify
   roughly who is available and when. 
