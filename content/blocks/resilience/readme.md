@@ -6,7 +6,7 @@ week: "1"
 skills:
   - Employability
 objectives:
-  - Explore your current resilience and how you can improve it.
+  - Describe 2 methods to improve resilience
 time: 60
 prep: Trainees will work in pairs.
 introduction: >-
