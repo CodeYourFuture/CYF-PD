@@ -14,7 +14,7 @@ objectives:
   - In max 5 sentences, explain how you will be measured during the launch module
 time: 180
 prep: You have been accepted to Launch, as per [entry
-  criteria.](https://docs.google.com/document/d/18e84jL43b_xxLQCKROzIePDwq-gvxKcgZl7LTorPF3I/edit#heading=h.8bipiccmzk3c)
+  criteria.](https://docs.google.com/document/d/18e84jL43b_xxLQCKROzIePDwq-gvxKcgZl7LTorPF3I/edit)
 introduction: >
   The Launch is the first of many products you will build in teams. To achieve
   this, you will need all your learnings from the year of the professional
@@ -132,7 +132,7 @@ exercises:
       3. **Know how to do these:** create your feature branch, do a good code review, scope down your PRs, mob your paired commits, resolve merge conflicts, and merge your Pull requests (PR).
 
 
-      Make sure the whole team understand the [exit criteria](https://docs.google.com/document/d/1eS6sYRP8Jw-siL_cqA-ql_13XWbWhMJlTx9d0H4b47A/edit#heading=h.8bipiccmzk3c). We know it isn’t perfect, but it’s the best way to measure everyone’s input so far.
+      Make sure the whole team understand the [exit criteria](https://docs.google.com/document/d/1eS6sYRP8Jw-siL_cqA-ql_13XWbWhMJlTx9d0H4b47A/edit). We know it isn’t perfect, but it’s the best way to measure everyone’s input so far.
 
 
       Find the template for your Launch group and add your team data. 
