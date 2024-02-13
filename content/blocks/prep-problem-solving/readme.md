@@ -8,7 +8,7 @@ skills:
   - Employability
   - Problem Solving
 objectives:
-  - Describe each of the problem solving approaches in max 3 sentences.
+  - Describe 3 problem solving methods
 time: 30
 introduction: Problem-solving skills are skills that enable people to handle
   unexpected situations or difficult challenges at work. This is an introduction
