@@ -9,9 +9,8 @@ skills:
   - Time/Project Management
   - Teamwork
 objectives:
-  - Describe the benefit of getting early customer feedback.
-  - In max 5 sentences explain how you would assess whether a certain task is a
-    priority or not.
+  - Explain the benefit of getting early customer feedback
+  - Decide whether a task is a priority at a given time or not
 time: 60
 prep: Plenty of paper and pens
 introduction: Feedback is essential as it lets us know that our message has been
