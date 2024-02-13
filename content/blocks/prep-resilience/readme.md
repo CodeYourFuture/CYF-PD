@@ -6,7 +6,7 @@ week: "1"
 skills:
   - Employability
 objectives:
-  - Reflect on embracing failure as part of growth
+  - Explain how failure can be a part of growth
 time: 80
 prep: ""
 introduction: Learn background information about techniques to help yourself
