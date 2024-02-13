@@ -8,7 +8,7 @@ skills:
   - Teamwork
   - Time/Project Management
 objectives:
-  - Describe three methods of increasing the value of work delivered by a team
+  - Describe 3 methods to increase the value of work
 time: 60
 introduction: >-
   Almost all professional development involves people with different skills
