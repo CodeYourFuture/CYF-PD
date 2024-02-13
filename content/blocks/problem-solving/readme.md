@@ -7,9 +7,8 @@ skills:
   - Employability
   - Problem Solving
 objectives:
-  - Generate at least 10 brainstorming ideas during the exercise
-  - "Identify at least 3 examples for each step/letter of the IDEA approach for
-    solving problems "
+  - List 3 requirements for an effective brainstorming session
+  - Apply IDEA approach to solve a problem
 time: 60
 prep: Do the prep.
 introduction: Problem-solving techniques serve as a template to solve a variety
