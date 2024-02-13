@@ -7,8 +7,7 @@ week: "4"
 skills:
   - Teamwork
 objectives:
-  - Define concepts related to diversity and inclusion
-  - Explain three situations where a tech product can be inaccessible
+  - Explain 3 situations where a tech product is inaccessible
 time: 60
 prep: n/a
 introduction: These exercises will help you to recognise systemic problems
