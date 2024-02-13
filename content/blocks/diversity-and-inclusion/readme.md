@@ -8,8 +8,7 @@ week: "4"
 skills:
   - Teamwork
 objectives:
-  - Explain feelings associated with being included or excluded in five sentences
-  - Describe at least two coping methods against social exclusion
+  - Identify 2 coping methods against social exclusion
   - Prepare a brief for an inclusive tech product
 time: 60
 prep: ""
