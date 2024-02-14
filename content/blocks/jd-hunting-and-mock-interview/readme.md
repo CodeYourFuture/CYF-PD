@@ -7,10 +7,12 @@ week: "3"
 skills:
   - Employability
 objectives:
-  - Learn to identify key elements of a job description.
-  - Identify your most relevant qualifications using the job description
-    keywords and specific phrases so these can be included and highlighted in
-    your resume.
+  - Identify key elements of a job description for a software engineer role,
+    including required skills, qualifications, and responsibilities
+  - Recognize the importance of tailoring a resume to match the requirements and
+    priorities outlined in a job description
+  - Apply the STAR method to effectively answer competency-based interview
+    questions related to the software engineer role
 time: 60
 prep: Bring the job description from prep to class.
 introduction: Hiring managers may sort through hundreds of resumes for a single
