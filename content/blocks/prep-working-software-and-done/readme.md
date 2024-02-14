@@ -6,7 +6,8 @@ week: "1"
 skills:
   - Time/Project Management
 objectives:
-  - Explain the Agile principle of the importance of working software
+  - Provide an example of a Definition of Done for a user story
+  - Provide an example of an Acceptance Criteria for a User Story
 time: 80
 introduction: Agile software developers focus on delivering valuable working
   products. It’s, therefore, good to understand what Agile working is and why
