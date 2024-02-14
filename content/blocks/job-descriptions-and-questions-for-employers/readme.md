@@ -7,8 +7,8 @@ week: "2"
 skills:
   - Employability
 objectives:
-  - Practice analysing how well real Job Descriptions match your skills and
-    experience
+  - Review job descriptions in groups and come up with good questions to ask
+    employers or recruiters before applying for a job
 time: 60
 prep: You must have done the prep work.
 introduction: To find a good job, you must know how to ‘play the game’.  This
