@@ -7,7 +7,8 @@ week: "1"
 skills:
   - Time/Project Management
 objectives:
-  - Write a typical Definition of Done
+  - Create a checklist that defines what’s needed for an increment to be
+    releasable at the end of a Sprint
 time: 60
 prep: Do the prep
 introduction: >-
