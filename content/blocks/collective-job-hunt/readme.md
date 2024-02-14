@@ -6,7 +6,10 @@ week: "4"
 skills:
   - Employability
 objectives:
-  - As a group find 2 suitable job opportunities
+  - Find 2 suitable jobs applying search filters and techniques looking for a
+    job opportunities on LinkedIn Job Search
+  - Explain the potential advantages and disadvantages of hiring junior
+    developers from the perspective of an Engineering Manager
 time: 27
 prep: ""
 introduction: Job hunting is stressful, but you are not alone in this. It’s
