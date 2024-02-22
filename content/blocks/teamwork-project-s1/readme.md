@@ -75,7 +75,7 @@ exercises:
     name: Team Charter
     time: 15
     content: >-
-      You might come across a ceremony called “**team charte**r” in your future
+      You might come across a ceremony called “**team charter**” in your future
       work. 
 
 
