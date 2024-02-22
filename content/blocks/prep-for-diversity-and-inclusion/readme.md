@@ -15,7 +15,7 @@ introduction: These exercises will help you to recognise systemic problems
   diverse and inclusive tech industry.
 exercises:
   - name: Diversity and inclusion
-    time: 29
+    time: 30
     goal: Define concepts related to diversity and inclusion
     content: >-
       Study [this slide
