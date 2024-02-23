@@ -1,0 +1,65 @@
+---
+name: Feedback on PD syllabus
+description: Give feedback on professional development resources to the CYF team
+title: <"Be as descriptive as possible">
+labels: [Feedback]
+projects: "github/CodeYourFuture/PD-curriculum"
+body:
+  - type: markdown
+    attributes:
+      value: Thank you for offering feedback on the Professional Development curriculum.
+        You are helping to make it better. We will read your comments and work on them as soon as possible. 
+  - type: dropdown
+    id: effectiveness
+    attributes:
+      label: Rating
+      description: In a single number, how constructive is this material?
+      options: 
+        - 1 ★
+        - 2 ★★
+        - 3 ★★★
+        - 4 ★★★★
+        - 5 ★★★★★
+        - Other
+  - type: dropdown
+    id: role
+    attributes:
+      label: Your role in CYF
+      description: What brings you to be looking at the PD syllabus?
+      options:
+        - Trainee/Graduate/Alumni
+        - PD volunteer delivering the content
+        - Other CYF volunteers or staff
+        - PD syllabus team member
+  - type: dropdown
+    id: feedback_type
+    attributes:
+      label: Suggestion type
+      description: What kind of feedback is this?
+      options:
+      - It's great. So relevant and well structured.
+      - Suggestion for new content
+      - Remove content
+      - Edit
+      - Style and approach
+      - Wrong place in the syllabus sequence
+      - Too slow / not enough detail
+      - Too fast / too much detail
+      - Not relevant
+      - Poor examples / exercises
+      - Didn't flow well in the class 
+      - Other
+  - type: input
+    id: old_url
+    attributes:
+      label: Web page address of old content
+  - type: textarea
+    id: old_content
+    attributes:
+      label: Extract from the old content
+      description: Which existing words / activity / step are you thinking about?
+  - type: textarea
+    id: new_content
+    attributes:
+      label: Suggested new content or More detail on your feedback
+      description: If you know how it should be, please say here. Or tell us about your concern in as much depth as you wish.
