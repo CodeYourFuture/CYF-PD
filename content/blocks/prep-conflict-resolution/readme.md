@@ -7,17 +7,18 @@ skills:
   - Communication
 objectives:
   - Understand the different theories and actions about conflict resolution
-time: 60
+time: 90
 introduction: >-
   People at work will inevitably disagree with each other at some time. Most
-  people want to do what’s best for them and those around them. Often, conflicts arise
-  from misunderstandings or different attitudes to general problem-solving.
+  people want to do what’s best for them and those around them. Often, conflicts
+  arise from misunderstandings or different attitudes to general
+  problem-solving.
 
 
   These exercises will ensure you understand the theory and have reflected on this theme, so you can do the in-class exercises more effectively.
 exercises:
   - name: How to deal with workplace conflicts
-    time: 7
+    time: 10
     goal: Understand tips that will help you to handle conflicts on day-to-day basis.
     content: Watch the video “[How to deal with workplace conflicts - Develop your
       personality and business
