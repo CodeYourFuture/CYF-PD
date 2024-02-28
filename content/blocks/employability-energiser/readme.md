@@ -1,5 +1,5 @@
 ---
-title: Bad Interview Answers
+title: Bad Interview Answer
 description: We have a lot of serious work to do, but let's start with some fun
 modules: Portfolio
 week: "1"
