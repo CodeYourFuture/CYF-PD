@@ -11,7 +11,7 @@ objectives:
   - Develop a presentation about your team's achievements
   - Collaborate with your team to have content that any non-developer can
     understand
-time: 57
+time: 60
 prep: Access to [Google
   slides](https://docs.google.com/presentation/d/1TzlBcMQ9DdDoV_M6jiyvoozMShvQI1XvlUzWhzvysFc/edit?usp=drive_link)
 introduction: >-
@@ -28,7 +28,7 @@ introduction: >-
   These small ceremonies build empathy, align priorities, provide teaching moments, and support a culture where shipping features responsibly earn praise.
 exercises:
   - name: Develop your presentation
-    time: 57
+    time: 60
     goal: Develop a presentation about your team's achievements
     content: >-
       Your demo should be no longer than 5 minutes. This means you need to be
