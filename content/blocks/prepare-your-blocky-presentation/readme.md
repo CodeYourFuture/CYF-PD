@@ -9,7 +9,7 @@ skills:
 objectives:
   - Create a tailored presentation that is time-bound, concise and appropriate
     for the audience
-time: 90
+time: 80
 prep: |-
   1. Write your notes on Google Docs.
   2. Comment on your GitHub Project issue with a link to the document.
