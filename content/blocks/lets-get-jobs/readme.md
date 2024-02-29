@@ -15,7 +15,7 @@ time: 60
 introduction: This is a list of content to guide the employability sessions.
 exercises:
   - name: List of employability sessions
-    time: 56
+    time: 60
     goal: Feel ready and confident to get a job in tech
     content: >-
       The following themes are the ones that should be discussed. They are
