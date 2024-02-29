@@ -23,7 +23,7 @@ introduction: During the presentations, listen actively to each other and write
 exercises:
   - goal: To practice public speaking skills
     name: Your teamwork presentation
-    time: 47
+    time: 50
     content: >-
       Each team will deliver their presentation to the class.
 
