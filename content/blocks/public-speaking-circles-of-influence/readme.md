@@ -27,7 +27,7 @@ introduction: >-
   In addition, you will develop the Circles of Influence you created in the prep to improve your ability to affect aspects of your life and worry less about things you cannot control.
 exercises:
   - name: Power Poses
-    time: 7
+    time: 10
     goal: Use Power Poses to give yourself a confidence boost
     content: >-
       Some psychologists have suggested that doing “Power Poses” for two minutes
