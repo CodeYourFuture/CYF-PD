@@ -21,7 +21,7 @@ introduction: >-
 exercises:
   - name: Create pairs for next week
     goal: Identify the new pair to work with for this week
-    time: 3
+    time: 5
     content: >-
       * One trainee to update the Google sheet “XXX X Rota” on the cohort drive
 
