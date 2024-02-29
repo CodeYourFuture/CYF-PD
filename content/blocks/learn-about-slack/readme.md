@@ -7,7 +7,7 @@ skills:
   - Professional Basics
 objectives:
   - Describe Slack's basic funcionalities in 5 sentences
-time: 30
+time: 25
 prep: You need to use the Internet to search for answers.
 introduction: Slack is the primary collaboration tool within our community and
   tech companies. This means you have to know it for your future job in tech.
