@@ -10,11 +10,15 @@ objectives:
   - Analyse your previous job/education experience to identify the skills you
     can reuse as a developer
 time: 60
-prep: Go through [this slides
-  deck](https://docs.google.com/presentation/d/1E8O9eh8dTQdIsI6VpVwFHesAz0PBDW38WSXuTir_vUk/edit#slide=id.ga9333c68a9_0_33)
-  about the transferable skills.
-introduction: .
+prep: ""
+introduction: Transferable skills are very useful and can be used in different jobs.
 exercises:
+  - content: Go through [this slides
+      deck](https://docs.google.com/presentation/d/1E8O9eh8dTQdIsI6VpVwFHesAz0PBDW38WSXuTir_vUk/edit#slide=id.ga9333c68a9_0_33)
+      about the transferable skills.
+    time: 20
+    name: What are transferable skills?
+    goal: To learn about transferable skills
   - content: >-
       Write a 100-word text on your previous job/education experience.
 
