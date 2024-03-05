@@ -9,9 +9,7 @@ skills:
 objectives:
   - Explain each type of feedback in 3 sentences
 time: 45
-prep: |-
-  1. Read the below theory on the topic of giving and receiving feedback. 
-  2. Watch [this video](https://www.youtube.com/watch?v=hAZLU2aYzcY).
+prep: ""
 introduction: Feedback is a valuable tool to understand whether things are going
   in the right direction or not. It is also an effective way to help people
   develop and grow professionally. How feedback is communicated will not only
