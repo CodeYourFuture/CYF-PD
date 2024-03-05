@@ -8,7 +8,7 @@ skills:
   - Employability
 objectives:
   - Identify the different roles in the tech industry
-time: 60
+time: 50
 prep: Make sure you have your laptop, good internet and some time to focus
 introduction: In the real world, it always takes a team of people with different
   skill sets to build valuable software. You will need to understand the typical
