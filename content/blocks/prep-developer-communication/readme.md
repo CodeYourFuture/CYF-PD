@@ -9,7 +9,7 @@ skills:
 objectives:
   - Trainees will develop a presentation of technical concepts tailored for a
     specific audience
-time: 60
+time: 50
 prep: Work together with your pair
 introduction: You will explore how a professional developer explains technical
   concepts with simple communication to specific audiences.
