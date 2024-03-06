@@ -9,18 +9,23 @@ skills:
 objectives:
   - In 3 sentences explain why helping others is important and makes us happier.
 time: 60
-prep: >-
-  * Watch this 15 minute
-  [video](https://www.ted.com/talks/elizabeth_dunn_helping_others_makes_us_happier_but_it_matters_how_we_do_it?language=en)
-  on how helping others makes us happier but it matters how we help.
-
-  * Read about ‘helper’s high’ [here.](https://www.happierhuman.com/helpers-high/)
-
-  * Read what is the collective job search [here](https://module-graduates.codeyourfuture.io/further-activities/collective-job-search/the-power-of-linkedin)
+prep: "[.](https://module-graduates.codeyourfuture.io/further-activities/collec\
+  tive-job-search/the-power-of-linkedin)"
 introduction: Helping others is a foundational value at CYF. This week you will
   explore what helping each other means in the CYF community. Let’s start with
   exploring why helping others makes you happier.
 exercises:
+  - content: >-
+      * Watch this
+      [video](https://www.ted.com/talks/elizabeth_dunn_helping_others_makes_us_happier_but_it_matters_how_we_do_it?language=en)
+      on how helping others makes us happier but it matters how we help.
+
+      * Read about ‘helper’s high’ [here.](https://www.happierhuman.com/helpers-high/)
+
+      * Read what is the collective job search [here](https://module-graduates.codeyourfuture.io/further-activities/collective-job-search/the-power-of-linkedin)
+    goal: To learn about importance of helping each other
+    time: 45
+    name: Importance of helping each other
   - name: Helpers high
     time: 15
     goal: To understand helpers high and why it's important to help
