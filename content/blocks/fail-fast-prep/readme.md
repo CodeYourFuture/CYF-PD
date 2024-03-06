@@ -9,13 +9,7 @@ skills:
 objectives:
   - Relate the failing fast concept to your life experiences
 time: 40
-prep: >-
-  * Read [this
-  piece](https://medium.com/agile-adapt/the-secret-to-failing-2778f930cc05) that
-  will introduce you to the concept of failing fast and how this can be put into
-  practice by using the Agile framework.
-
-  * Watch this [video](https://www.youtube.com/watch?v=wmMgjrqhHrw) about failure and how you learn and innovate.
+prep: ""
 introduction: >-
   Failing fast is crucial for identifying flaws and giving you a quick
   opportunity to change anything that is needed.
@@ -23,6 +17,16 @@ introduction: >-
 
   Embracing failure as a learning opportunity accelerates growth and adaptation and is a skill that makes you a more efficient professional.
 exercises:
+  - name: Failing fast
+    content: >-
+      * Read [this
+      piece](https://medium.com/agile-adapt/the-secret-to-failing-2778f930cc05)
+      that will introduce you to the concept of failing fast and how this can be
+      put into practice by using the Agile framework.
+
+      * Watch this [video](https://www.youtube.com/watch?v=wmMgjrqhHrw) about failure and how you learn and innovate.
+    time: 20
+    goal: Learn about failing fast
   - content: >-
       Considering what you have learned regarding Failing Fast, think of an
       instance when you failed to achieve something you aimed for. 
