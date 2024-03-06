@@ -7,15 +7,20 @@ skills:
   - Confidence
 objectives:
   - Use your past experience to identify the benefit of having a growth mindset
-time: 45
-prep: >-
-  Watch [this](https://www.youtube.com/watch?v=_X0mgOOSpLU) and [this
-  video](https://youtu.be/ELpfYCZa87g). 
-
-
-  Read [this article](https://www.skillpacks.com/personal-barriers-to-change/).
+time: 60
+prep: ""
 introduction: \-
 exercises:
+  - name: Growth mindset
+    time: 25
+    goal: Learn about growth mindset
+    content: >-
+      * Watch [this video on power of our
+      brain](https://www.youtube.com/watch?v=_X0mgOOSpLU) and
+
+      * [this video on Neuroplasticity](https://youtu.be/ELpfYCZa87g). 
+
+      * read [this article](https://www.skillpacks.com/personal-barriers-to-change/) on overcoming barriers at work.
   - content: >-
       Reflect upon your own experiences. What is an example of a time when you
       took a fixed mindset? Ask yourself the following questions:
