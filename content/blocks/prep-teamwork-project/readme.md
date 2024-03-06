@@ -9,7 +9,7 @@ skills:
 objectives:
   - Explain the Teamwork Project structure and requirements
   - Describe different roles that can be found in a professional team
-time: 100
+time: 120
 prep: |-
   Your team must be defined beforehand and be composed of the following:
 
