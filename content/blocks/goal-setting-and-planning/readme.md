@@ -9,7 +9,7 @@ objectives:
   - Identify the Portfolio module goals
   - Create a set of SMART employment goals
   - Identify your weekly activities and availability
-time: 30
+time: 50
 introduction: You will be sharing and reviewing your SMART goals with your
   peers. So let’s prepare for it.
 exercises:
