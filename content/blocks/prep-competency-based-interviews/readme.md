@@ -11,7 +11,7 @@ skills:
   - Employability
 objectives:
   - In 3 sentences, explain what competency-based questions are
-time: 180
+time: 150
 introduction: >-
   Questions asked during a competency-based interview aim to test a variety of
   skills, and you'll need to answer questions in the context of actual events.
