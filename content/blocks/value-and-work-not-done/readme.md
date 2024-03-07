@@ -17,7 +17,7 @@ introduction: Building a product that has value is crucial. It's relatively easy
   If not, you are just wasting your and your client's time.
 exercises:
   - name: Value Measurement Chain
-    time: 20
+    time: 25
     goal: To practice identifying the stages of the value measurement chain.
     content: >-
       Work in teams of 3-4 people.
@@ -53,9 +53,9 @@ exercises:
       * Opportunity cost / future value of food intake forecasting for diabetic users of that location tracking software.
 
 
-      <!--EndFragment-->
+      *Tip for timing:* Use the first 10 minutes to assign items in your group, then during the last 15 minutes discuss each item in the class.
   - name: Work Not Done
-    time: 40
+    time: 35
     goal: To practice identifying which tasks should/shouldn't be done and why.
     content: >-
       Work in teams of 3-4 people.
@@ -100,5 +100,8 @@ exercises:
       *  Fixing bugs in an experimental prototype feature for which we are already collecting A/B test analytics.
 
 
-      Use the last 15 minutes to reflect on your findings and present them as a group to the rest of the cohort.
+      Go through each task in the class and ask the questions listed at the beginning. It’s alright if you don’t have time to cover all tasks.
+
+
+      *Tips for timing:* 15 minutes to work on the exercise in groups, 20 minutes to discuss.
 ---
