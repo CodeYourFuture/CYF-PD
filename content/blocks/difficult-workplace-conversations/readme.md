@@ -39,14 +39,17 @@ exercises:
 
       *Tip for the facilitator*: ensure everyone is invited to talk, especially the quiet ones. If possible, get 2-3 people to answer each question. Make sure to control the time spent on each question to limit it to 5 minutes each and ensure the whole discussion does not exceed 30 minutes.
   - name: Preparing for a potentially conflicting situation at work
-    time: 35
+    time: 30
     goal: To practice difficult conversations by role-playing through different
       scenarios.
     content: >-
       Introduce the exercise and read the scenario (5 min)
 
 
-      Work in pairs. Use one of the below scenarios where you need to have a difficult conversation. If you finish your first scenario and still have time, choose another one.
+      Pair up and choose a scenario (5 min) 
+
+
+      Use one of the below scenarios (per pair) where you need to have a difficult conversation. If you finish your first scenario and still have time, choose another one.
 
 
       1. You are a developer in a team, and a very important project has been presented; however, you have not been assigned to it. The person working on this project is a peer who you think isn’t as competent as you. You want to question that decision with your manager.
@@ -70,17 +73,18 @@ exercises:
       10. You are given a bad performance review. You want to talk to someone in your team to get more information and specific feedback on improving your performance.
 
 
-
       *Activities:*
 
 
-      * Role-play the conversation as a group (10 min)
+      * Role-play the conversation as a pair (10 min)
 
       * List your emotions that you associate with that moment whilst doing the activity
 
-      * Discuss with your partner how that conversation could have been better if you could take the emotion out of it. (5 min)
+      * Discuss with your partner how that conversation could have been better if you could take the emotion out of it. 
 
 
+      Have one group for each scenario to share their thoughts with the class. (10 min)
 
-      Have one group for each scenario to share their thoughts with the class. (15 min)
+
+      *Tip for the facilitator:* Make sure all scenarios are used.
 ---
