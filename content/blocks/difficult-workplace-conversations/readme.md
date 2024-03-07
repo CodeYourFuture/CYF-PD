@@ -19,7 +19,7 @@ introduction: Having difficult conversations is part of work life as well and is
   people with such topics.
 exercises:
   - name: Preparing for a difficult conversation at work
-    time: 20
+    time: 30
     goal: To identify the steps to form a constructive response.
     content: >-
       *Facilitator to introduce the topic.*
@@ -37,7 +37,7 @@ exercises:
       * What do you want to achieve by the end of the conversation?
 
 
-      *Tip for the facilitator*: ensure everyone is invited to talk, especially the quiet ones. If possible, get 2-3 people to answer each question.
+      *Tip for the facilitator*: ensure everyone is invited to talk, especially the quiet ones. If possible, get 2-3 people to answer each question. Make sure to control the time spent on each question to limit it to 5 minutes each and ensure the whole discussion does not exceed 30 minutes.
   - name: Preparing for a potentially conflicting situation at work
     time: 35
     goal: To practice difficult conversations by role-playing through different
