@@ -22,43 +22,32 @@ introduction: >-
   We expect you to watch all other demos and ask questions or give feedback. 
 
 
-  The demo aims to maintain transparency, enable faster troubleshooting, and encourage accountability for quality code. Ultimately, it stimulates collaboration, knowledge sharing and continuous improvement. 
+  The demo aims are to:
 
 
-  These small ceremonies build empathy, align priorities, provide teaching moments, and support a culture where shipping features responsibly earn praise.
+  * Demonstrate the incremental progress towards your goal to all your stakeholders (other teams, users, volunteers)
+
+  * Share learnings and gather feedback from other people facing similar challenges to you
+
+  * Practice feeling comfortable speaking in front of larger groups
 exercises:
   - name: Develop your presentation
     time: 60
     goal: Develop a presentation about your team's achievements
     content: >-
       Your demo should be no longer than 5 minutes. This means you need to be
-      clear and concise on the slides. Here are some tips for your presentation:
+      clear and concise on the slides. 
 
 
-      1. Focus on 1 key message. Stick to your point. 
+      1. Create a copy of [this deck](https://docs.google.com/presentation/d/1TzlBcMQ9DdDoV_M6jiyvoozMShvQI1XvlUzWhzvysFc/edit?usp=drive_link)
 
+      2. Update the content on each slide wherever you see
 
-      2. Avoid text-heavy slides. Instead, use visuals.
+      3. Keep the content short (and sweet!)
 
+      4. Decide what you can demo - it’s great if this is something visual, like frontend changes, but it can also be technical, e.g. “this is how we set up the database”
 
-      3. Share stories or examples to ensure understanding.  
+      5. Decide who will speak - it’s important everyone in the team takes a turn
 
-
-      4. Practice extensively to deliver it within a tight timeframe.
-
-
-      5. Summarize critical information at both the opening and closing. End strong.
-
-
-      The demo agenda should include the following:
-
-
-      * What you've done this week
-
-      * Demoing your product, which can be UI/UX designs or a live walkthrough of your product
-
-      * What you are planning to do next
-
-
-      You can use [this presentation template](https://docs.google.com/presentation/d/1TzlBcMQ9DdDoV_M6jiyvoozMShvQI1XvlUzWhzvysFc/edit?usp=drive_link) as a guideline.
+      6. Practice! Your update should take no longer than 5 minutes
 ---
