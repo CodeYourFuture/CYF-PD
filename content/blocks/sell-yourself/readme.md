@@ -16,43 +16,6 @@ introduction: Training as a developer is a tough and demanding task. You have
   will work to make sure that you can do justice to yourself and demonstrate
   your effort, strengths and skills effectively.
 exercises:
-  - name: Networking practice
-    goal: Practice elevator pitches
-    time: 10
-    content: >-
-      Imagine you are at a networking event. Half of the class will be a
-      recruiter and the other half will be junior developers. Split yourselves
-      into two groups by forming a circle and assigning each person to the R and
-      D (Recruiter / Developer) teams one by one. Pick up a sticker, write on it
-      R or D according to your role, and pin the paper on your top. A volunteer
-      or one of the trainees should keep time.
-
-
-      1. Move around the room and mix for 15 seconds.
-
-      2. Stop and pair with someone with the opposite role. 
-
-      3. Developers introduce themselves using their elevator pitch.
-
-      4. After about a 1 minute long chat, start moving again.
-
-      5. Change pairs like this for 5 minutes.
-
-      6. Change roles.
-
-      7. Repeat the first 5 steps.
-
-
-      **Online version:**
-
-
-      You will need breakout rooms to accommodate all pairs, e.g. if there are 30 trainees in the class, there should be 15 breakout rooms.
-
-
-      Everyone writes their role before their names, e.g. Recruiter Emma, Developer John. Recruiters are assigned to rooms. Participants can move between rooms. During the first half, developers visit different rooms occupied by recruiters.
-
-
-      For the second half, participants change their roles (and rename themselves). Those with the recruiter roles stay in their rooms. Developers move around.
   - name: Brag for your pair
     time: 30
     goal: Express the strengths of another person
@@ -82,8 +45,11 @@ exercises:
       5. Why do you want to become a professional developer?
 
       6. What can you contribute to our team?
+
+
+      *Tips for facilitators:* Don’t worry if all questions aren't covered by the end of 15 minutes, stop there and change roles.
   - name: What is your value for a company?
-    time: 20
+    time: 30
     goal: Express own professional value
     content: >-
       Work as a class. Study [this job
