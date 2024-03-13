@@ -9,7 +9,7 @@ objectives:
   - Explain the difference between outputs, outcomes and impacts
   - Explain the difference between commercial value, efficiency value, market
     value, customer value and future value
-time: 45
+time: 60
 introduction: >-
   We don’t have jobs just to fill the time. We should focus our efforts on
   delivering as much value as we can. You don’t have to finish everything on
@@ -24,7 +24,7 @@ introduction: >-
   * Inputs → Effort → Outputs → Outcomes → Impact
 exercises:
   - name: Measuring Value
-    time: 15
+    time: 30
     goal: "To read and learn about measuring value: its outputs, outcomes, and
       impact."
     content: "* Read this
