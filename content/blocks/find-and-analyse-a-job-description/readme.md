@@ -9,7 +9,7 @@ skills:
 objectives:
   - List four things that help you understand whether a job posting is worth
     applying for
-time: 60
+time: 90
 introduction: >-
   There is a dance that happens between the hiring manager, an HR department,
   recruiters and you.  Your goal is to find a great job, and they want to find a
@@ -20,7 +20,7 @@ introduction: >-
   These exercises will help you understand job descriptions so that you don’t waste your time applying for the wrong opportunities and don’t miss what may be great opportunities.
 exercises:
   - name: Find a Job Description
-    time: 15
+    time: 30
     goal: Find a job posting that reasonably matches the kind of job you want.
     content: >-
       1. Pick one of your favourite job search engines.  Google, Indeed,
@@ -36,7 +36,7 @@ exercises:
 
       You will further analyse this job description in the next exercise.
   - name: Analyse Job Description
-    time: 30
+    time: 45
     goal: Consider how well the job matches your skills, how well the company
       interests you and whether or not there are any red flags.
     content: >-
