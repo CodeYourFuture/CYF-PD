@@ -10,7 +10,7 @@ objectives:
   - Create a checklist that defines what’s needed for an increment to be
     releasable at the end of a Sprint
 time: 60
-prep: Do the prep
+prep: ""
 introduction: >-
   Many software projects have failed because they only found out at the end of
   the project that what they delivered was not valuable to the customers.
@@ -19,7 +19,7 @@ introduction: >-
   We should constantly validate what we are developing so that if we have misunderstood expectations, we can resolve them earlier. And we can realise the value we deliver sooner rather than waiting for a risky “big bang” deployment.
 
 
-  The Agile Manifesto highlighted the importance of working software over comprehensive documentation as the primary measure of progress.
+  Agile software development highlights the importance of working software being more important than creating documentation, and that you can best measure the progress of a project by looking at how much software has been delivered and "done".
 
 
   The Scrum Guide (the leading interpretation of Agile) expects developers to agree on a Definition of Done, and to achieve “Done” for each item they work on in the backlog. This allows them to deliver an increment.
@@ -34,14 +34,12 @@ exercises:
       Work in small groups. 
 
 
-      Make a list of acceptance criteria you would expect to be “done” for every software development user story (backlog item). You can refer to the links in the Prep.
-
-
+      Make a list of acceptance criteria you would expect to be “done” for every software development user story (backlog item). You can refer to the Prep.
 
 
       * Did you identify all the achievements necessary to deliver working software to a customer?
 
-      * Did you add anything else which is not necessary?
+      * Did you add anything which is not necessary?
 
       * Did you consider testing, automation, documentation, integration, coding style, acceptance, etc?
 
@@ -49,7 +47,7 @@ exercises:
       After you have a list, join another small group and share your ideas with them. What did you miss out?
   - name: "Game: Anything but working software"
     time: 30
-    goal: Identify false alternatives to delivering valuable working software
+    goal: Identify incorrect options to delivering valuable working software
     content: >-
       Work in small groups. Each person should take on one of the following
       roles at a time:
@@ -70,11 +68,7 @@ exercises:
       * Product Owner trying to maximise “value”.
 
 
-
-
       You can have several people in the same role, and you can switch roles, so long as it’s clear what role you are playing at the time. Please caricature your role as a “Devil’s advocate”.
-
-
 
 
       Go around your group, taking turns.
@@ -82,7 +76,7 @@ exercises:
 
       * Propose something you could offer other than working software that is valuable or convenient for your role. For example, a video demo of the software. Or a specification of the product you are going to build.
 
-      * Propose how this is “more valuable” than working software from your point of view.
+      * Describe why this is *more valuable* than working software from your point of view.
 
       * The whole group should discuss if this is better or worse than delivering valuable working software. Sometimes the answer will be “yes”.
 ---
