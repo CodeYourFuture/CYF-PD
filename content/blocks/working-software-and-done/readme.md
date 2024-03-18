@@ -19,7 +19,7 @@ introduction: >-
   We should constantly validate what we are developing so that if we have misunderstood expectations, we can resolve them earlier. And we can realise the value we deliver sooner rather than waiting for a risky “big bang” deployment.
 
 
-  Agile software development highlights the importance of working software being more important than creating documentation, and that you can best measure the progress of a project by looking at how much software has been delivered and "done".
+  Agile software development highlights that working software is more important than documentation and other non-software deliverables, and that you must measure the progress of a project by looking at how much software has been delivered and "done".
 
 
   The Scrum Guide (the leading interpretation of Agile) expects developers to agree on a Definition of Done, and to achieve “Done” for each item they work on in the backlog. This allows them to deliver an increment.
