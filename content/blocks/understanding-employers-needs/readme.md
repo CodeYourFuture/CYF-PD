@@ -16,8 +16,9 @@ exercises:
     time: 40
     goal: To understand the employers’ perspective on hiring a Junior Developer
     content: >-
-      1. Read **two** sections in the article Why hire Junior Developers: Is it
-      even worth it?  
+      1. Read **two** sections in the article [Why hire Junior Developers: Is it
+      even worth
+      it?](https://blog.flutter.wtf/why-hire-junior-developers/#:~:text=Hiring%20junior%20developers%20can%20be,and%20methodologies%20the%20company%20uses.)  
 
 
       * Common Misconceptions about Junior Developers
