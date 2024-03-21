@@ -9,7 +9,7 @@ skills:
 objectives:
   - List three important steps to take when having difficult conversations with
     workplace colleagues
-time: 65
+time: 50
 introduction: >-
   We all find ourselves in situations where we have to have difficult
   conversations with our colleagues at work. Although these are usually
@@ -50,13 +50,14 @@ introduction: >-
   Sometimes, avoiding difficult conversations is the best route. We think we can ignore the inappropriate banter of colleagues. We make excuses for why someone else got the new position we felt we deserved. It feels easier to ignore the conflicts with others on our team. Wrong! These problems will continue to cause challenges if you avoid having a difficult conversation.
 exercises:
   - name: How to have difficult conversations at work
-    time: 15
+    time: 20
     goal: To get familiar with how to approach difficult conversations at work
-    content: "* Read this
-      [article.](https://www.psychologytoday.com/us/blog/some-assembly-required\
-      /201703/how-have-difficult-conversations)"
+    content: "* Read this [article on having difficult
+      conversations.](https://www.psychologytoday.com/us/blog/some-assembly-req\
+      uired/201703/how-have-difficult-conversations)"
   - name: How to lead tough conversations
     time: 30
     goal: To get familiar with how to lead tough conversations
-    content: "* Watch this [video.](https://www.youtube.com/watch?v=LZu16ZaLgJM)"
+    content: "* Watch this [video on leading tough
+      conversations](https://www.youtube.com/watch?v=LZu16ZaLgJM)"
 ---
