@@ -7,7 +7,7 @@ skills:
   - Employability
 objectives:
   - Describe three ways to build resilience
-time: 50
+time: 70
 prep: ""
 introduction: Learn background information about techniques to help yourself
   deal with adversity.
