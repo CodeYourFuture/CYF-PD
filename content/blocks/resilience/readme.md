@@ -40,9 +40,7 @@ exercises:
 
       4. Describe a changing topic in the world around you that you could either ignore or pro-actively deal with.
 
-      5. Identify an activity where you are currently stuck at a lower skill level but would need to try doing “[a new thing badly](https://www.impactinternational.com/blog/2022/09/failure-vulnerability-and-true-nature-change)” before you could move up a level. Discuss how you could deal with that.
-
-      6. Identify an activity you were reluctant to do (or do again) because you might fail. What is the worst that could happen?
+      5. Identify an activity you were reluctant to do (or do again) because you might fail. What is the worst that could happen?
   - name: Resilience scenarios
     time: 20
     goal: Recognise opportunities in challenges
