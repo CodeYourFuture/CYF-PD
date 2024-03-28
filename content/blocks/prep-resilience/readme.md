@@ -4,7 +4,7 @@ description: Prep to get familiar with Resilience
 modules: React
 week: "1"
 skills:
-  - Employability
+  - Confidence
 objectives:
   - Describe three ways to build resilience
 time: 70
