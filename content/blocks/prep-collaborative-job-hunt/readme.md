@@ -8,14 +8,14 @@ skills:
 objectives:
   - "In two sentences, explain why it is important to look for jobs
     collaboratively. "
-time: 10
+time: 20
 introduction: At CYF one of our greatest strengths is the community. To leverage
   this strength in job hunting, we work together. As a collective, it is easier
   to find and share job opportunities and help and support each other. Helping
   others doesn’t take anything away from you.
 exercises:
   - name: Collaborative Job Research Process
-    time: 10
+    time: 20
     goal: Get familiar with the process of collaborative job research, as you’ll do
       this in class.
     content: >-
