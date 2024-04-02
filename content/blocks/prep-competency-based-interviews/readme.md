@@ -110,4 +110,16 @@ exercises:
       **\
 
       Source**: [Junior Software Engineer (Media) Job in Hanworth (adzuna.co.uk)](https://www.adzuna.co.uk/jobs/details/2116505873?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+  - name: Write a resume summary
+    time: 30
+    goal: To write a resume summary
+    content: >-
+      **Write a resume summary:** 
+
+
+      * Review your general CV and start tailoring it to the needs of the job description from the previous exercise - focus only on the summary.
+
+      * It’s at the top of your resume, so it is one of the first things a hiring manager sees. Use it to showcase your most relevant skills and accomplishments based on the keywords you highlighted. 
+
+      * Include the job title to which you are applying, proving that this is a personalised CV.
 ---
