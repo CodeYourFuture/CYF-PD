@@ -1,5 +1,5 @@
 ---
-title: JD Hunting and Mock Interview
+title: Job Hunting and Mock Interview
 description: In this session, students will learn how to tailor their resumes
   based on the job description of the job they are aiming for.
 modules: Databases
@@ -21,7 +21,7 @@ introduction: Hiring managers may sort through hundreds of resumes for a single
   description.
 exercises:
   - name: Review a job description for a software engineer role
-    time: 30
+    time: 20
     goal: Learn how to identify key elements of the job description that can be used
       to highlight relevant skills and experiences in your resume.
     content: >-
@@ -29,7 +29,7 @@ exercises:
       prep and together do the following activities:
 
 
-      **1. Review the job description and discuss (20 minutes):** 
+      **Review the job description and discuss:** 
 
 
       * Understand employers' wants and the qualifications required to perform the job. 
@@ -41,18 +41,8 @@ exercises:
       * Look at the order of the responsibilities listed, as those mentioned first may be more of a priority for the employer. 
 
       * Mirror the employer's priorities when organising your resume - the first items they mention should be some of the first items you each mention on your CV.
-
-
-      **2. Write a resume summary (10 minutes):** 
-
-
-      * Review your general CV and start tailoring it to their needs - focus only on the summary.
-
-      * It’s at the top of your resume, so it is one of the first things a hiring manager sees. Use it to showcase your most relevant skills and accomplishments based on the keywords you highlighted. 
-
-      * Include the job title to which you are applying, proving that this is a personalised CV.
   - name: "Mock interview: Competency-based interviews using the job description"
-    time: 30
+    time: 40
     goal: Get prepared and comfortable with competency-based interviews.
     content: >-
       Trainees should pair up and practice interviewing each other. Use the job
