@@ -1,5 +1,5 @@
 ---
-title: Prep JD hunting and Mock Interview
+title: Prep Job Hunting and Mock Interview
 description: A competency-based interview is also known as a structured,
   behavioural, or situational interview. They will often feature some activity
   or task that will test a candidate’s ability to do what their CV and cover
@@ -22,12 +22,14 @@ introduction: >-
   Expect questions opening with 'Tell us about a time when you…', 'Give an example of…' or 'Describe how you…'.
 exercises:
   - name: Preparing for competency-based interviews
-    time: 120
+    time: 90
     goal: To prepare for competency-based interviews.
-    content: "* Read and complete the recommended exercises in this guide: [The
-      Ultimate Guide to Competency-Based Interviews as a Software
-      Engineer.](https://medium.com/swlh/the-ultimate-guide-to-competency-based\
-      -interviews-as-a-software-engineer-7e2e86b4e1ca)"
+    content: >-
+      * Read and complete the recommended exercises in this guide: [The Ultimate
+      Guide to Competency-Based Interviews as a Software
+      Engineer.](https://medium.com/swlh/the-ultimate-guide-to-competency-based-interviews-as-a-software-engineer-7e2e86b4e1ca)
+
+      * Create a spreadsheet for each of the two templates described in the article. For the first template, write about at least one project. For the second template, write at least one answer to each question.
   - name: Read this job description
     time: 30
     goal: Read the following job description thoroughly as you’ll need it in class
@@ -74,8 +76,6 @@ exercises:
       * You are motivated by challenges and continuous learning.
 
 
-
-
       **Required Skills:**
 
 
@@ -98,6 +98,13 @@ exercises:
       * We benefit everyone – we do all of this while striving for a culture that empowers every person to be the difference, at work and in our communities.
 
       * Colourful hair? Don't care. Tattoos? Show off your ink. Like polka dots? That's cool. Pop culture geek? Many of us are. Be you, with us! #WeAreTechComp
+
+
+
+
+
+
+      * P.S.: Try to identify key elements in the job description and think about how you can highlight your relevant skills and experiences in your CV. Remember to bring your printed CV to the class.
 
 
       **\
