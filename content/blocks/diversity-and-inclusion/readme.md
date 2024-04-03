@@ -9,7 +9,7 @@ skills:
   - Teamwork
 objectives:
   - Identify 2 coping methods against social exclusion
-  - Prepare a brief for an inclusive tech product
+  - Prepare a brief for an inclusive and accessible tech product
 time: 60
 prep: ""
 introduction: Statistics show that diverse teams are more innovative and perform
@@ -31,31 +31,27 @@ exercises:
 
 
       Volunteer for your group to share with rest of the class some coping methods against social exclusion your group has discussed. This should not take longer than 10 minutes, so make sure someone is keeping time.
-  - name: Inclusive products
+  - name: Inclusive and accessible products
     time: 30
-    goal: Prepare a brief for an inclusive tech product
+    goal: Prepare a brief for an inclusive and accessible tech product
     content: >-
       Diversity and inclusion in your team or working with stakeholders is
-      important. However, it is also very important when building a product.
+      important. However, it is also very important when building a product and
+      making it easily usable by as wide a user community as possible.
 
 
-
-      Work in small groups. Imagine that your group will develop a new tech product. Consider following questions:
-
+      Work in small groups. Imagine that your group will develop a new tech product. Consider the following questions:
 
 
+      1. How can you make sure that the product is as inclusive and accessible as possible?
 
-      1. How can you make sure that the product is as inclusive as possible?
+      2. What challenges can you experience when designing an inclusive and accessible product?
 
-      2. What challenges can you experience when designing an inclusive product?
+      3. What essential accessibility requirements should you take into consideration?
 
-      3. What challenges can you experience when developing an inclusive product?
+      4. What should you consider to ensure all team members feel included?
 
-      4. What essential accessibility requirements should you take into consideration?
+         Prepare a pitch for your product. Name a speaker for your group. They will share your pitch and explain how you will create an inclusive and accessible product. Groups will have a maximum of 2 minutes to present their pitch.
 
-      5. What should you consider to ensure all team members are feeling included?
-
-         Prepare a pitch for your product. Name a speaker for your group. They will share your pitch and explain how you are going to create an inclusive product. Groups will have maximum 2 minutes to present their pitch.
-
-         Ask someone to be the time keeper, so we don’t overrun our schedule.
+         Ask someone to be the timekeeper, so we don’t overrun our schedule.
 ---
