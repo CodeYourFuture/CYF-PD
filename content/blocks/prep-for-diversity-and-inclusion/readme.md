@@ -25,15 +25,12 @@ exercises:
       there are any notes. The additional resources at the end are optional.
 
 
-
-      Write your own one sentence definition for the following concepts. Try avoid using ChatGPT or similar to write them, so you can practise your English language skills too:
+      Make sure you understand all the following terms.  If not, go back and re-read that part of the slide deck.
 
 
       * Diversity
 
       * Inclusion
-
-      * Diversity in tech
 
       * Bias
 
@@ -49,18 +46,17 @@ exercises:
 
       * Homophobia
 
+      * Sympathy
+
       * Empathy
   - name: Accessible tech
     time: 30
     goal: Explain three situations where a tech product can be inaccessible
-    content: >-
-      Form small groups and organise an online call. Study [this slide
-      deck](https://docs.google.com/presentation/d/1BtO-x3KZHc_WVE27Cf92Iy_zWtpm0GKkLPd_FAGa_tc/edit?usp=sharing)
-      about accessibility in tech. Write down three situations where a tech
-      product can be inaccessible for certain users. Explain the situation, the
-      reason causing inaccessibility and offer solutions.
-
-
-
-      Reminder: Try writing the situations yourself, without using AI. Remember to check your Grammar.
+    content: When building good software, it is important to consider your users and
+      design your solution to have as good a user experience as possible, no
+      matter who they are. Read this [article about product accessibility and
+      inclusion](https://uxdesign.cc/inclusion-first-how-to-make-your-product-accessible-and-inclusive-b8ccbeb24b22).  Afterwards,
+      think about your most recent code and identify three or four things that
+      you could change to improve its accessibility for different user
+      communities.
 ---
