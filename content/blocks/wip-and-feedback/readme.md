@@ -12,7 +12,7 @@ objectives:
   - Explain the benefit of getting early customer feedback
   - Decide whether a task is a priority at a given time or not
 time: 60
-prep: Plenty of paper and pens
+prep: Plenty of paper and pens.
 introduction: Feedback is essential as it lets us know that our message has been
   properly expressed and therefore understood. It also gives us the chance to
   improve.
@@ -64,13 +64,9 @@ exercises:
       As a whole cohort, get together and discuss the following questions:
 
 
-
-
       1. Is it better that developers have a single task to focus on and complete, or a collection of jobs where they can show they are making progress on each one?  Why?
 
-      2. Is it better that developers have several small tasks for each sprint or a single large one that occupies the whole sprint?  Why?
+      2. When planning a new sprint, should a team only plan for the things it is confident it can deliver, or should they make sure they have enough work so that everyone will always be occupied?
 
-      3. When planning a new sprint, should a team only plan for the things it is confident it can deliver, or should they make sure they have enough work so that everyone will always be occupied?
-
-      4. When a new urgent piece of work is requested by a senior stakeholder halfway through a sprint, is it better to start working on it immediately or wait till the next sprint?  Why?
+      3. When a new urgent piece of work is requested by a senior stakeholder halfway through a sprint, is it better to start working on it immediately or wait till the next sprint?  Why?
 ---
