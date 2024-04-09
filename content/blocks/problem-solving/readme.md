@@ -7,43 +7,14 @@ skills:
   - Employability
   - Problem Solving
 objectives:
-  - List 3 requirements for an effective brainstorming session
   - Apply IDEA approach to solve a problem
 time: 60
 prep: Do the prep.
 introduction: Problem-solving techniques serve as a template to solve a variety
   of problems of different nature and complexity.
 exercises:
-  - name: Brainstorming technique
-    time: 30
-    goal: Learn how to use the Brainstorming technique to solve problems.
-    content: >-
-      Brainstorming is a group or individual creativity technique. It helps to
-      find a conclusion for a specific problem by gathering a list of ideas
-      spontaneously contributed by the member(s).
-
-
-      ﻿Form groups of 4 or 5 people. Read the following problem and follow the steps below:
-
-
-      “Your company is trying to beat a competitor to secure a contract renewal with a high-paying client, but the client is leaning towards your competitor. You have a short time to change their mind before they make the official decision.”
-
-
-      1. Come up with the dumbest/crazy ideas you can think of to address the problem. Write them all down. Ideally, use Post-its to stick all ideas on the wall or on an online board. 
-
-      2. Withhold criticism, there are no bad ideas!
-
-      3. Build on other people’s ideas. Listen to them first and then add “Yes and….!”.
-
-      4. Look for opportunities to combine ideas.
-
-      5. Now, group members should vote for the best 3 ideas. Do not vote for your own ideas! If the groups use Post-its, just put a dot with a marker on the top 3 ideas.
-
-      6. Now, pick the top 3 ideas with the most votes. If there is time and you want to improve these ideas further, go for another round using these top 3 ideas as a starting point to build on them. Look for gaps in these ideas and find ways to improve them until you have solid ideas to solve the problem.
-
-      7. 5-6 people from different groups to share their top ideas.
   - name: IDEA model to solve problems
-    time: 30
+    time: 60
     goal: Learn how to use the IDEA model to solve problems.
     content: >-
       **IDEA** is a simple yet effective four-step problem-solving process to
