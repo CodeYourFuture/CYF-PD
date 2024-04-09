@@ -1,5 +1,5 @@
 ---
-title: Prep WIP and Feedback
+title: "Prep for WIP "
 description: Play an online game where you manage a development team and want to
   deliver as much value as possible in 4 sprints of 10 working days each.
 modules: React
@@ -9,7 +9,7 @@ skills:
   - Time/Project Management
 objectives:
   - Describe 3 methods to increase the value of work
-time: 60
+time: 80
 introduction: >-
   Almost all professional development involves people with different skills
   working together to deliver the things their customers want: designers,
@@ -25,7 +25,7 @@ introduction: >-
   Notes: Work-in-progress, or WIP, refers to the amount of work in a process that has been started but not completely delivered. This can include both tasks that are actively being worked on, as well as tasks that are waiting in a queue somewhere for the next person to pick up.
 exercises:
   - name: Agile Game
-    time: 50
+    time: 60
     goal: Manage a simulated team to deliver as much value as possible to your
       customer in 4 sprints of 10 working days each.
     content: >-
@@ -65,4 +65,10 @@ exercises:
       2. Copy this [template spreadsheet](https://docs.google.com/spreadsheets/d/1k__Tgn8SxuoO1VWLQ4sVPqRo2BHdUxJzfc8kGpSLhe0/edit#gid=0) and fill in the names of you and your colleagues to create an even number of teams of 3-5 people each.  Decide who will be the facilitator who will tell people when to move on to the next part of the game.
 
       3. Post the spreadsheet on your Slack channel so everyone knows which team they are in.
+  - name: Read 'Design A Snack' instructions
+    time: 10
+    goal: To understand instructions before the class
+    content: Read the [instructions
+      ](https://cyf-curriculum.netlify.app/react/sprints/3/day-plan/#wip-and-feedback)of
+      'Design-A-Snack game' so you can do it easily in class.
 ---
