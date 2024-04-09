@@ -9,7 +9,7 @@ skills:
   - Problem Solving
 objectives:
   - Describe 3 problem solving methods
-time: 30
+time: 20
 introduction: Problem-solving skills are skills that enable people to handle
   unexpected situations or difficult challenges at work. This is an introduction
   to a few techniques on how to approach problems and solve them.
@@ -19,11 +19,6 @@ exercises:
     goal: To get familiar with the IDEA model to solve problems.
     content: "* Watch [this video](https://www.youtube.com/watch?v=QOjTJAFyNrU)
       which explains the IDEA model to solve problems."
-  - name: Brainstorming technique
-    time: 10
-    goal: To get familiar with the Brainstorming technique to solve problems.
-    content: "* Watch [this video](https://youtu.be/YXZamW4-Ysk?feature=shared),
-      which explains the Brainstorming technique to solve problems."
   - name: Design Thinking
     time: 10
     goal: To become familiar with the Design Thinking process to solve problems.
