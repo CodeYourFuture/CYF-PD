@@ -1,5 +1,5 @@
 ---
-title: "Prep for WIP "
+title: Prep for WIP-Work in Progress
 description: Play an online game where you manage a development team and want to
   deliver as much value as possible in 4 sprints of 10 working days each.
 modules: React
