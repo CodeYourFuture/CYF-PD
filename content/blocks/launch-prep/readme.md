@@ -46,7 +46,7 @@ exercises:
 
       * 3 or 4 Developers: these will be other trainees you might know.
 
-      * 1 [Tech Lead](https://docs.codeyourfuture.io/volunteers/teams-1/cyf-products-final-projects/roles/tech-lead): a volunteer who will support your team with the architecture and design of your product
+      * 1 [Tech Lead](https://docs.codeyourfuture.io/volunteers/teams-1/cyf-products-final-projects/roles/tech-lead-1): a volunteer who will support your team with the architecture and design of your product
 
       * 1 [Product Manager](https://docs.codeyourfuture.io/volunteers/teams-1/cyf-products-final-projects/roles/product-owner-cyf-product-or-product-manager-final-projects-1): a volunteer who will work with you to detail the scope and define the user stories
 
