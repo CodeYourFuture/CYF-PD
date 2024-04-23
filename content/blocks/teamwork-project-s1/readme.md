@@ -18,7 +18,7 @@ introduction: Collaborative software development equals higher-quality products
 exercises:
   - name: Brainstorm about teamwork in the tech industry.
     goal: Discuss teamwork in the tech industry.
-    time: 30
+    time: 35
     content: >-
       Think about the teams you will work with in tech. Discuss in your team:
 
@@ -45,7 +45,7 @@ exercises:
       3. Assign one of the team members as **speaker** to deliver your answers back to the class in maximum **2 minutes.**
   - goal: To discuss the importance of different roles in tech teams.
     name: Discuss the roles in a product team
-    time: 15
+    time: 10
     content: >-
       The following are the roles typically found within a development team. As
       you see, there are plenty of roles other than ‘Full-Stack Developer’.
@@ -89,7 +89,9 @@ exercises:
 
       * Why is it important for everybody on your team to understand the role each other plays?
 
-      * What happens when you are not clear about these two points?
+      * What is the importance of having clear ways of working?
+
+      * What happens when you are not clear about these three points?
 
 
       Spend the rest of your time clarifying any questions about the project and the coursework for the first week.
