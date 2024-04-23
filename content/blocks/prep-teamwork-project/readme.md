@@ -9,7 +9,7 @@ skills:
 objectives:
   - Explain the Teamwork Project structure and requirements
   - Describe different roles that can be found in a professional team
-time: 100
+time: 120
 prep: |-
   Your team must be defined beforehand and be composed of the following:
 
@@ -55,22 +55,6 @@ introduction: >-
 
   ![An image that shows the tasks per week for the Teamwork project. Week 1: Tech roles, Team goals, project board and product ideas. Week 2: Tech product, requirements, resolving conflicts. Week 3: MVP, Feature & user story, Team dynamics. Week 4: Presentations and retrospective](teamwork-project.png "Teamwork Project")
 exercises:
-  - content: 1. Prepare for the meeting by reading the Sprint 1-Day Plan yourself.
-      Make notes of questions or important information you think would be
-      essential to discuss with your team.
-    name: Prepare for your team meeting
-    time: 30
-    goal: Be prepared for the first meeting with your team
-  - name: Have a first meeting with your team
-    time: 60
-    goal: Understand the teamwork project
-    content: >-
-      1. Organise **or** attend the first call with your team
-
-      2. Discuss your understanding of the project, your questions and what you think you as a team should prepare for.
-
-
-      *PS: Do NOT discuss the day plan exercises. Otherwise, this will disrupt the lesson.*
   - content: >-
       This is an individual task.
 
@@ -84,4 +68,35 @@ exercises:
     name: Understand team roles
     time: 30
     goal: Reflect about team roles
+  - content: >-
+      1. One of you must organise the meeting. So agree or volunteer for it.
+      This should take you around 15 min.
+
+      2. Prepare for the first call with your team. Consider the below aspects (15 min)
+
+         * Your understanding of the project
+         * Your questions 
+         * What you think you as a team should prepare for
+
+      *PS: Do NOT discuss the day plan exercises. Otherwise, this will disrupt the lesson.*
+    name: Prepare for your team meeting
+    time: 30
+    goal: Be prepared for the first meeting with your team
+  - name: Have a first meeting with your team
+    time: 60
+    goal: Understand the teamwork project
+    content: >-
+      Agenda for this first meeting:
+
+
+      1. Discuss your understanding of the project
+
+
+      2. Discuss everyone's questions 
+
+
+      3. Define what you think you as a team should prepare for
+
+
+      *PS: Do NOT discuss the day plan exercises. Otherwise, this will disrupt the lesson.*
 ---
