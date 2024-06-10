@@ -16,7 +16,7 @@ introduction: You will work together through these exercises to ensure everyone
 exercises:
   - goal: To explain the product, MVP, feature, and user story concepts
     name: Discuss the theory you read about
-    time: 15
+    time: 20
     content: >-
       * Create a collaborative board with the following concepts
 
