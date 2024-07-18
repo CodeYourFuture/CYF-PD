@@ -10,11 +10,11 @@ collections:
     label: "Block"
     folder: "content/blocks"
     create: true
-    path: "{{slug}}/readme"
+    path: "{{slug}}/index"
     editor:
       preview: true
     fields:
-      - { label: "Title", name: "title", widget: "string", required: true }
+      - {label: "Title", name: "title", widget: "string", required: true}
       - {
           label: "Description",
           name: "description",
@@ -69,8 +69,8 @@ collections:
           label: "Objective"
           name: "objective"
           widget: "string"
-      - { label: "Time", name: "time", widget: "number", required: true }
-      - { label: "Prep", name: "prep", widget: "markdown", required: false }
+      - {label: "Time", name: "time", widget: "number", required: true}
+      - {label: "Prep", name: "prep", widget: "markdown", required: false}
       - {
           label: "Introduction",
           name: "introduction",
@@ -81,9 +81,9 @@ collections:
         name: "exercises"
         widget: "list"
         fields:
-          - { label: "Name", name: "name", widget: "string", required: true }
-          - { label: "Time", name: "time", widget: "number", required: true }
-          - { label: "Goal", name: "goal", widget: "string", required: true }
+          - {label: "Name", name: "name", widget: "string", required: true}
+          - {label: "Time", name: "time", widget: "number", required: true}
+          - {label: "Goal", name: "goal", widget: "string", required: true}
           - {
               label: "Content",
               name: "content",
