@@ -2,6 +2,3 @@
 public
 .hugo_build.lock
 resources
-.DS_Store
-**/.DS_Store
-node_modules
