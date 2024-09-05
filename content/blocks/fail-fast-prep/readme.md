@@ -20,7 +20,7 @@ exercises:
   - name: Failing fast
     content: >-
       * Read [this
-      piece](https://medium.com/agile-adapt/the-secret-to-failing-2778f930cc05)
+      piece](https://medium.com/@amitonline/failing-fast-embracing-failure-as-a-pathway-to-agile-success-e12a2f9b72cd)
       that will introduce you to the concept of failing fast and how this can be
       put into practice by using the Agile framework.
 
