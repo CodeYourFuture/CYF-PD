@@ -12,7 +12,7 @@ objectives:
     skills text
 time: 40
 prep: Must have done the [prep
-  work](https://cyf-pd.netlify.app/blocks/prep-transferable-skills/readme/)
+  work](https://cyf-pd.netlify.app/blocks/prep-transferable-skills/)
 introduction: In this session we will talk about our transferable skills.
 exercises:
   - name: Brainstorming about transferable skills
