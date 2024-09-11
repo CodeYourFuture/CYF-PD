@@ -9,7 +9,7 @@ objectives:
   - Describe 5 different ways we communicate non-verbally
   - Describe how the four elements of the STAR method are used in applying for
     jobs
-time: 80
+time: 60
 prep: ""
 introduction: >-
   Non-verbal communication is just as important as verbal communication. If we
@@ -22,7 +22,7 @@ introduction: >-
   It is good to be aware of how non-verbal communication differs from culture to culture. Certain gestures can have different meanings depending on who you are talking to. For example a ‘thumbs up’ means ‘good job or well done’ in Europe or America but in the Middle East it can mean ‘up yours’. In Western cultures, eye contact is a sign of interest and confidence, and doing otherwise gives the impression of disinterest. Whereas in many Middle Eastern countries eye contact between sexes is inappropriate and in many Asian areas it can be a sign of confrontation and aggression. These are just two differences among many, so keep those in mind when communicating with people from different backgrounds to yours.
 exercises:
   - name: 10 Types of Non-Verbal Communication
-    time: 45
+    time: 25
     goal: To get familiar with what non-verbal communication is.
     content: Read the article about [10 Types of Non-Verbal
       Communication](https://www.chanty.com/blog/non-verbal-communication/)
@@ -30,20 +30,14 @@ exercises:
     time: 20
     goal: To reflect on your own cultural differences.
     content: >-
-      <!--StartFragment-->
+      Read the article about [Cultural Differences in Body
+      Language](https://virtualspeech.com/blog/cultural-differences-in-body-language)
 
 
-      After reading both of the articles:
+      Come up with 5 cultural differences in body language/non-verbal communication that are specific to your culture.  Write down how other people have perceived this difference. 
 
 
-      * come up with 5 cultural differences in body language/non-verbal communication that are specific to your culture. 
-
-      * write down how other people perceived this difference. 
-
-
-
-
-      Bring them with you to the class so you can share them with other trainees.
+      Bring this with you to the class to share with other trainees.
   - name: STAR Method
     time: 15
     goal: To learn about the STAR Method.
