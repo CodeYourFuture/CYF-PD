@@ -10,7 +10,7 @@ skills:
 objectives:
   - Describe how short sprints combined with timely feedback can benefit team
     operations
-time: 60
+time: 45
 prep: >-
   Form into approximately equal-sized teams of between five and ten people each.
 
